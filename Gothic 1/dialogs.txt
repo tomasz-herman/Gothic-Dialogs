@@ -126,7 +126,7 @@ INFO_GRD_6_DASLAGER_WASISTAERGER_15_00.WAV;Strażnik;Bezimienny;Strażnik;Co mas
 INFO_GRD_6_DASLAGER_WASISTAERGER_06_01.WAV;Strażnik;Strażnik;Bezimienny;Większość Kopaczy płaci nam za ochronę.
 INFO_GRD_6_DASLAGER_WASISTAERGER_06_02.WAV;Strażnik;Strażnik;Bezimienny;Jak zaczepisz któregoś z nich, będziesz miał do czynienia z nami.
 INFO_GRD_6_DASLAGER_WASISTAERGER_06_03.WAV;Strażnik;Strażnik;Bezimienny;Jeśli złapię cię na grzebaniu w cudzych chatach...
-INFO_GRD_6_DASLAGER_WASISTAERGER_15_04.WAV;Strażnik;Bezimienny;hero;Dobrze, dobrze. Zrozumiałem aluzję.
+INFO_GRD_6_DASLAGER_WASISTAERGER_15_04.WAV;Strażnik;Bezimienny;Strażnik;Dobrze, dobrze. Zrozumiałem aluzję.
 INFO_GRD_6_DIELAGE_15_00.WAV;Strażnik;Bezimienny;Strażnik;Jak leci?
 INFO_GRD_6_DIELAGE_06_01.WAV;Strażnik;Strażnik;Bezimienny;Szukasz kłopotów?
 INFO_GRD_7_EINERVONEUCHWERDEN_15_00.WAV;Strażnik;Bezimienny;Strażnik;Co mam zrobić, żeby zostać jednym ze strażników Gomeza?
@@ -154,113 +154,113 @@ INFO_GRD_7_DASLAGER_BUDDLER_07_03.WAV;Strażnik;Strażnik;Bezimienny;Jak już ws
 INFO_GRD_7_DASLAGER_BUDDLER_07_04.WAV;Strażnik;Strażnik;Bezimienny;Wyglądasz mi na kogoś stworzonego do czegoś więcej niż machanie kilofem. Pogadaj z Thorusem, jeśli jeszcze tego nie zrobiłeś.
 INFO_GRD_7_DIELAGE_15_00.WAV;Strażnik;Bezimienny;Strażnik;Co słychać?
 INFO_GRD_7_DIELAGE_07_01.WAV;Strażnik;Strażnik;Bezimienny;O tobie? Nic. Dopóki nie dołączysz do któregoś z obozów, ludzie będą cię ignorowali, chłopcze.
-INFO_MINE_GRD_13_MINE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Co się dzieje w kopalni?
-INFO_MINE_GRD_13_MINE_13_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Kopalnia to serce Starego Obozu. Bez kopalni nie ma rudy. Bez rudy nie ma towarów od króla. Kapujesz?
-INFO_MINE_GRD_13_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Kto tu rządzi?
-INFO_MINE_GRD_13_WICHTIGEPERSONEN_13_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Asghan jest tu szefem, ale lepiej nie zawracaj mu głowy. Takimi jak ty zajmuje się Ian.
-INFO_MINE_GRD_13_DASLAGER_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Opowiedz mi o pełzaczach.
-INFO_MINE_GRD_13_DASLAGER_13_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Bractwo płaci Staremu Obozowi bagiennym zielem za prawo do polowania na pełzacze w kopalni.
-INFO_MINE_GRD_13_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Jak leci?
-INFO_MINE_GRD_13_DIELAGE_13_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Ach... Od wieków nie brałem udziału w żadnej rozróbie.
-INFO_MINE_GRD_6_MINE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Jak wygląda praca w kopalni?
-INFO_MINE_GRD_6_MINE_06_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Kopacze wydobywają tu rudę. A jak nie wydobywają, to dostają porządne baty.
-INFO_MINE_GRD_6_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Kto tu rządzi?
-INFO_MINE_GRD_6_WICHTIGEPERSONEN_06_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Szefem jest Asghan, ale to Ian organizuje takie rzeczy, jak ruda i Kopacze.
-INFO_MINE_GRD_6_MINECRAWLER_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Opowiedz mi o pełzaczach.
-INFO_MINE_GRD_6_MINECRAWLER_06_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Same kłopoty z tymi bestiami. Sam już nie wiem, z czym jest więcej roboty - z nimi czy z Kopaczami.
-INFO_MINE_GRD_6_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Jak leci?
-INFO_MINE_GRD_6_DIELAGE_06_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;A jak myślisz?
-INFO_MINE_GRD_7_MINE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Opowiedz mi o kopalni.
-INFO_MINE_GRD_7_MINE_07_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Kopacze wydobywają tu rudę, a my bronimy ich przed pełzaczami.
-INFO_MINE_GRD_7_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Kto tu rządzi?
-INFO_MINE_GRD_7_WICHTIGEPERSONEN_07_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Ian i Asghan. Jeśli szukasz czegoś konkretnego - lepiej pogadaj z nimi.
-INFO_MINE_GRD_7_MINECRAWLER_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Wiesz coś więcej o tych pełzaczach?
-INFO_MINE_GRD_7_MINECRAWLER_07_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Po mojemu, cały ten zwierzyniec należałoby wytępić raz a dobrze.
-INFO_MINE_GRD_7_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Jak się masz?
-INFO_MINE_GRD_7_DIELAGE_07_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Zaczynasz mnie denerwować, chłopcze.
-INFO_MINE_ORG_13_MINE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Opowiedz mi coś o tym obozie.
-INFO_MINE_ORG_13_MINE_13_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Ta dziura w ziemi pomoże nam się stąd wydostać. Jak tylko uzbieramy dość rudy, będziemy mieli gdzieś Stary Obóz.
-INFO_MINE_ORG_13_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Kto tu rządzi?
-INFO_MINE_ORG_13_WICHTIGEPERSONEN_13_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Okyl jest tu szefem.
-INFO_MINE_ORG_13_WICHTIGEPERSONEN_13_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Ale zwykle zostawia Szkodniki w spokoju.
-INFO_MINE_ORG_13_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Dobrze się czujesz?
-INFO_MINE_ORG_13_DIELAGE_13_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Nie gorzej niż wczoraj.
-INFO_MINE_ORG_6_MINE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Co się dzieje w kopalni?
-INFO_MINE_ORG_6_MINE_06_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;W kopalni? Kto tam siedzi - już nie wyjdzie. Kto nie siedzi - nie wejdzie.
-INFO_MINE_ORG_6_MINE_06_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Ciesz się, że cię tam nie ma.
-INFO_MINE_ORG_6_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Kto tu dowodzi?
-INFO_MINE_ORG_6_WICHTIGEPERSONEN_06_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Mi nikt nie rozkazuje, ale trzeba wiedzieć, jak do tego dojść.
-INFO_MINE_ORG_6_WICHTIGEPERSONEN_15_01.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;A ja ty to osiągnąłeś?
-INFO_MINE_ORG_6_WICHTIGEPERSONEN_06_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Tajemnica zawodowa. Ale między nami mówiąc - dla Szkodnika to żaden problem.
-INFO_MINE_ORG_6_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Nie wyglądasz mi na kogoś, kto by się przepracowywał.
-INFO_MINE_ORG_6_DIELAGE_06_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Ja, pracować? Jakby mi się chciało pracować, nie trafiłbym pod Barierę, kapujesz?
-INFO_MINE_ORG_7_MINE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Opowiedz mi o tym obozie.
-INFO_MINE_ORG_7_MINE_07_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Obóz? Masz na myśli Kocioł? Nie jest tu tak źle jak mówią. Krety wydobywają rudę, Najemnicy ich pilnują a my - Szkodniki - patrzymy im wszystkim na ręce.
-INFO_MINE_ORG_7_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;W takim razie kto tu rządzi?
-INFO_MINE_ORG_7_WICHTIGEPERSONEN_07_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;To zależy, od kogo przyjmujesz rozkazy.
-INFO_MINE_ORG_7_WICHTIGEPERSONEN_07_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;W każdym razie jak Okyl sobie czegoś zażyczy, lepiej mu nie odmawiać. Gdy się wkurzy, potrafi być bardzo nieprzyjemny.
-INFO_MINE_ORG_7_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Co słychać?
-INFO_MINE_ORG_7_DIELAGE_07_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Zaczynasz mnie denerwować, chłopcze.
-INFO_MINE_SLD_11_EINERVONEUCHWERDEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Jak mogę do was dołączyć?
-INFO_MINE_SLD_11_EINERVONEUCHWERDEN_011_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Jeśli chcesz być jednym z nas, musisz najpierw zasłużyć na odpowiednią reputację.
-INFO_MINE_SLD_11_EINERVONEUCHWERDEN_011_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Idź i udowodnij, co potrafisz, a może będziesz mógł pracować w Kotle.
-INFO_MINE_SLD_11_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Kto tu wydaje rozkazy?
-INFO_MINE_SLD_11_WICHTIGEPERSONEN_011_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;W Kotle rządzi Okyl. Ma kontakty ze wszystkimi szychami w Obozie.
-INFO_MINE_SLD_11_WICHTIGEPERSONEN_011_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;A jak zaczniesz sprawiać kłopoty, zajmą się tobą Magowie Wody z Nowego Obozu.
-INFO_MINE_SLD_11_DASLAGER_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Dzieje się tu coś szczególnie interesującego?
-INFO_MINE_SLD_11_DASLAGER_011_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Nic, ale jak spróbujesz czegoś głupiego będziesz miał poważne kłopoty.
-INFO_MINE_SLD_11_DASLAGER_011_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Zwłaszcza, jeśli spróbujesz dostać się do kopalni albo stróżówki bez pozwolenia.
-INFO_MINE_SLD_11_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Co słychać?
-INFO_MINE_SLD_11_DIELAGE_011_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Na razie cicho. Za cicho jak na mój gust.
-INFO_MINE_SLD_8_EINERVONEUCHWERDEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Co mam zrobić, żeby do was dołączyć?
-INFO_MINE_SLD_8_EINERVONEUCHWERDEN_08_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Jeśli chcesz pracować w Kotle musisz najpierw wyrobić sobie znajomości w Nowym Obozie.
-INFO_MINE_SLD_8_EINERVONEUCHWERDEN_08_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Po prostu idź tam i pogadaj z ludźmi.
-INFO_MINE_SLD_8_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Kto tu rządzi?
-INFO_MINE_SLD_8_WICHTIGEPERSONEN_08_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Okyl rozkazuje w Kotle, Lee rządzi w Obozie.
-INFO_MINE_SLD_8_WICHTIGEPERSONEN_08_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Najlepiej porozmawiaj z obydwoma.
-INFO_MINE_SLD_8_DASLAGER_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Co słychać w obozie?
-INFO_MINE_SLD_8_DASLAGER_08_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Pilnujemy wejścia do kopalni.
-INFO_MINE_SLD_8_DASLAGER_08_02.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Tylko nasi ludzie mogą wejść do środka.
-INFO_MINE_SLD_8_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Wszystko w porządku?
-INFO_MINE_SLD_8_DIELAGE_08_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Co się głupio pytasz? Wszystko pod kontrolą.
-INFO_MINE_VLK_1_MINE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Opowiedz mi o kopalni.
-INFO_MINE_VLK_1_MINE_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;W jaskiniach rosną różne grzyby i zioła. Da się to przełknąć, ale nie ma to jak soczysty kawał mięsa.
-INFO_MINE_VLK_1_MINE_01_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Pełzacze też nie należą do przysmaków. Cholerna nora!
-INFO_MINE_VLK_1_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Kto wami dowodzi?
-INFO_MINE_VLK_1_WICHTIGEPERSONEN_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Ian organizuje siłę roboczą i wymianę dóbr z obozem. Jeśli szukasz czegoś konkretnego, najlepiej pogadaj z nim.
-INFO_MINE_VLK_1_MINECRAWLER_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Co możesz mi powiedzieć o pełzaczach?
-INFO_MINE_VLK_1_MINECRAWLER_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Strażnicy Świątynni zawarli układ z Gomezem. Zabijają pełzacze, w zamian za co mogą zatrzymać ich wnętrzności.
-INFO_MINE_VLK_1_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Jak leci?
-INFO_MINE_VLK_1_DIELAGE_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Mnóstwo pracy, niewiele odpoczynku. Dlatego jeśli chcesz czegoś ode mnie, lepiej się streszczaj.
-INFO_MINE_VLK_2_MINE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Opowiedz mi o kopalni.
-INFO_MINE_VLK_2_MINE_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Jest jeszcze wiele jaskiń, gdzie zostało trochę rudy, ale pełzacze nie pozwalają nam w nich pracować.
-INFO_MINE_VLK_2_MINE_01_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Zbyt wiele napadów, zbyt poważne straty.
-INFO_MINE_VLK_2_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Kto może mieć tu coś do powiedzenia?
-INFO_MINE_VLK_2_WICHTIGEPERSONEN_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Wąż, jest hutnikiem. Wie wszystko o wytapianiu rudy. Zresztą chyba sam jest z żelaza - cały dzień spędza przed piecem. Nie mam pojęcia jak wytrzymuje ten żar.
-INFO_MINE_VLK_2_MINECRAWLER_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Co możesz mi powiedzieć o pełzaczach?
-INFO_MINE_VLK_2_MINECRAWLER_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Musieliśmy zamknąć wielki szyb na dole. Aż roi się w nim od pełzaczy.
-INFO_MINE_VLK_2_MINECRAWLER_01_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Pełzacze są tu wszędzie. Nie słyszysz ich? Bo ja słyszę.
-INFO_MINE_VLK_2_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Jak się masz?
-INFO_MINE_VLK_2_DIELAGE_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Muszę pracować. Jak strażnicy zobaczą, że z tobą rozmawiam, obetną mi racje.
-INFO_MINE_VLK_3_MINE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Opowiedz mi o kopalni.
-INFO_MINE_VLK_3_MINE_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Musimy pracować bez końca, nigdy nie oglądając światła dziennego. Stąd nie ma ucieczki innej niż śmierć.
-INFO_MINE_VLK_3_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Kto tu rządzi?
-INFO_MINE_VLK_3_WICHTIGEPERSONEN_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Ian pilnuje kopalni a Asghan jest dowódcą strażników.
-INFO_MINE_VLK_3_MINECRAWLER_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Co możesz mi powiedzieć o pełzaczach?
-INFO_MINE_VLK_3_MINECRAWLER_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Chcesz wiedzieć, co robić w przypadku spotkania z pełzaczem? Uciekaj. Uciekaj ile tylko sił w nogach!
-INFO_MINE_VLK_3_MINECRAWLER_01_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Jak zaginiesz, będziesz martwy. Tutaj nikt nie będzie po tobie płakał.
-INFO_MINE_VLK_3_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Jak leci?
-INFO_MINE_VLK_3_DIELAGE_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Pomyślmy: bolą mnie plecy, ręce mi odpadają, język przysycha mi do podniebienia i padam z wyczerpania.
-INFO_MINE_VLK_3_DIELAGE_01_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;A od tego ciągłego łoskotu powoli dostaję świra.
-INFO_MINE_VLK_4_MINE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Opowiedz mi o kopalni.
-INFO_MINE_VLK_4_MINE_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Kilofy i pot. To wszystko, co zapamiętasz po wyjściu na powierzchnię.
-INFO_MINE_VLK_4_MINE_01_02.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Ale jeszcze długo po twoim wyjściu ja wciąż będę tutaj, wyrywając okruchy rudy z kamiennych ścian. Taka moja praca.
-INFO_MINE_VLK_4_WICHTIGEPERSONEN_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Kto tu dowodzi?
-INFO_MINE_VLK_4_WICHTIGEPERSONEN_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Santino i Alberto wymieniają wydobytą przez nas rudę na różne rzeczy. Oni wydzielają nam racje żywnościowe.
-INFO_MINE_VLK_4_MINECRAWLER_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Co wiesz o pełzaczach?
-INFO_MINE_VLK_4_MINECRAWLER_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Jak zobaczysz któregoś z tych sukinsynów, przywal mu między ślepia kilofem. Tylko dobrze wyceluj - bo drugiej szansy już nie będziesz miał.
-INFO_MINE_VLK_4_DIELAGE_15_00.WAV;Strażnik kopalni;Bezimienny;Strażnik kopalni;Jak się masz?
-INFO_MINE_VLK_4_DIELAGE_01_01.WAV;Strażnik kopalni;Strażnik kopalni;Bezimienny;Bywało lepiej.
+INFO_MINE_GRD_13_MINE_15_00.WAV;Strażnik;Bezimienny;Strażnik;Co się dzieje w kopalni?
+INFO_MINE_GRD_13_MINE_13_01.WAV;Strażnik;Strażnik;Bezimienny;Kopalnia to serce Starego Obozu. Bez kopalni nie ma rudy. Bez rudy nie ma towarów od króla. Kapujesz?
+INFO_MINE_GRD_13_WICHTIGEPERSONEN_15_00.WAV;Strażnik;Bezimienny;Strażnik;Kto tu rządzi?
+INFO_MINE_GRD_13_WICHTIGEPERSONEN_13_01.WAV;Strażnik;Strażnik;Bezimienny;Asghan jest tu szefem, ale lepiej nie zawracaj mu głowy. Takimi jak ty zajmuje się Ian.
+INFO_MINE_GRD_13_DASLAGER_15_00.WAV;Strażnik;Bezimienny;Strażnik;Opowiedz mi o pełzaczach.
+INFO_MINE_GRD_13_DASLAGER_13_01.WAV;Strażnik;Strażnik;Bezimienny;Bractwo płaci Staremu Obozowi bagiennym zielem za prawo do polowania na pełzacze w kopalni.
+INFO_MINE_GRD_13_DIELAGE_15_00.WAV;Strażnik;Bezimienny;Strażnik;Jak leci?
+INFO_MINE_GRD_13_DIELAGE_13_01.WAV;Strażnik;Strażnik;Bezimienny;Ach... Od wieków nie brałem udziału w żadnej rozróbie.
+INFO_MINE_GRD_6_MINE_15_00.WAV;Strażnik;Bezimienny;Strażnik;Jak wygląda praca w kopalni?
+INFO_MINE_GRD_6_MINE_06_01.WAV;Strażnik;Strażnik;Bezimienny;Kopacze wydobywają tu rudę. A jak nie wydobywają, to dostają porządne baty.
+INFO_MINE_GRD_6_WICHTIGEPERSONEN_15_00.WAV;Strażnik;Bezimienny;Strażnik;Kto tu rządzi?
+INFO_MINE_GRD_6_WICHTIGEPERSONEN_06_01.WAV;Strażnik;Strażnik;Bezimienny;Szefem jest Asghan, ale to Ian organizuje takie rzeczy, jak ruda i Kopacze.
+INFO_MINE_GRD_6_MINECRAWLER_15_00.WAV;Strażnik;Bezimienny;Strażnik;Opowiedz mi o pełzaczach.
+INFO_MINE_GRD_6_MINECRAWLER_06_01.WAV;Strażnik;Strażnik;Bezimienny;Same kłopoty z tymi bestiami. Sam już nie wiem, z czym jest więcej roboty - z nimi czy z Kopaczami.
+INFO_MINE_GRD_6_DIELAGE_15_00.WAV;Strażnik;Bezimienny;Strażnik;Jak leci?
+INFO_MINE_GRD_6_DIELAGE_06_01.WAV;Strażnik;Strażnik;Bezimienny;A jak myślisz?
+INFO_MINE_GRD_7_MINE_15_00.WAV;Strażnik;Bezimienny;Strażnik;Opowiedz mi o kopalni.
+INFO_MINE_GRD_7_MINE_07_01.WAV;Strażnik;Strażnik;Bezimienny;Kopacze wydobywają tu rudę, a my bronimy ich przed pełzaczami.
+INFO_MINE_GRD_7_WICHTIGEPERSONEN_15_00.WAV;Strażnik;Bezimienny;Strażnik;Kto tu rządzi?
+INFO_MINE_GRD_7_WICHTIGEPERSONEN_07_01.WAV;Strażnik;Strażnik;Bezimienny;Ian i Asghan. Jeśli szukasz czegoś konkretnego - lepiej pogadaj z nimi.
+INFO_MINE_GRD_7_MINECRAWLER_15_00.WAV;Strażnik;Bezimienny;Strażnik;Wiesz coś więcej o tych pełzaczach?
+INFO_MINE_GRD_7_MINECRAWLER_07_01.WAV;Strażnik;Strażnik;Bezimienny;Po mojemu, cały ten zwierzyniec należałoby wytępić raz a dobrze.
+INFO_MINE_GRD_7_DIELAGE_15_00.WAV;Strażnik;Bezimienny;Strażnik;Jak się masz?
+INFO_MINE_GRD_7_DIELAGE_07_01.WAV;Strażnik;Strażnik;Bezimienny;Zaczynasz mnie denerwować, chłopcze.
+INFO_MINE_ORG_13_MINE_15_00.WAV;Szkodnik;Bezimienny;Szkodnik;Opowiedz mi coś o tym obozie.
+INFO_MINE_ORG_13_MINE_13_01.WAV;Szkodnik;Szkodnik;Bezimienny;Ta dziura w ziemi pomoże nam się stąd wydostać. Jak tylko uzbieramy dość rudy, będziemy mieli gdzieś Stary Obóz.
+INFO_MINE_ORG_13_WICHTIGEPERSONEN_15_00.WAV;Szkodnik;Bezimienny;Szkodnik;Kto tu rządzi?
+INFO_MINE_ORG_13_WICHTIGEPERSONEN_13_01.WAV;Szkodnik;Szkodnik;Bezimienny;Okyl jest tu szefem.
+INFO_MINE_ORG_13_WICHTIGEPERSONEN_13_02.WAV;Szkodnik;Szkodnik;Bezimienny;Ale zwykle zostawia Szkodniki w spokoju.
+INFO_MINE_ORG_13_DIELAGE_15_00.WAV;Szkodnik;Bezimienny;Szkodnik;Dobrze się czujesz?
+INFO_MINE_ORG_13_DIELAGE_13_01.WAV;Szkodnik;Szkodnik;Bezimienny;Nie gorzej niż wczoraj.
+INFO_MINE_ORG_6_MINE_15_00.WAV;Szkodnik;Bezimienny;Szkodnik;Co się dzieje w kopalni?
+INFO_MINE_ORG_6_MINE_06_01.WAV;Szkodnik;Szkodnik;Bezimienny;W kopalni? Kto tam siedzi - już nie wyjdzie. Kto nie siedzi - nie wejdzie.
+INFO_MINE_ORG_6_MINE_06_02.WAV;Szkodnik;Szkodnik;Bezimienny;Ciesz się, że cię tam nie ma.
+INFO_MINE_ORG_6_WICHTIGEPERSONEN_15_00.WAV;Szkodnik;Bezimienny;Szkodnik;Kto tu dowodzi?
+INFO_MINE_ORG_6_WICHTIGEPERSONEN_06_01.WAV;Szkodnik;Szkodnik;Bezimienny;Mi nikt nie rozkazuje, ale trzeba wiedzieć, jak do tego dojść.
+INFO_MINE_ORG_6_WICHTIGEPERSONEN_15_01.WAV;Szkodnik;Bezimienny;Szkodnik;A ja ty to osiągnąłeś?
+INFO_MINE_ORG_6_WICHTIGEPERSONEN_06_02.WAV;Szkodnik;Szkodnik;Bezimienny;Tajemnica zawodowa. Ale między nami mówiąc - dla Szkodnika to żaden problem.
+INFO_MINE_ORG_6_DIELAGE_15_00.WAV;Szkodnik;Bezimienny;Szkodnik;Nie wyglądasz mi na kogoś, kto by się przepracowywał.
+INFO_MINE_ORG_6_DIELAGE_06_01.WAV;Szkodnik;Szkodnik;Bezimienny;Ja, pracować? Jakby mi się chciało pracować, nie trafiłbym pod Barierę, kapujesz?
+INFO_MINE_ORG_7_MINE_15_00.WAV;Szkodnik;Bezimienny;Szkodnik;Opowiedz mi o tym obozie.
+INFO_MINE_ORG_7_MINE_07_01.WAV;Szkodnik;Szkodnik;Bezimienny;Obóz? Masz na myśli Kocioł? Nie jest tu tak źle jak mówią. Krety wydobywają rudę, Najemnicy ich pilnują a my - Szkodniki - patrzymy im wszystkim na ręce.
+INFO_MINE_ORG_7_WICHTIGEPERSONEN_15_00.WAV;Szkodnik;Bezimienny;Szkodnik;W takim razie kto tu rządzi?
+INFO_MINE_ORG_7_WICHTIGEPERSONEN_07_01.WAV;Szkodnik;Szkodnik;Bezimienny;To zależy, od kogo przyjmujesz rozkazy.
+INFO_MINE_ORG_7_WICHTIGEPERSONEN_07_02.WAV;Szkodnik;Szkodnik;Bezimienny;W każdym razie jak Okyl sobie czegoś zażyczy, lepiej mu nie odmawiać. Gdy się wkurzy, potrafi być bardzo nieprzyjemny.
+INFO_MINE_ORG_7_DIELAGE_15_00.WAV;Szkodnik;Bezimienny;Szkodnik;Co słychać?
+INFO_MINE_ORG_7_DIELAGE_07_01.WAV;Szkodnik;Szkodnik;Bezimienny;Zaczynasz mnie denerwować, chłopcze.
+INFO_MINE_SLD_11_EINERVONEUCHWERDEN_15_00.WAV;Najemnik;Bezimienny;Najemnik;Jak mogę do was dołączyć?
+INFO_MINE_SLD_11_EINERVONEUCHWERDEN_011_01.WAV;Najemnik;Najemnik;Bezimienny;Jeśli chcesz być jednym z nas, musisz najpierw zasłużyć na odpowiednią reputację.
+INFO_MINE_SLD_11_EINERVONEUCHWERDEN_011_02.WAV;Najemnik;Najemnik;Bezimienny;Idź i udowodnij, co potrafisz, a może będziesz mógł pracować w Kotle.
+INFO_MINE_SLD_11_WICHTIGEPERSONEN_15_00.WAV;Najemnik;Bezimienny;Najemnik;Kto tu wydaje rozkazy?
+INFO_MINE_SLD_11_WICHTIGEPERSONEN_011_01.WAV;Najemnik;Najemnik;Bezimienny;W Kotle rządzi Okyl. Ma kontakty ze wszystkimi szychami w Obozie.
+INFO_MINE_SLD_11_WICHTIGEPERSONEN_011_02.WAV;Najemnik;Najemnik;Bezimienny;A jak zaczniesz sprawiać kłopoty, zajmą się tobą Magowie Wody z Nowego Obozu.
+INFO_MINE_SLD_11_DASLAGER_15_00.WAV;Najemnik;Bezimienny;Najemnik;Dzieje się tu coś szczególnie interesującego?
+INFO_MINE_SLD_11_DASLAGER_011_01.WAV;Najemnik;Najemnik;Bezimienny;Nic, ale jak spróbujesz czegoś głupiego będziesz miał poważne kłopoty.
+INFO_MINE_SLD_11_DASLAGER_011_02.WAV;Najemnik;Najemnik;Bezimienny;Zwłaszcza, jeśli spróbujesz dostać się do kopalni albo stróżówki bez pozwolenia.
+INFO_MINE_SLD_11_DIELAGE_15_00.WAV;Najemnik;Bezimienny;Najemnik;Co słychać?
+INFO_MINE_SLD_11_DIELAGE_011_01.WAV;Najemnik;Najemnik;Bezimienny;Na razie cicho. Za cicho jak na mój gust.
+INFO_MINE_SLD_8_EINERVONEUCHWERDEN_15_00.WAV;Najemnik;Bezimienny;Najemnik;Co mam zrobić, żeby do was dołączyć?
+INFO_MINE_SLD_8_EINERVONEUCHWERDEN_08_01.WAV;Najemnik;Najemnik;Bezimienny;Jeśli chcesz pracować w Kotle musisz najpierw wyrobić sobie znajomości w Nowym Obozie.
+INFO_MINE_SLD_8_EINERVONEUCHWERDEN_08_02.WAV;Najemnik;Najemnik;Bezimienny;Po prostu idź tam i pogadaj z ludźmi.
+INFO_MINE_SLD_8_WICHTIGEPERSONEN_15_00.WAV;Najemnik;Bezimienny;Najemnik;Kto tu rządzi?
+INFO_MINE_SLD_8_WICHTIGEPERSONEN_08_01.WAV;Najemnik;Najemnik;Bezimienny;Okyl rozkazuje w Kotle, Lee rządzi w Obozie.
+INFO_MINE_SLD_8_WICHTIGEPERSONEN_08_02.WAV;Najemnik;Najemnik;Bezimienny;Najlepiej porozmawiaj z obydwoma.
+INFO_MINE_SLD_8_DASLAGER_15_00.WAV;Najemnik;Bezimienny;Najemnik;Co słychać w obozie?
+INFO_MINE_SLD_8_DASLAGER_08_01.WAV;Najemnik;Najemnik;Bezimienny;Pilnujemy wejścia do kopalni.
+INFO_MINE_SLD_8_DASLAGER_08_02.WAV;Najemnik;Bezimienny;Najemnik;Tylko nasi ludzie mogą wejść do środka.
+INFO_MINE_SLD_8_DIELAGE_15_00.WAV;Najemnik;Bezimienny;Najemnik;Wszystko w porządku?
+INFO_MINE_SLD_8_DIELAGE_08_01.WAV;Najemnik;Najemnik;Bezimienny;Co się głupio pytasz? Wszystko pod kontrolą.
+INFO_MINE_VLK_1_MINE_15_00.WAV;Kopacz;Bezimienny;Kopacz;Opowiedz mi o kopalni.
+INFO_MINE_VLK_1_MINE_01_01.WAV;Kopacz;Kopacz;Bezimienny;W jaskiniach rosną różne grzyby i zioła. Da się to przełknąć, ale nie ma to jak soczysty kawał mięsa.
+INFO_MINE_VLK_1_MINE_01_02.WAV;Kopacz;Kopacz;Bezimienny;Pełzacze też nie należą do przysmaków. Cholerna nora!
+INFO_MINE_VLK_1_WICHTIGEPERSONEN_15_00.WAV;Kopacz;Bezimienny;Kopacz;Kto wami dowodzi?
+INFO_MINE_VLK_1_WICHTIGEPERSONEN_01_01.WAV;Kopacz;Kopacz;Bezimienny;Ian organizuje siłę roboczą i wymianę dóbr z obozem. Jeśli szukasz czegoś konkretnego, najlepiej pogadaj z nim.
+INFO_MINE_VLK_1_MINECRAWLER_15_00.WAV;Kopacz;Bezimienny;Kopacz;Co możesz mi powiedzieć o pełzaczach?
+INFO_MINE_VLK_1_MINECRAWLER_01_01.WAV;Kopacz;Kopacz;Bezimienny;Strażnicy Świątynni zawarli układ z Gomezem. Zabijają pełzacze, w zamian za co mogą zatrzymać ich wnętrzności.
+INFO_MINE_VLK_1_DIELAGE_15_00.WAV;Kopacz;Bezimienny;Kopacz;Jak leci?
+INFO_MINE_VLK_1_DIELAGE_01_01.WAV;Kopacz;Kopacz;Bezimienny;Mnóstwo pracy, niewiele odpoczynku. Dlatego jeśli chcesz czegoś ode mnie, lepiej się streszczaj.
+INFO_MINE_VLK_2_MINE_15_00.WAV;Kopacz;Bezimienny;Kopacz;Opowiedz mi o kopalni.
+INFO_MINE_VLK_2_MINE_01_01.WAV;Kopacz;Kopacz;Bezimienny;Jest jeszcze wiele jaskiń, gdzie zostało trochę rudy, ale pełzacze nie pozwalają nam w nich pracować.
+INFO_MINE_VLK_2_MINE_01_02.WAV;Kopacz;Kopacz;Bezimienny;Zbyt wiele napadów, zbyt poważne straty.
+INFO_MINE_VLK_2_WICHTIGEPERSONEN_15_00.WAV;Kopacz;Bezimienny;Kopacz;Kto może mieć tu coś do powiedzenia?
+INFO_MINE_VLK_2_WICHTIGEPERSONEN_01_01.WAV;Kopacz;Kopacz;Bezimienny;Wąż, jest hutnikiem. Wie wszystko o wytapianiu rudy. Zresztą chyba sam jest z żelaza - cały dzień spędza przed piecem. Nie mam pojęcia jak wytrzymuje ten żar.
+INFO_MINE_VLK_2_MINECRAWLER_15_00.WAV;Kopacz;Bezimienny;Kopacz;Co możesz mi powiedzieć o pełzaczach?
+INFO_MINE_VLK_2_MINECRAWLER_01_01.WAV;Kopacz;Kopacz;Bezimienny;Musieliśmy zamknąć wielki szyb na dole. Aż roi się w nim od pełzaczy.
+INFO_MINE_VLK_2_MINECRAWLER_01_02.WAV;Kopacz;Kopacz;Bezimienny;Pełzacze są tu wszędzie. Nie słyszysz ich? Bo ja słyszę.
+INFO_MINE_VLK_2_DIELAGE_15_00.WAV;Kopacz;Bezimienny;Kopacz;Jak się masz?
+INFO_MINE_VLK_2_DIELAGE_01_01.WAV;Kopacz;Kopacz;Bezimienny;Muszę pracować. Jak strażnicy zobaczą, że z tobą rozmawiam, obetną mi racje.
+INFO_MINE_VLK_3_MINE_15_00.WAV;Kopacz;Bezimienny;Kopacz;Opowiedz mi o kopalni.
+INFO_MINE_VLK_3_MINE_01_01.WAV;Kopacz;Kopacz;Bezimienny;Musimy pracować bez końca, nigdy nie oglądając światła dziennego. Stąd nie ma ucieczki innej niż śmierć.
+INFO_MINE_VLK_3_WICHTIGEPERSONEN_15_00.WAV;Kopacz;Bezimienny;Kopacz;Kto tu rządzi?
+INFO_MINE_VLK_3_WICHTIGEPERSONEN_01_01.WAV;Kopacz;Kopacz;Bezimienny;Ian pilnuje kopalni a Asghan jest dowódcą strażników.
+INFO_MINE_VLK_3_MINECRAWLER_15_00.WAV;Kopacz;Bezimienny;Kopacz;Co możesz mi powiedzieć o pełzaczach?
+INFO_MINE_VLK_3_MINECRAWLER_01_01.WAV;Kopacz;Kopacz;Bezimienny;Chcesz wiedzieć, co robić w przypadku spotkania z pełzaczem? Uciekaj. Uciekaj ile tylko sił w nogach!
+INFO_MINE_VLK_3_MINECRAWLER_01_02.WAV;Kopacz;Kopacz;Bezimienny;Jak zaginiesz, będziesz martwy. Tutaj nikt nie będzie po tobie płakał.
+INFO_MINE_VLK_3_DIELAGE_15_00.WAV;Kopacz;Bezimienny;Kopacz;Jak leci?
+INFO_MINE_VLK_3_DIELAGE_01_01.WAV;Kopacz;Kopacz;Bezimienny;Pomyślmy: bolą mnie plecy, ręce mi odpadają, język przysycha mi do podniebienia i padam z wyczerpania.
+INFO_MINE_VLK_3_DIELAGE_01_02.WAV;Kopacz;Kopacz;Bezimienny;A od tego ciągłego łoskotu powoli dostaję świra.
+INFO_MINE_VLK_4_MINE_15_00.WAV;Kopacz;Bezimienny;Kopacz;Opowiedz mi o kopalni.
+INFO_MINE_VLK_4_MINE_01_01.WAV;Kopacz;Kopacz;Bezimienny;Kilofy i pot. To wszystko, co zapamiętasz po wyjściu na powierzchnię.
+INFO_MINE_VLK_4_MINE_01_02.WAV;Kopacz;Kopacz;Bezimienny;Ale jeszcze długo po twoim wyjściu ja wciąż będę tutaj, wyrywając okruchy rudy z kamiennych ścian. Taka moja praca.
+INFO_MINE_VLK_4_WICHTIGEPERSONEN_15_00.WAV;Kopacz;Bezimienny;Kopacz;Kto tu dowodzi?
+INFO_MINE_VLK_4_WICHTIGEPERSONEN_01_01.WAV;Kopacz;Kopacz;Bezimienny;Santino i Alberto wymieniają wydobytą przez nas rudę na różne rzeczy. Oni wydzielają nam racje żywnościowe.
+INFO_MINE_VLK_4_MINECRAWLER_15_00.WAV;Kopacz;Bezimienny;Kopacz;Co wiesz o pełzaczach?
+INFO_MINE_VLK_4_MINECRAWLER_01_01.WAV;Kopacz;Kopacz;Bezimienny;Jak zobaczysz któregoś z tych sukinsynów, przywal mu między ślepia kilofem. Tylko dobrze wyceluj - bo drugiej szansy już nie będziesz miał.
+INFO_MINE_VLK_4_DIELAGE_15_00.WAV;Kopacz;Bezimienny;Kopacz;Jak się masz?
+INFO_MINE_VLK_4_DIELAGE_01_01.WAV;Kopacz;Kopacz;Bezimienny;Bywało lepiej.
 INFO_NOV_2_EINERVONEUCHWERDEN_15_00.WAV;Nowicjusz;Bezimienny;Nowicjusz;Chcę do was dołączyć.
 INFO_NOV_2_EINERVONEUCHWERDEN_02_01.WAV;Nowicjusz;Nowicjusz;Bezimienny;Chcesz powiedzieć, że postanowiłeś służyć Śniącemu? Otwiera się przed tobą droga wiecznej szczęśliwości!
 INFO_NOV_2_EINERVONEUCHWERDEN_02_02.WAV;Nowicjusz;Nowicjusz;Bezimienny;Idź! Porozmawiaj z Cor Kalomem. On oceni, w jakich zadaniach najlepiej się sprawdzisz.
@@ -356,7 +356,7 @@ INFO_SFB_1_WICHTIGEPERSONEN_01_01.WAV;Kret;Kret;Bezimienny;Kto dowodzi? Rozejrzy
 INFO_SFB_1_DASLAGER_15_00.WAV;Kret;Bezimienny;Kret;Co to jest?
 INFO_SFB_1_DASLAGER_01_01.WAV;Kret;Kret;Bezimienny;A na co ci to wygląda? Królewski pałac?
 INFO_SFB_1_DASLAGER_01_02.WAV;Kret;Kret;Bezimienny;Jeśli naprawdę chcesz pracować w Wolnej Kopalni, musisz najpierw pokazać ludziom w Kotle, na co cię stać.
-INFO_SFB_1_DIELAGE_15_00.WAV;Kret;Bezimienny;hero;Co słychać?
+INFO_SFB_1_DIELAGE_15_00.WAV;Kret;Bezimienny;Kret;Co słychać?
 INFO_SFB_1_DIELAGE_01_01.WAV;Kret;Kret;Bezimienny;A jak myślisz? Fatalnie, jak zwykle zresztą. Nic do jedzenia a mnóstwo do zrobienia! Psia mać!
 INFO_SFB_1_DIELAGE_01_02.WAV;Kret;Kret;Bezimienny;Jedyną osobą, która się tu nie przepracowuje jest Swiney. Okyl awansował go na oficjalnego przedstawiciela Kretów. Teraz facet kręci się tu przez cały dzień, uważając żeby nie pobrudzić sobie rączek.
 INFO_SFB_2_EINERVONEUCHWERDEN_02_00.WAV;Kret;Kret;Bezimienny;Czego chcesz? Nie chcę mieć przez ciebie jakichś kłopotów.
@@ -1051,7 +1051,7 @@ GRD_211_SKIP_TRADE_INFO_15_01.WAV;Skip;Bezimienny;Skip;Przydałoby mi się kilka
 GRD_211_SKIP_TRADE_INFO_12_02.WAV;Skip;Skip;Bezimienny;Mam kilka drobiazgów na sprzedaż.
 GRD_211_SKIP_WELCOME_INFO_12_01.WAV;Skip;Skip;Bezimienny;Hej, daleko zaszedłeś, jak na kogoś, kto jest tu tak krótko.
 INFO_GRD_212_FIRSTWARN_INFO_13_01.WAV;Strażnik bramy;Strażnik bramy;Bezimienny;STÓJ!
-INFO_GRD_212_FIRSTWARN_INFO_15_02.WAV;Strażnik bramy;Bezimienny;hero;Co się dzieje?
+INFO_GRD_212_FIRSTWARN_INFO_15_02.WAV;Strażnik bramy;Bezimienny;Strażnik bramy;Co się dzieje?
 INFO_GRD_212_FIRSTWARN_INFO_13_03.WAV;Strażnik bramy;Strażnik bramy;Bezimienny;Nie wolno ci wejść do zamku bez pozwolenia. Wynoś się stąd!
 INFO_GRD_212_LASTWARN_13_01.WAV;Strażnik bramy;Strażnik bramy;Bezimienny;Ogłuchłeś? Jeszcze jeden krok a nakarmię tobą robaki!
 INFO_GRD_212_ABBLITZEN_15_00.WAV;Strażnik bramy;Bezimienny;Strażnik bramy;Muszę się dostać do zamku.
@@ -1065,7 +1065,7 @@ INFO_GRD_212_FIRSTIN_13_02.WAV;Strażnik bramy;Strażnik bramy;Bezimienny;Zapami
 INFO_GRD_212_PASSGATE_15_00.WAV;Strażnik bramy;Bezimienny;Strażnik bramy;Ale wciąż mogę wejść do środka?
 INFO_GRD_212_PASSGATE_13_01.WAV;Strażnik bramy;Strażnik bramy;Bezimienny;Pod warunkiem, że przestaniesz zadawać głupie pytania.
 INFO_GRD_213_FIRSTWARN_INFO_07_01.WAV;Strażnik bramy;Strażnik bramy;Bezimienny;STÓJ!
-INFO_GRD_213_FIRSTWARN_INFO_15_02.WAV;Strażnik bramy;Bezimienny;hero;Co się dzieje?
+INFO_GRD_213_FIRSTWARN_INFO_15_02.WAV;Strażnik bramy;Bezimienny;Strażnik bramy;Co się dzieje?
 INFO_GRD_213_FIRSTWARN_INFO_07_03.WAV;Strażnik bramy;Strażnik bramy;Bezimienny;Nie wolno ci wejść do zamku. Spadaj!
 INFO_GRD_213_LASTWARN_07_01.WAV;Strażnik bramy;Strażnik bramy;Bezimienny;Ogłuchłeś? Jeszcze jeden krok a nakarmię tobą robaki!
 GRD_213_TORWACHE_WELCOME_INFO_07_01.WAV;Strażnik bramy;Strażnik bramy;Bezimienny;Podobno jesteś teraz jednym z nas? Nieźle jak na kogoś, kto jest tu od niedawna.
@@ -1123,7 +1123,7 @@ DIA_GRD_218_FIRSTIN_07_04.WAV;Strażnik;Strażnik;Bezimienny;Zapytam. Jeśli ł�
 DIA_GRD_218_FIRSTIN_15_05.WAV;Strażnik;Bezimienny;Strażnik;Czy to znaczy, że mogę wejść?
 DIA_GRD_218_FIRSTIN_07_06.WAV;Strażnik;Strażnik;Bezimienny;Tak! Rusz się wreszcie!
 INFO_GRD_218_FIRSTWARN_INFO_07_01.WAV;Strażnik;Strażnik;Bezimienny;STÓJ! Ani kroku dalej!
-INFO_GRD_218_FIRSTWARN_INFO_15_02.WAV;Strażnik;Bezimienny;hero;Dlaczego?
+INFO_GRD_218_FIRSTWARN_INFO_15_02.WAV;Strażnik;Bezimienny;Strażnik bramy;Dlaczego?
 INFO_GRD_218_FIRSTWARN_INFO_07_03.WAV;Strażnik;Strażnik;Bezimienny;Takie łachudry jak ty nie mają wstępu do siedziby Magnatów!
 DIA_STONE_HELLO_15_00.WAV;Stone;Bezimienny;Stone;Jesteś kowalem, czyż nie?
 DIA_STONE_HELLO_06_01.WAV;Stone;Stone;Bezimienny;Racja.
@@ -1137,13 +1137,13 @@ GRD_219_STONE_GETSTUFF_INFO_06_03.WAV;Stone;Stone;Bezimienny;Jeszcze jeden, któ
 GRD_219_STONE_GETSTUFF_INFO_06_04.WAV;Stone;Stone;Bezimienny;Masz - weź tę broń i miecz. Witamy w straży.
 GRD_219_STONE_BETTERARMOR_INFO_15_01.WAV;Stone;Bezimienny;Stone;Chciałbym dostać lepszy pancerz.
 GRD_219_STONE_BETTERARMOR_INFO_06_02.WAV;Stone;Stone;Bezimienny;Dostaniesz go, jak przyjdzie czas, i będziesz miał wystarczającą ilość rudy...
-GRD_219_STONE_BETTERARMOR_INFO_M_15_01.WAV;Stone;Bezimienny;hero;Chciałbym dostać zwykły pancerz strażnika.
+GRD_219_STONE_BETTERARMOR_INFO_M_15_01.WAV;Stone;Bezimienny;Stone;Chciałbym dostać zwykły pancerz strażnika.
 GRD_219_STONE_BETTERARMOR_INFO_M_06_02.WAV;Stone;Stone;Bezimienny;Thorus powiedział, że musisz się sprawdzić jako Strażnik zanim dostaniesz lepszy pancerz!
 GRD_219_STONE_BETTERARMOR_INFO_M_06_03.WAV;Stone;Stone;Bezimienny;Mam na składzie odpowiednią zbroję, ale nie masz dość rudy. Wróć, kiedy będzie cię na nią stać!
 GRD_219_STONE_BETTERARMOR_INFO_M_06_04.WAV;Stone;Stone;Bezimienny;Dobra, masz tu swoją nową zbroję. Tylko nie pozwól, żeby Najemnicy ją porysowali. Ha ha ha!
-GRD_219_STONE_BETTERARMOR_INFO_H_15_01.WAV;Stone;Bezimienny;hero;Chciałbym dostać ciężką zbroję Strażnika.
+GRD_219_STONE_BETTERARMOR_INFO_H_15_01.WAV;Stone;Bezimienny;Stone;Chciałbym dostać ciężką zbroję Strażnika.
 GRD_219_STONE_BETTERARMOR_INFO_H_06_02.WAV;Stone;Stone;Bezimienny;Tylko najlepsi Strażnicy mogą je nosić, a obawiam się, że minie jeszcze trochę czasu zanim zostaniesz jednym z nich.
-GRD_219_STONE_BETTERARMOR_INFO_BACK_15_01.WAV;Stone;Bezimienny;hero;Rozmyśliłem się.
+GRD_219_STONE_BETTERARMOR_INFO_BACK_15_01.WAV;Stone;Bezimienny;Stone;Rozmyśliłem się.
 GRD_219_STONE_BETTERARMOR_INFO_BACK_06_02.WAV;Stone;Stone;Bezimienny;Jak uważasz. Wiesz, gdzie mnie znaleźć!
 INFO_EXIT_06_02.WAV;Inne;Inne;Bezimienny;Do zobaczenia.
 INFO_EXIT_06_03.WAV;Inne;Inne;Bezimienny;Do zobaczenia.
@@ -1177,14 +1177,14 @@ DIA_GRD_219_STONE7_15_01.WAV;Stone;Bezimienny;Stone;Potrzebuję czegoś, co zwi�
 DIA_GRD_219_STONE7_06_02.WAV;Stone;Stone;Bezimienny;...Zwiększy umiejętności magiczne, powiadasz? Może jakiś amulet! Tak, zrobię dla ciebie magiczny amulet. To nie potrwa długo.
 DIA_GRD_219_STONE7_06_03.WAV;Stone;Stone;Bezimienny;Dobra, amulet gotowy. Muszę przyznać, że wyszedł całkiem nieźle. Proszę, teraz jesteśmy kwita.
 INFO_PACHO_STOP_13_01.WAV;Pacho;Pacho;Bezimienny;Hej, ty!
-INFO_PACHO_STOP_15_02.WAV;Pacho;Bezimienny;hero;Kto? Ja?
+INFO_PACHO_STOP_15_02.WAV;Pacho;Bezimienny;Pacho;Kto? Ja?
 INFO_PACHO_STOP_13_03.WAV;Pacho;Pacho;Bezimienny;Nie, twoja babcia... Jasne, że ty!!!
 INFO_PACHO_STOP_13_04.WAV;Pacho;Pacho;Bezimienny;Na twoim miejscu nie szedłbym dalej!
-INFO_PACHO_STOP_15_05.WAV;Pacho;Bezimienny;hero;Dlaczego?
+INFO_PACHO_STOP_15_05.WAV;Pacho;Bezimienny;Pacho;Dlaczego?
 INFO_PACHO_STOP_13_06.WAV;Pacho;Pacho;Bezimienny;Widzę, że jesteś tu nowy, co?
 INFO_PACHO_STOP_13_07.WAV;Pacho;Pacho;Bezimienny;Stary, ta droga prowadzi na ziemie Orków...
 INFO_PACHO_STOP_13_08.WAV;Pacho;Pacho;Bezimienny;Zrobią z ciebie kotlety!
-INFO_PACHO_STOP_15_09.WAV;Pacho;Bezimienny;hero;Och!
+INFO_PACHO_STOP_15_09.WAV;Pacho;Bezimienny;Pacho;Och!
 INFO_PACHO_STOP_13_10.WAV;Pacho;Pacho;Bezimienny;Nie ma za co!
 INFO_BLOODWYN_EXIT_SCHUTZGELD_15_00.WAV;Bloodwyn;Bezimienny;Bloodwyn;Do zobaczenia.
 INFO_BLOODWYN_EXIT_SCHUTZGELD_08_01.WAV;Bloodwyn;Bloodwyn;Bezimienny;Trzymaj się, kolego.
@@ -1240,31 +1240,31 @@ GRD_233_BLOODWYN_WELCOME_INFO_08_01.WAV;Bloodwyn;Bloodwyn;Bezimienny;Teraz jeste
 INFO_BLOODWYN_DIE_08_01.WAV;Bloodwyn;Bloodwyn;Bezimienny;No proszę, toż to nasz zdrajca! A my cię uważaliśmy za jednego z nas.
 INFO_BLOODWYN_DIE_08_02.WAV;Bloodwyn;Bloodwyn;Bezimienny;Widzę, że przeoczyliśmy jednego z Magów Ognia!
 INFO_BLOODWYN_DIE_08_03.WAV;Bloodwyn;Bloodwyn;Bezimienny;To ten Cień, który nas zdradził!
-INFO_BLOODWYN_DIE_15_04.WAV;Bloodwyn;Bezimienny;hero;Zaraz! O czym ty mówisz, Bloodwyn?
+INFO_BLOODWYN_DIE_15_04.WAV;Bloodwyn;Bezimienny;Bloodwyn;Zaraz! O czym ty mówisz, Bloodwyn?
 INFO_BLOODWYN_DIE_08_05.WAV;Bloodwyn;Bloodwyn;Bezimienny;Spiknąłeś się z Nowym Obozem, tak?
-INFO_BLOODWYN_DIE_15_06.WAV;Bloodwyn;Bezimienny;hero;Nie, czekaj! Ja dalej...
+INFO_BLOODWYN_DIE_15_06.WAV;Bloodwyn;Bezimienny;Bloodwyn;Nie, czekaj! Ja dalej...
 INFO_BLOODWYN_DIE_08_07.WAV;Bloodwyn;Bloodwyn;Bezimienny;Co, myślałeś, że damy się tak łatwo wykiwać, hę?
-INFO_BLOODWYN_DIE_15_08.WAV;Bloodwyn;Bezimienny;hero;Przestań gadać od rzeczy...
+INFO_BLOODWYN_DIE_15_08.WAV;Bloodwyn;Bezimienny;Bloodwyn;Przestań gadać od rzeczy...
 INFO_BLOODWYN_DIE_08_09.WAV;Bloodwyn;Bloodwyn;Bezimienny;Zdrajcy tacy jak ty zasługują tylko na śmierć.
 INFO_BLOODWYN_DIE_08_10.WAV;Bloodwyn;Bloodwyn;Bezimienny;GIŃ!!!
 INFO_BLOODWYN_DIE_08_11.WAV;Bloodwyn;Bloodwyn;Bezimienny;Postanowiłeś zobaczyć, jak wygląda świat na zewnątrz Nowego Obozu, co? To był błąd!
 INFO_BLOODWYN_DIE_08_12.WAV;Bloodwyn;Bloodwyn;Bezimienny;No proszę, znudził ci się twój nowy dom na bagnach? Popełniłeś błąd przychodząc tutaj.
-INFO_BLOODWYN_DIE_15_13.WAV;Bloodwyn;Bezimienny;hero;Co? O co ci chodzi?!
+INFO_BLOODWYN_DIE_15_13.WAV;Bloodwyn;Bezimienny;Bloodwyn;Co? O co ci chodzi?!
 INFO_BLOODWYN_DIE_08_14.WAV;Bloodwyn;Bloodwyn;Bezimienny;Nie słyszałeś o ataku na waszą kopalnię?
-INFO_BLOODWYN_DIE_15_15.WAV;Bloodwyn;Bezimienny;hero;Chwileczkę...
+INFO_BLOODWYN_DIE_15_15.WAV;Bloodwyn;Bezimienny;Bloodwyn;Chwileczkę...
 INFO_BLOODWYN_DIE_08_16.WAV;Bloodwyn;Bloodwyn;Bezimienny;Przykro mi, ale nie możemy pozwolić, żebyś o tym komuś powiedział!
-INFO_BLOODWYN_DIE_15_17.WAV;Bloodwyn;Bezimienny;hero;Hej, nie chcę żadnych kłopotów...
+INFO_BLOODWYN_DIE_15_17.WAV;Bloodwyn;Bezimienny;Bloodwyn;Hej, nie chcę żadnych kłopotów...
 INFO_BLOODWYN_DIE_08_18.WAV;Bloodwyn;Bloodwyn;Bezimienny;Trzeba było o tym pomyśleć trochę wcześniej!
-INFO_BLOODWYN_DIE_15_19.WAV;Bloodwyn;Bezimienny;hero;Słuchaj, mam tego serdecznie dość...
+INFO_BLOODWYN_DIE_15_19.WAV;Bloodwyn;Bezimienny;Bloodwyn;Słuchaj, mam tego serdecznie dość...
 INFO_BLOODWYN_DIE_08_20.WAV;Bloodwyn;Bloodwyn;Bezimienny;Ja też! ZABIĆ GO!!!
 INFO_GRD_237_FIRSTWARN_07_01.WAV;Strażnik;Strażnik;Bezimienny;Lepiej stąd zmykaj. Za tą barykadą zaczynają się ziemie Orków!
-INFO_GRD_237_FIRSTWARN_15_02.WAV;Strażnik;Bezimienny;hero;Jest tu niebezpiecznie?
+INFO_GRD_237_FIRSTWARN_15_02.WAV;Strażnik;Bezimienny;Strażnik;Jest tu niebezpiecznie?
 INFO_GRD_237_FIRSTWARN_07_03.WAV;Strażnik;Strażnik;Bezimienny;Ujmę to tak: możesz równie dobrze oddać mi całą swoją rudę. Za kilka minut i tak nie będzie ci potrzebna, bo będziesz gryzł ziemię!
-INFO_GRD_237_FIRSTWARN_15_04.WAV;Strażnik;Bezimienny;hero;Chyba lepiej będzie, jeśli zawrócę.
+INFO_GRD_237_FIRSTWARN_15_04.WAV;Strażnik;Bezimienny;Strażnik;Chyba lepiej będzie, jeśli zawrócę.
 INFO_GRD_237_FIRSTWARN_07_05.WAV;Strażnik;Strażnik;Bezimienny;Szkoda, bardzo chętnie zająłbym się twoją rudą.
-INFO_GRD_237_FIRSTWARN_15_06.WAV;Strażnik;Bezimienny;hero;Jasne, oto moja ruda!
+INFO_GRD_237_FIRSTWARN_15_06.WAV;Strażnik;Bezimienny;Strażnik;Jasne, oto moja ruda!
 INFO_GRD_237_FIRSTWARN_07_07.WAV;Strażnik;Strażnik;Bezimienny;Ojej, jakie to szlachetne. Zaraz się rozpłaczę.
-INFO_GRD_237_FIRSTWARN_15_08.WAV;Strażnik;Bezimienny;hero;Chyba wolałbym tego nie robić.
+INFO_GRD_237_FIRSTWARN_15_08.WAV;Strażnik;Bezimienny;Strażnik;Chyba wolałbym tego nie robić.
 INFO_GRD_237_FIRSTWARN_07_09.WAV;Strażnik;Strażnik;Bezimienny;W takim razie ani kroku dalej!
 INFO_GRD_237_LASTWARN_07_01.WAV;Strażnik;Strażnik;Bezimienny;Ogłuchłeś? Jeszcze jeden krok a nakarmię tobą robaki!
 DIA_GRD_245_HELLO_15_00.WAV;Strażnik;Bezimienny;Strażnik;Co to za dom?
@@ -1362,31 +1362,31 @@ GRD_255_FLETCHER_WELCOME_INFO_06_01.WAV;Fletcher;Fletcher;Bezimienny;Widzę, że
 INFO_FLETCHER_DIE_06_01.WAV;Fletcher;Fletcher;Bezimienny;Zdrajco! I pomyśleć, że uważaliśmy cię za jednego z nas!
 INFO_FLETCHER_DIE_06_02.WAV;Fletcher;Fletcher;Bezimienny;To jeden z tych zdradzieckich Magów Ognia!
 INFO_FLETCHER_DIE_06_03.WAV;Fletcher;Fletcher;Bezimienny;Witaj, ZDRAJCO! Teraz nie pomogą ci nawet znajomości wśród Cieni!
-INFO_FLETCHER_DIE_15_04.WAV;Fletcher;Bezimienny;hero;O czym ty do diabła mówisz, Fletcher?
+INFO_FLETCHER_DIE_15_04.WAV;Fletcher;Bezimienny;Fletcher;O czym ty do diabła mówisz, Fletcher?
 INFO_FLETCHER_DIE_06_05.WAV;Fletcher;Fletcher;Bezimienny;Zadajesz się z tymi bandziorami z Nowego Obozu! A może nie?!
-INFO_FLETCHER_DIE_15_06.WAV;Fletcher;Bezimienny;hero;Zaczekaj...
+INFO_FLETCHER_DIE_15_06.WAV;Fletcher;Bezimienny;Fletcher;Zaczekaj...
 INFO_FLETCHER_DIE_06_07.WAV;Fletcher;Fletcher;Bezimienny;Myślałeś, że się nie domyślimy, co? CO?!
-INFO_FLETCHER_DIE_15_08.WAV;Fletcher;Bezimienny;hero;Hej... Postradałeś zmysły?!
+INFO_FLETCHER_DIE_15_08.WAV;Fletcher;Bezimienny;Fletcher;Hej... Postradałeś zmysły?!
 INFO_FLETCHER_DIE_06_09.WAV;Fletcher;Fletcher;Bezimienny;Ja? Ależ skąd. Za to TY za chwilę stracisz GŁOWĘ, kolego.
 INFO_FLETCHER_DIE_06_10.WAV;Fletcher;Fletcher;Bezimienny;GIŃ, ZDRAJCO!!!
 INFO_FLETCHER_DIE_06_11.WAV;Fletcher;Fletcher;Bezimienny;No proszę. To gość z Nowego Obozu!
 INFO_FLETCHER_DIE_06_12.WAV;Fletcher;Fletcher;Bezimienny;Patrzcie no. To gość z Sekty!
-INFO_FLETCHER_DIE_15_13.WAV;Fletcher;Bezimienny;hero;I co z tego? Masz z tym jakiś problem?
+INFO_FLETCHER_DIE_15_13.WAV;Fletcher;Bezimienny;Fletcher;I co z tego? Masz z tym jakiś problem?
 INFO_FLETCHER_DIE_06_14.WAV;Fletcher;Fletcher;Bezimienny;Mieć, to ja będę waszą małą kopalnię!
-INFO_FLETCHER_DIE_15_15.WAV;Fletcher;Bezimienny;hero;Czyżby? Chyba śnisz!
+INFO_FLETCHER_DIE_15_15.WAV;Fletcher;Bezimienny;Fletcher;Czyżby? Chyba śnisz!
 INFO_FLETCHER_DIE_06_16.WAV;Fletcher;Fletcher;Bezimienny;Przykro mi, ale nie możemy pozwolić, żebyś o tym komuś powiedział!
-INFO_FLETCHER_DIE_15_17.WAV;Fletcher;Bezimienny;hero;Zaczekaj, nie szukam kłopotów.
+INFO_FLETCHER_DIE_15_17.WAV;Fletcher;Bezimienny;Fletcher;Zaczekaj, nie szukam kłopotów.
 INFO_FLETCHER_DIE_06_18.WAV;Fletcher;Fletcher;Bezimienny;Trzeba było o tym pomyśleć zanim tutaj przyszedłeś!
-INFO_FLETCHER_DIE_15_19.WAV;Fletcher;Bezimienny;hero;Hej, co u...
+INFO_FLETCHER_DIE_15_19.WAV;Fletcher;Bezimienny;Fletcher;Hej, co u...
 INFO_FLETCHER_DIE_06_20.WAV;Fletcher;Fletcher;Bezimienny;Dalej chłopcy! Na niego!
-INFO_EXIT_INFO_15_01.WAV;Bezimienny;Bezimienny;hero;Do zobaczenia!
+INFO_EXIT_INFO_15_01.WAV;Bezimienny;Bezimienny;Inne;Do zobaczenia!
 GRD_260_DRAKE_GEFAHR_INFO_15_01.WAV;Drake;Bezimienny;Drake;Na co powinienem uważać w kopalni?
 GRD_260_DRAKE_GEFAHR_INFO_11_02.WAV;Drake;Drake;Bezimienny;Przede wszystkim na pełzacze. Groźne bestie.
 GRD_260_DRAKE_GEFAHR_INFO_11_03.WAV;Drake;Drake;Bezimienny;To przez nie musieliśmy zrezygnować z wydobycia w paru jaskiniach. Niestety, pożarły nam już sporą grupę Kopaczy.
 GRD_260_DRAKE_GEFAHR_INFO_15_04.WAV;Drake;Bezimienny;Drake;Opowiedz mi o pełzaczach.
 GRD_260_DRAKE_GEFAHR_INFO_11_05.WAV;Drake;Drake;Bezimienny;Wiesz, zaschło mi w ustach...
 GRD_260_DRAKE_GEFAHR_INFO_11_06.WAV;Drake;Drake;Bezimienny;Przynieś mi piwo, to ci opowiem o pełzaczach.
-GRD_260_DRAKE_CRAWLER_OKAY_15_01.WAV;Drake;Bezimienny;hero;Proszę, wypij moje zdrowie!
+GRD_260_DRAKE_CRAWLER_OKAY_15_01.WAV;Drake;Bezimienny;Drake;Proszę, wypij moje zdrowie!
 GRD_260_DRAKE_CRAWLER_OKAY_11_02.WAV;Drake;Drake;Bezimienny;Dzięki. A co do pełzaczy - żyją w dużych stadach, głównie w bocznych jaskiniach.
 GRD_260_DRAKE_CRAWLER_OKAY_11_03.WAV;Drake;Drake;Bezimienny;Jeszcze nigdy nie widziano ich tutaj, w głównym szybie. Gdybyś spotkał kiedyś pełzacza, wiej ile sił w nogach!
 GRD_260_DRAKE_CRAWLER_OKAY_11_04.WAV;Drake;Drake;Bezimienny;Albo stań plecami do ściany. W ten sposób będziesz miał jakąś szansę!
@@ -1748,10 +1748,10 @@ GUR_1202_CORANGAR_DEATH_INFO_08_07.WAV;Cor Angar;Cor Angar;Bezimienny;W gniewie 
 GUR_1202_CORANGAR_DEATH_INFO_15_08.WAV;Cor Angar;Bezimienny;Cor Angar;Niech to szlag! I jak teraz odzyskamy kamień ogniskujący?
 GUR_1202_CORANGAR_DEATH_INFO_08_09.WAV;Cor Angar;Cor Angar;Bezimienny;Zdaję się, że kamień i księga są wciąż w jego laboratorium. Masz tu klucz do skrzyni.
 INFO_CORANGAR_TELEPORT_08_01.WAV;Cor Angar;Cor Angar;Bezimienny;Jeszcze coś!
-INFO_CORANGAR_TELEPORT_15_02.WAV;Cor Angar;Bezimienny;hero;Tak?
+INFO_CORANGAR_TELEPORT_15_02.WAV;Cor Angar;Bezimienny;Cor Angar;Tak?
 INFO_CORANGAR_TELEPORT_08_03.WAV;Cor Angar;Cor Angar;Bezimienny;Weź tę magiczną runę jako symbol naszej wdzięczności za twoje dokonania.
 INFO_CORANGAR_TELEPORT_08_04.WAV;Cor Angar;Cor Angar;Bezimienny;Pozwoli ci ona w dogodnej chwili przeteleportować się na świątynny dziedziniec.
-INFO_CORANGAR_TELEPORT_15_05.WAV;Cor Angar;Bezimienny;hero;Dziękuję!
+INFO_CORANGAR_TELEPORT_15_05.WAV;Cor Angar;Bezimienny;Cor Angar;Dziękuję!
 DIA_BAALTONDRAL_FANATICTEACHER_13_00.WAV;Baal Tondral;Baal Tondral;Bezimienny;Nie wyglądasz mi na kogoś, kto chciałby nosić niewolnicze jarzmo nakładane ludziom przez Magnatów.
 DIA_BAALTONDRAL_FANATICTEACHER_13_01.WAV;Baal Tondral;Baal Tondral;Bezimienny;Myślę, że jesteś raczej poszukiwaczem - kimś, kto szuka prawdziwej wiary. Czy czujesz, jak ogień trawi twoje ciało podczas snu?
 DIA_BAALTONDRAL_FANATICTEACHER_13_02.WAV;Baal Tondral;Baal Tondral;Bezimienny;Widzę, że powątpiewasz w rzeczy opowiadane ci przez sługusów Magnatów. Przecież wiesz, dlaczego nie można im ufać, prawda? To kłamcy!
@@ -1795,7 +1795,7 @@ DIA_BAALNAMIB_FIRSTTALK_MUTE_15_00.WAV;Baal Namib;Bezimienny;Baal Namib;(Wzdycha
 DIA_BAALNAMIB_FIRSTTALK_MUTE_02_01.WAV;Baal Namib;Baal Namib;Bezimienny;Co takiego?
 DIA_BAALNAMIB_FIRSTTALK_SLEEPER_15_00.WAV;Baal Namib;Bezimienny;Baal Namib;Tak, chcę podążać drogą Śniącego!
 DIA_BAALNAMIB_FIRSTTALK_SLEEPER_02_01.WAV;Baal Namib;Baal Namib;Bezimienny;Idź do Cor Kaloma. Powiedz mu, że przysyłam cię do niego, bo widzę, iż twoja wiara jest szczera!
-GUR_1204_BAALNAMIB_ARMOR_INFO_15_01.WAV;Baal Namib;Bezimienny;hero;Chciałbym otrzymać lepszą zbroję.
+GUR_1204_BAALNAMIB_ARMOR_INFO_15_01.WAV;Baal Namib;Bezimienny;Baal Namib;Chciałbym otrzymać lepszą zbroję.
 GUR_1204_BAALNAMIB_ARMOR_INFO_02_02.WAV;Baal Namib;Baal Namib;Bezimienny;Minie jeszcze trochę czasu, zanim dane ci będzie nosić ciężką zbroję Nowicjusza.
 GUR_1204_BAALNAMIB_ARMOR_INFO_02_03.WAV;Baal Namib;Baal Namib;Bezimienny;Wróć, gdy uzbierasz trochę więcej rudy.
 GUR_1204_BAALNAMIB_ARMOR_INFO_02_04.WAV;Baal Namib;Baal Namib;Bezimienny;Ta zbroja chronić będzie twoje ciało, tak jak Śniący chroni twoją duszę!
@@ -1943,7 +1943,7 @@ INFO_BAALLUKOR_ALTAR_13_02.WAV;Baal Lukor;Baal Lukor;Bezimienny;NIE!
 INFO_BAALLUKOR_ALTAR_13_03.WAV;Baal Lukor;Baal Lukor;Bezimienny;PANIE, PRZEMÓW DO MNIE!!!
 INFO_BAALLUKOR_ALTAR_13_04.WAV;Baal Lukor;Baal Lukor;Bezimienny;ŚNIĄCY, UKAŻ SIĘ SWOJEMU SŁUDZE!
 INFO_BAALLUKOR_ALTAR_13_05.WAV;Baal Lukor;Baal Lukor;Bezimienny;NIEEE!!!
-INFO_BAALLUKOR_ALTAR_15_06.WAV;Baal Lukor;Bezimienny;hero;No to koniec. Teraz całkiem mu odbiło.
+INFO_BAALLUKOR_ALTAR_15_06.WAV;Baal Lukor;Bezimienny;Baal Lukor;No to koniec. Teraz całkiem mu odbiło.
 INFO_BAALLUKOR_ALTAR_13_07.WAV;Baal Lukor;Baal Lukor;Bezimienny;To wszystko twoja wina. Twoja bluźniercza obecność rozgniewała wszechmocnego Śniącego!
 INFO_BAALLUKOR_ALTAR_13_08.WAV;Baal Lukor;Baal Lukor;Bezimienny;Teraz ja będę musiał ponieść karę za twoje grzeszne czyny!
 INFO_BAALLUKOR_ALTAR_13_09.WAV;Baal Lukor;Baal Lukor;Bezimienny;Muszę złożyć ofiarę, aby przebłagać mego pana. OFIARĘ Z CZŁOWIEKA!!!
@@ -1953,7 +1953,7 @@ INFO_BAALLUKOR_ALTAR_13_12.WAV;Baal Lukor;Baal Lukor;Bezimienny;AIIIEEEEHHHHHH!!
 GUR_1212_MADCORKALOM_TALK2SC_10_01.WAV;Szalony Cor Kalom;Szalony Cor Kalom;Bezimienny;Nareszcie, znów się spotykamy!
 GUR_1212_MADCORKALOM_TALK2SC_10_02.WAV;Szalony Cor Kalom;Szalony Cor Kalom;Bezimienny;Mój pan uprzedził mnie o twoim przybyciu!
 GUR_1212_MADCORKALOM_TALK2SC_10_03.WAV;Szalony Cor Kalom;Szalony Cor Kalom;Bezimienny;On potrafi wyczuć, że jesteś w pobliżu!
-GUR_1212_MADCORKALOM_TALK2SC_15_04.WAV;Szalony Cor Kalom;Bezimienny;hero;Wkrótce znajdę się bliżej niego, niż mógłby sobie tego życzyć!
+GUR_1212_MADCORKALOM_TALK2SC_15_04.WAV;Szalony Cor Kalom;Bezimienny;Szalony Cor Kalom;Wkrótce znajdę się bliżej niego, niż mógłby sobie tego życzyć!
 GUR_1212_MADCORKALOM_TALK2SC_10_05.WAV;Szalony Cor Kalom;Szalony Cor Kalom;Bezimienny;Nie pozwolimy, byś pokrzyżował nasze plany.
 GUR_1212_MADCORKALOM_TALK2SC_10_06.WAV;Szalony Cor Kalom;Szalony Cor Kalom;Bezimienny;Świat doświadczy wkrótce przebudzenia wielkiego Odkupiciela i nikt nie jest w stanie temu zapobiec.
 GUR_1212_MADCORKALOM_TALK2SC_10_07.WAV;Szalony Cor Kalom;Szalony Cor Kalom;Bezimienny;Wszyscy niewierni zapłacą słoną cenę.
@@ -2072,72 +2072,72 @@ KDF_402_CORRISTO_HEAVYARMOR_INFO_14_03.WAV;Corristo;Corristo;Bezimienny;Nie masz
 KDF_402_CORRISTO_HEAVYARMOR_INFO_14_04.WAV;Corristo;Corristo;Bezimienny;Twój czas wreszcie nadszedł. Jesteś godzien, by nosić szatę Arcymaga Ognia.
 KDF_403_DRAGO_RUNE_INFO_13_01.WAV;Drago;Drago;Bezimienny;Przyjmij tę runę jako znak przychylności Innosa. Oby cię chroniła podczas marszu przez twą ścieżkę życia.
 INFO_XARDAS_DISTURB_14_01.WAV;Xardas;Xardas;Bezimienny;KTO ŚMIE PRZESZKADZAĆ MI W MOICH STUDIACH?
-INFO_XARDAS_DISTURB_15_02.WAV;Xardas;Bezimienny;hero;Nazywam się...
+INFO_XARDAS_DISTURB_15_02.WAV;Xardas;Bezimienny;Xardas;Nazywam się...
 INFO_XARDAS_DISTURB_14_03.WAV;Xardas;Xardas;Bezimienny;Nie interesuje mnie twoje imię. To nieistotne.
 INFO_XARDAS_DISTURB_14_04.WAV;Xardas;Xardas;Bezimienny;Liczy się tylko to, że jesteś pierwszą osobą od wielu lat, której udało się rozwiązać zagadkę Golemów.
-INFO_XARDAS_OTHERS_15_01.WAV;Xardas;Bezimienny;hero;Czy ktoś jeszcze tu zaglądał?
+INFO_XARDAS_OTHERS_15_01.WAV;Xardas;Bezimienny;Xardas;Czy ktoś jeszcze tu zaglądał?
 INFO_XARDAS_OTHERS_14_02.WAV;Xardas;Xardas;Bezimienny;Bardzo rzadko. Zwykle szybko zaczynali mnie irytować i nasyłałem na nich którąś z moich magicznych istot.
-INFO_XARDAS_OTHERS_15_03.WAV;Xardas;Bezimienny;hero;Wolisz wieść żywot samotnika, czyż nie?
-INFO_XARDAS_SATURAS_15_01.WAV;Xardas;Bezimienny;hero;Przysyła mnie Saturas. Potrzebujemy twojej pomocy!
-INFO_XARDAS_SATURAS_15_02.WAV;Xardas;Bezimienny;hero;Magowie Wody zamierzają zrobić użytek ze swojego kopca rudy.
+INFO_XARDAS_OTHERS_15_03.WAV;Xardas;Bezimienny;Xardas;Wolisz wieść żywot samotnika, czyż nie?
+INFO_XARDAS_SATURAS_15_01.WAV;Xardas;Bezimienny;Xardas;Przysyła mnie Saturas. Potrzebujemy twojej pomocy!
+INFO_XARDAS_SATURAS_15_02.WAV;Xardas;Bezimienny;Xardas;Magowie Wody zamierzają zrobić użytek ze swojego kopca rudy.
 INFO_XARDAS_SATURAS_14_03.WAV;Xardas;Xardas;Bezimienny;Detonacja wielkiej góry nie jest żadnym rozwiązaniem!
-INFO_XARDAS_SATURAS_15_04.WAV;Xardas;Bezimienny;hero;Nie jest?
+INFO_XARDAS_SATURAS_15_04.WAV;Xardas;Bezimienny;Xardas;Nie jest?
 INFO_XARDAS_SATURAS_14_05.WAV;Xardas;Xardas;Bezimienny;NIE!
-INFO_XARDAS_KDW_15_01.WAV;Xardas;Bezimienny;hero;Wszyscy Magowie Ognia zginęli!
-INFO_XARDAS_KDW_15_02.WAV;Xardas;Bezimienny;hero;Gomez kazał ich zamordować.
+INFO_XARDAS_KDW_15_01.WAV;Xardas;Bezimienny;Xardas;Wszyscy Magowie Ognia zginęli!
+INFO_XARDAS_KDW_15_02.WAV;Xardas;Bezimienny;Xardas;Gomez kazał ich zamordować.
 INFO_XARDAS_KDW_14_03.WAV;Xardas;Xardas;Bezimienny;Nie powiem, żebym był szczególnie zaskoczony. Tym durnym barbarzyńcom z zamku - z Gomezem na czele - nigdy nie można było ufać.
 INFO_XARDAS_KDW_14_04.WAV;Xardas;Xardas;Bezimienny;Pomagając Gomezowi w objęciu władzy, Corristo i inni sami kopali sobie grób.
-INFO_XARDAS_SLEEPER_15_01.WAV;Xardas;Bezimienny;hero;Tak zwany "Śniący" okazał się ponoć potężnym demonem zagłady.
-INFO_XARDAS_SLEEPER_15_02.WAV;Xardas;Bezimienny;hero;Przekonało się o tym Bractwo z obozu na bagnie.
-INFO_XARDAS_SLEEPER_15_03.WAV;Xardas;Bezimienny;hero;Magowie Wody uważają teraz, że cała kolonia znalazła się w śmiertelnym niebezpieczeństwie.
+INFO_XARDAS_SLEEPER_15_01.WAV;Xardas;Bezimienny;Xardas;Tak zwany "Śniący" okazał się ponoć potężnym demonem zagłady.
+INFO_XARDAS_SLEEPER_15_02.WAV;Xardas;Bezimienny;Xardas;Przekonało się o tym Bractwo z obozu na bagnie.
+INFO_XARDAS_SLEEPER_15_03.WAV;Xardas;Bezimienny;Xardas;Magowie Wody uważają teraz, że cała kolonia znalazła się w śmiertelnym niebezpieczeństwie.
 INFO_XARDAS_SLEEPER_14_04.WAV;Xardas;Xardas;Bezimienny;Stoimy przed poważniejszym zagrożeniem niż ktokolwiek wewnątrz Bariery jest w stanie sobie wyobrazić...
-INFO_XARDAS_DANGER_15_01.WAV;Xardas;Bezimienny;hero;Jeśli detonacja kopca rudy nie wystarczy, by zażegnać niebezpieczeństwo...
+INFO_XARDAS_DANGER_15_01.WAV;Xardas;Bezimienny;Xardas;Jeśli detonacja kopca rudy nie wystarczy, by zażegnać niebezpieczeństwo...
 INFO_XARDAS_DANGER_14_02.WAV;Xardas;Xardas;Bezimienny;...Zapomnij o tym całym kopcu! Jego potęga nie wystarczy, by przełamać Barierę.
 INFO_XARDAS_DANGER_14_03.WAV;Xardas;Xardas;Bezimienny;Gdyby Corristo i Saturas nie tracili cennego czasu na te swoje dziecinne spory, wiedzieliby teraz co należy zrobić.
-INFO_XARDAS_DANGER_15_04.WAV;Xardas;Bezimienny;hero;A co twoim zdaniem należy zrobić?
+INFO_XARDAS_DANGER_15_04.WAV;Xardas;Bezimienny;Xardas;A co twoim zdaniem należy zrobić?
 INFO_XARDAS_DANGER_14_05.WAV;Xardas;Xardas;Bezimienny;Żaden z dwunastu magów nie zadał sobie trudu, by zbadać z jakich przyczyn Bariera wymknęła się spod kontroli, ani dlaczego przybrała tak ogromne rozmiary.
-INFO_XARDAS_BARRIER_15_01.WAV;Xardas;Bezimienny;hero;A ty wiesz, co się stało, tak?
+INFO_XARDAS_BARRIER_15_01.WAV;Xardas;Bezimienny;Xardas;A ty wiesz, co się stało, tak?
 INFO_XARDAS_BARRIER_14_02.WAV;Xardas;Xardas;Bezimienny;Cóż, jedno jest pewne: odpowiedź spoczywa ukryta głęboko pod miastem Orków.
-INFO_XARDAS_BARRIER_15_03.WAV;Xardas;Bezimienny;hero;Miastem Orków?
+INFO_XARDAS_BARRIER_15_03.WAV;Xardas;Bezimienny;Xardas;Miastem Orków?
 INFO_XARDAS_BARRIER_14_04.WAV;Xardas;Xardas;Bezimienny;Orkowie to nie zwierzęta, choć wielu ludzi tak właśnie myśli. Ich kultura dorównuje wiekiem naszej.
 INFO_XARDAS_BARRIER_14_05.WAV;Xardas;Xardas;Bezimienny;Wiele stuleci temu, pięciu orkowych szamanów przywołało do tego świata potężnego demona, który miał im pomóc zdominować pozostałe klany.
-INFO_XARDAS_BARRIER_15_06.WAV;Xardas;Bezimienny;hero;Ten demon... To Śniący, prawda?
+INFO_XARDAS_BARRIER_15_06.WAV;Xardas;Bezimienny;Xardas;Ten demon... To Śniący, prawda?
 INFO_XARDAS_BARRIER_14_07.WAV;Xardas;Xardas;Bezimienny;Orkowie nadali mu to imię dużo później. Ale nie powiem ci dlaczego wybrali tę nazwę, ani dlaczego tak bardzo się go teraz boją!
-INFO_XARDAS_EVENT_15_01.WAV;Xardas;Bezimienny;hero;Dlaczego nie?
+INFO_XARDAS_EVENT_15_01.WAV;Xardas;Bezimienny;Xardas;Dlaczego nie?
 INFO_XARDAS_EVENT_14_02.WAV;Xardas;Xardas;Bezimienny;Myślę, że możesz być... NIE, aby mnie przekonać, musisz wykonać jeszcze jedno zadanie!
-INFO_XARDAS_EVENT_15_03.WAV;Xardas;Bezimienny;hero;Jakie zadanie?
+INFO_XARDAS_EVENT_15_03.WAV;Xardas;Bezimienny;Xardas;Jakie zadanie?
 INFO_XARDAS_EVENT_14_04.WAV;Xardas;Xardas;Bezimienny;Słuchaj uważnie: Orkowie wygnali z miasta jednego ze swoich szamanów.
-INFO_XARDAS_EVENTWHY_15_01.WAV;Xardas;Bezimienny;hero;Dlaczego?
+INFO_XARDAS_EVENTWHY_15_01.WAV;Xardas;Bezimienny;Xardas;Dlaczego?
 INFO_XARDAS_EVENTWHY_14_02.WAV;Xardas;Xardas;Bezimienny;Umierający Ork, którego kazałem przesłuchać moim demonom, nie był w stanie odpowiedzieć mi na to pytanie.
-INFO_XARDAS_EVENTHOW_15_01.WAV;Xardas;Bezimienny;hero;Co ten szaman ma wspólnego z moim zadaniem?
+INFO_XARDAS_EVENTHOW_15_01.WAV;Xardas;Bezimienny;Xardas;Co ten szaman ma wspólnego z moim zadaniem?
 INFO_XARDAS_EVENTHOW_14_02.WAV;Xardas;Xardas;Bezimienny;On opowie ci resztę historii związanej ze Śniącym.
-INFO_XARDAS_EVENTHOW_15_03.WAV;Xardas;Bezimienny;hero;Obawiam się, że Ork nie będzie zbyt chętny do zwierzeń w mojej obecności!
+INFO_XARDAS_EVENTHOW_15_03.WAV;Xardas;Bezimienny;Xardas;Obawiam się, że Ork nie będzie zbyt chętny do zwierzeń w mojej obecności!
 INFO_XARDAS_EVENTHOW_14_04.WAV;Xardas;Xardas;Bezimienny;Chcesz żebym ci pomógł, czy nie?
-INFO_XARDAS_EVENTHOW_15_05.WAV;Xardas;Bezimienny;hero;Tak, ale...
+INFO_XARDAS_EVENTHOW_15_05.WAV;Xardas;Bezimienny;Xardas;Tak, ale...
 INFO_XARDAS_EVENTHOW_14_06.WAV;Xardas;Xardas;Bezimienny;Więc nigdy więcej nie kwestionuj tego, co mówię!
 INFO_XARDAS_EVENTHOW_14_07.WAV;Xardas;Xardas;Bezimienny;Znajdź tego szamana. Nie pała miłością do swych braci z miasta Orków, więc może zgodzi się ciebie wysłuchać zanim zamieni cię w żywą pochodnię!
-INFO_XARDAS_EVENTHOW_15_08.WAV;Xardas;Bezimienny;hero;Bardzo pocieszające!
-INFO_XARDAS_EVENTWHERE_15_01.WAV;Xardas;Bezimienny;hero;Gdzie znajdę tego wygnanego szamana?
+INFO_XARDAS_EVENTHOW_15_08.WAV;Xardas;Bezimienny;Xardas;Bardzo pocieszające!
+INFO_XARDAS_EVENTWHERE_15_01.WAV;Xardas;Bezimienny;Xardas;Gdzie znajdę tego wygnanego szamana?
 INFO_XARDAS_EVENTWHERE_14_02.WAV;Xardas;Xardas;Bezimienny;Idź do starej cytadeli na wschodzie. Na pewno trafisz - znajduje się na szczycie wysokiej góry. Widać ją już z daleka.
-INFO_XARDAS_EVENTWHERE_15_03.WAV;Xardas;Bezimienny;hero;I mogę tak po prostu do niej wejść?
+INFO_XARDAS_EVENTWHERE_15_03.WAV;Xardas;Bezimienny;Xardas;I mogę tak po prostu do niej wejść?
 INFO_XARDAS_EVENTWHERE_14_04.WAV;Xardas;Xardas;Bezimienny;Mówią na nią stara cytadela, choć tak naprawdę to tylko sterta kamieni. Od wielu dziesięcioleci nikt tam nie zagląda.
-INFO_XARDAS_ACCEPT_15_01.WAV;Xardas;Bezimienny;hero;Porozmawiam z tym szamanem!
+INFO_XARDAS_ACCEPT_15_01.WAV;Xardas;Bezimienny;Xardas;Porozmawiam z tym szamanem!
 INFO_XARDAS_ACCEPT_14_02.WAV;Xardas;Xardas;Bezimienny;Mój sługa dał ci już magiczną runę uaktywniającą pentagram piętro niżej.
 INFO_XARDAS_ACCEPT_14_03.WAV;Xardas;Xardas;Bezimienny;W ten sposób będziesz mógł wrócić do mnie natychmiast po wykonaniu zadania.
 KDF_404_XARDAS_SELLMAGICSTUFF_INFO_15_01.WAV;Xardas;Bezimienny;Xardas;Poszukuję wiedzy magicznej.
-INFO_XARDAS_RETURN_15_01.WAV;Xardas;Bezimienny;hero;Rozmawiałem z szamanem Orków.
+INFO_XARDAS_RETURN_15_01.WAV;Xardas;Bezimienny;Xardas;Rozmawiałem z szamanem Orków.
 INFO_XARDAS_RETURN_14_02.WAV;Xardas;Xardas;Bezimienny;Świetnie! Czego się dowiedziałeś?
-INFO_XARDAS_RETURN_15_03.WAV;Xardas;Bezimienny;hero;Pięciu szamanów, którzy przywołali Śniącego, wybudowało dla niego podziemną świątynię. Wejście do niej znajduje się w mieście Orków.
+INFO_XARDAS_RETURN_15_03.WAV;Xardas;Bezimienny;Xardas;Pięciu szamanów, którzy przywołali Śniącego, wybudowało dla niego podziemną świątynię. Wejście do niej znajduje się w mieście Orków.
 INFO_XARDAS_RETURN_14_04.WAV;Xardas;Xardas;Bezimienny;Zgadza się!
-INFO_XARDAS_RETURN_15_05.WAV;Xardas;Bezimienny;hero;Miast okazać wdzięczność, Śniący wyrwał ich serca i skazał ich, oraz wszystkich, którzy pracowali przy budowie na wieczne potępienie, zamieniając ich w Ożywieńców!
+INFO_XARDAS_RETURN_15_05.WAV;Xardas;Bezimienny;Xardas;Miast okazać wdzięczność, Śniący wyrwał ich serca i skazał ich, oraz wszystkich, którzy pracowali przy budowie na wieczne potępienie, zamieniając ich w Ożywieńców!
 INFO_XARDAS_RETURN_14_06.WAV;Xardas;Xardas;Bezimienny;Doskonale, doskonale!
-INFO_XARDAS_RETURN_15_07.WAV;Xardas;Bezimienny;hero;Orkowie zapieczętowali wejście do świątyni i próbowali przebłagać demona składając mu ofiary!
+INFO_XARDAS_RETURN_15_07.WAV;Xardas;Bezimienny;Xardas;Orkowie zapieczętowali wejście do świątyni i próbowali przebłagać demona składając mu ofiary!
 INFO_XARDAS_RETURN_14_08.WAV;Xardas;Xardas;Bezimienny;Znalazłeś sposób na dostanie się do świątyni?
-INFO_XARDAS_RETURN_15_09.WAV;Xardas;Bezimienny;hero;Tak, jest pewien Ork, który...
+INFO_XARDAS_RETURN_15_09.WAV;Xardas;Bezimienny;Xardas;Tak, jest pewien Ork, który...
 INFO_XARDAS_RETURN_14_10.WAV;Xardas;Xardas;Bezimienny;Żadnych szczegółów! Udaj się do podziemnej świątyni. Tam znajdziesz jedyny sposób na zniszczenie Bariery!
-INFO_XARDAS_RETURN_15_11.WAV;Xardas;Bezimienny;hero;Nic nie rozumiem!
+INFO_XARDAS_RETURN_15_11.WAV;Xardas;Bezimienny;Xardas;Nic nie rozumiem!
 INFO_XARDAS_RETURN_14_12.WAV;Xardas;Xardas;Bezimienny;Poprosiłeś mnie o pomoc w zniszczeniu Bariery, tak czy nie?!
-INFO_XARDAS_RETURN_15_13.WAV;Xardas;Bezimienny;hero;Tak, ale...
+INFO_XARDAS_RETURN_15_13.WAV;Xardas;Bezimienny;Xardas;Tak, ale...
 INFO_XARDAS_RETURN_14_14.WAV;Xardas;Xardas;Bezimienny;WIĘC IDŹ! Zmarnowano już dość czasu! Idź do podziemnej świątyni! Tam znajdziesz odpowiedź!
 INFO_XARDAS_FOUNDTEMPLE_15_01.WAV;Xardas;Bezimienny;Xardas;Znalazłem drogę do podziemnej świątyni!
 INFO_XARDAS_FOUNDTEMPLE_14_02.WAV;Xardas;Xardas;Bezimienny;ZNALAZŁEŚ... To niesamowite!
@@ -2344,17 +2344,17 @@ INFO_SATURAS_ACCEPT_14_07.WAV;Saturas;Saturas;Bezimienny;Weź tę magiczną run�
 INFO_SATURAS_ACCEPT_14_08.WAV;Saturas;Saturas;Bezimienny;Dzięki jej pomocy będzie mógł przeteleportować się do tej komnaty, nie przechodząc przez posterunki straży.
 INFO_SATURAS_ACCEPT_14_09.WAV;Saturas;Saturas;Bezimienny;Mam nadzieję, że to przekona naszych dawnych przyjaciół o szczerości naszych intencji.
 INFO_SATURAS_AMBUSH_14_01.WAV;Saturas;Saturas;Bezimienny;Cieszę się, że wróciłeś. Stało się coś strasznego!
-INFO_SATURAS_AMBUSH_15_02.WAV;Saturas;Bezimienny;hero;Niech zgadnę: Wolna Kopalnia została zaatakowana przez Strażników ze Starego Obozu, którzy niespodziewanie wyrośli jak spod ziemi?
+INFO_SATURAS_AMBUSH_15_02.WAV;Saturas;Bezimienny;Saturas;Niech zgadnę: Wolna Kopalnia została zaatakowana przez Strażników ze Starego Obozu, którzy niespodziewanie wyrośli jak spod ziemi?
 INFO_SATURAS_AMBUSH_14_03.WAV;Saturas;Saturas;Bezimienny;Zaraz... Jak... Ależ oczywiście! Dowiedziałeś się o tym w Starym Obozie!
 INFO_SATURAS_AMBUSH_14_04.WAV;Saturas;Saturas;Bezimienny;Gorn zjawił się tutaj tuż przed tobą.
 INFO_SATURAS_AMBUSH_14_05.WAV;Saturas;Saturas;Bezimienny;Co mogło skłonić Gomeza do podjęcia tak drastycznych działań?
 INFO_SATURAS_AMBUSH_14_06.WAV;Saturas;Saturas;Bezimienny;Przecież musiał zdawać sobie sprawę, że ten napad stanowi wypowiedzenie wojny.
-INFO_SATURAS_COLLAPSE_15_01.WAV;Saturas;Bezimienny;hero;Stara Kopalnia została zalana przez podziemną rzekę!
+INFO_SATURAS_COLLAPSE_15_01.WAV;Saturas;Bezimienny;Saturas;Stara Kopalnia została zalana przez podziemną rzekę!
 INFO_SATURAS_COLLAPSE_14_02.WAV;Saturas;Saturas;Bezimienny;...Zalana... Naturalnie... Teraz zaczynam rozumieć...
 INFO_SATURAS_COLLAPSE_14_03.WAV;Saturas;Saturas;Bezimienny;Gomez został przyparty do muru. Jest teraz jeszcze groźniejszy niż kiedyś. Nie ma nic do stracenia, więc stał się całkowicie nieobliczalny!
-INFO_SATURAS_MURDER_15_01.WAV;Saturas;Bezimienny;hero;Gomez wymordował wszystkich Magów Ognia!
+INFO_SATURAS_MURDER_15_01.WAV;Saturas;Bezimienny;Saturas;Gomez wymordował wszystkich Magów Ognia!
 INFO_SATURAS_MURDER_14_02.WAV;Saturas;Saturas;Bezimienny;WYMORDOWAŁ?!? Na Beliara, czemu miałby zrobić coś takiego?!
-INFO_SATURAS_MURDER_15_03.WAV;Saturas;Bezimienny;hero;Magowie sprzeciwili się atakowi na Wolną Kopalnię, a tym samym stanęli Gomezowi na drodze.
+INFO_SATURAS_MURDER_15_03.WAV;Saturas;Bezimienny;Saturas;Magowie sprzeciwili się atakowi na Wolną Kopalnię, a tym samym stanęli Gomezowi na drodze.
 INFO_SATURAS_MURDER_14_04.WAV;Saturas;Saturas;Bezimienny;Zatem jesteśmy zgubieni. Bez pomocy pozostałych sześciu magów nie uda się nam zapanować nad energią wyzwoloną podczas detonacji kopca.
 INFO_SATURAS_MURDER_14_05.WAV;Saturas;Saturas;Bezimienny;Mimo wszystko, dziękuję ci za dostarczenie tych przykrych wieści. Wróg już nas nie zaskoczy.
 KDW_600_SATURAS_NOMOREOC_INFO_15_01.WAV;Saturas;Bezimienny;Saturas;Wygnano mnie ze Starego Obozu za to, że wam pomogłem!
@@ -2367,7 +2367,7 @@ KDW_600_SATURAS_OATH_INFO_14_02.WAV;Saturas;Saturas;Bezimienny;Jeszcze nie. Najp
 KDW_600_SATURAS_OATH_INFO_15_03.WAV;Saturas;Bezimienny;Saturas;Ale składałem już przysięgę Ognia!
 KDW_600_SATURAS_OATH_INFO_14_04.WAV;Saturas;Saturas;Bezimienny;Hmmm...
 KDW_600_SATURAS_OATH_INFO_14_05.WAV;Saturas;Saturas;Bezimienny;Przecież nie musisz jednocześnie łamać złożonej przysięgi!
-KDW_600_SATURAS_OATH_INFO_15_06.WAV;Saturas;Bezimienny;hero;Eee... Nie rozumiem...
+KDW_600_SATURAS_OATH_INFO_15_06.WAV;Saturas;Bezimienny;Saturas;Eee... Nie rozumiem...
 KDW_600_SATURAS_OATH_INFO_14_07.WAV;Saturas;Saturas;Bezimienny;Ty ją tylko rozszerzysz. Od tej pory będziesz magiem w służbie obydwu żywiołów!
 KDW_600_SATURAS_OATH_INFO_14_08.WAV;Saturas;Saturas;Bezimienny;Posiądziesz siłę Ognia oraz mądrość Wody jednocześnie!
 KDW_600_SATURAS_KDWAUFNAHME_INFO_15_01.WAV;Saturas;Bezimienny;Saturas;Jestem gotów do złożenia ślubów.
@@ -2430,49 +2430,49 @@ KDW_600_SATURAS_HEAVYARMOR_INFO_15_01.WAV;Saturas;Bezimienny;Saturas;Chciałbym 
 KDW_600_SATURAS_HEAVYARMOR_INFO_14_02.WAV;Saturas;Saturas;Bezimienny;Nie jesteś jeszcze godzien nosić szatę Arcymaga.
 KDW_600_SATURAS_HEAVYARMOR_INFO_14_03.WAV;Saturas;Saturas;Bezimienny;Te kila bryłek rudy, które posiadasz, nie wystarczy nawet na pokrycie kosztów jej utkania!
 KDW_600_SATURAS_HEAVYARMOR_INFO_14_04.WAV;Saturas;Saturas;Bezimienny;Twój czas nadszedł. Jesteś godzien, by od dziś nosić szatę Arcymaga Wody.
-INFO_SATURAS_NOWSLD_15_01.WAV;Saturas;Bezimienny;hero;Lee przyjął mnie w poczet Najemników.
+INFO_SATURAS_NOWSLD_15_01.WAV;Saturas;Bezimienny;Saturas;Lee przyjął mnie w poczet Najemników.
 INFO_SATURAS_NOWSLD_14_02.WAV;Saturas;Saturas;Bezimienny;Dobrze. Bardzo dobrze. Teraz jesteś oficjalnie członkiem naszej społeczności.
 INFO_SATURAS_NOWSLD_14_03.WAV;Saturas;Saturas;Bezimienny;Witaj wśród nas!
-INFO_SATURAS_XARDAS_15_01.WAV;Saturas;Bezimienny;hero;Kiedy wysyłałeś mnie do Magów Ognia, wspomniałeś coś o... jeszcze jednym?
+INFO_SATURAS_XARDAS_15_01.WAV;Saturas;Bezimienny;Saturas;Kiedy wysyłałeś mnie do Magów Ognia, wspomniałeś coś o... jeszcze jednym?
 INFO_SATURAS_XARDAS_14_02.WAV;Saturas;Saturas;Bezimienny;Cóż, miałem nadzieję, że obejdziemy się bez jego pomocy, ale w świetle ostatnich wydarzeń...
-INFO_SATURAS_XARDAS_15_03.WAV;Saturas;Bezimienny;hero;O kim mówisz?
+INFO_SATURAS_XARDAS_15_03.WAV;Saturas;Bezimienny;Saturas;O kim mówisz?
 INFO_SATURAS_XARDAS_14_04.WAV;Saturas;Saturas;Bezimienny;No dobrze już, dobrze.
 INFO_SATURAS_XARDAS_14_05.WAV;Saturas;Saturas;Bezimienny;Wiele lat temu...
-INFO_SATURAS_XARDAS_15_06.WAV;Saturas;Bezimienny;hero;Wolałbym wersję skróconą, jeśli łaska!
+INFO_SATURAS_XARDAS_15_06.WAV;Saturas;Bezimienny;Saturas;Wolałbym wersję skróconą, jeśli łaska!
 INFO_SATURAS_XARDAS_14_07.WAV;Saturas;Saturas;Bezimienny;Bądź cierpliwy. Cóż, kiedy tworzyliśmy magiczną Barierę, nadzorował nas jeszcze jeden, trzynasty mag. 
-INFO_SATURAS_XARDAS_15_08.WAV;Saturas;Bezimienny;hero;Trzynasty mag? Według legendy miało was być tylko dwunastu!
+INFO_SATURAS_XARDAS_15_08.WAV;Saturas;Bezimienny;Saturas;Trzynasty mag? Według legendy miało was być tylko dwunastu!
 INFO_SATURAS_XARDAS_14_09.WAV;Saturas;Saturas;Bezimienny;Niewielu z żyjących pamięta dokładnie wydarzenia tamtych dni, a my - magowie - woleliśmy nie odświeżać im niepotrzebnie pamięci.
 INFO_SATURAS_XARDAS_14_10.WAV;Saturas;Saturas;Bezimienny;Ten trzynasty mag był naszym przywódcą. Oczywiście działo się to jeszcze przed podziałem na Kręgi Wody i Ognia.
 INFO_SATURAS_XARDAS_14_11.WAV;Saturas;Saturas;Bezimienny;Tuż po założeniu Starego Obozu - a wtedy był to jeszcze jedyny obóz w kolonii - ów mag postanowił wieść życie samotnika.
-INFO_SATURAS_XARDASWHO_15_01.WAV;Saturas;Bezimienny;hero;Jak ma na imię ten trzynasty mag?
+INFO_SATURAS_XARDASWHO_15_01.WAV;Saturas;Bezimienny;Saturas;Jak ma na imię ten trzynasty mag?
 INFO_SATURAS_XARDASWHO_14_02.WAV;Saturas;Saturas;Bezimienny;Nazywał się Xardas. Dzisiaj już tylko garstka ludzi pamięta o jego istnieniu.
 INFO_SATURAS_XARDASWHO_14_03.WAV;Saturas;Saturas;Bezimienny;Ale ci, którzy go znali, nazywali go po prostu NEKROMANTĄ!
-INFO_SATURAS_XARDASWHY_15_01.WAV;Saturas;Bezimienny;hero;Dlaczego opuścił Stary Obóz?
+INFO_SATURAS_XARDASWHY_15_01.WAV;Saturas;Bezimienny;Saturas;Dlaczego opuścił Stary Obóz?
 INFO_SATURAS_XARDASWHY_14_02.WAV;Saturas;Saturas;Bezimienny;Xardas chciał kontynuować swe badania nad przyzywaniem ożywieńców i istot z innych wymiarów.
 INFO_SATURAS_XARDASWHY_14_03.WAV;Saturas;Saturas;Bezimienny;Nie tylko Gomez zaczął się tym niepokoić. Pozostali magowie również krzywo patrzyli na niego i jego plugawe badania.
-INFO_SATURAS_XARDASWHY_15_04.WAV;Saturas;Bezimienny;hero;I co się z nim stało?
+INFO_SATURAS_XARDASWHY_15_04.WAV;Saturas;Bezimienny;Saturas;I co się z nim stało?
 INFO_SATURAS_XARDASWHY_14_05.WAV;Saturas;Saturas;Bezimienny;W odróżnieniu od Gomeza, Xardas nie był rzeźnikiem i wolał uniknąć otwartego konfliktu. Pewnego dnia opuścił Obóz.
-INFO_SATURAS_XARDASWHERE_15_01.WAV;Saturas;Bezimienny;hero;Wiesz może, gdzie podziewa się teraz ten trzynasty mag?
+INFO_SATURAS_XARDASWHERE_15_01.WAV;Saturas;Bezimienny;Saturas;Wiesz może, gdzie podziewa się teraz ten trzynasty mag?
 INFO_SATURAS_XARDASWHERE_14_02.WAV;Saturas;Saturas;Bezimienny;Żyje w odosobnieniu, w swej wieży, gdzieś na terytoriach kontrolowanych przez Orków.
 INFO_SATURAS_XARDASWHERE_14_03.WAV;Saturas;Saturas;Bezimienny;To chyba najdalej wysunięty na południe punkt całej kolonii.
-INFO_SATURAS_XARDASHELP_15_01.WAV;Saturas;Bezimienny;hero;Spróbuję dotrzeć do tego Xardasa i poproszę go o pomoc!
+INFO_SATURAS_XARDASHELP_15_01.WAV;Saturas;Bezimienny;Saturas;Spróbuję dotrzeć do tego Xardasa i poproszę go o pomoc!
 INFO_SATURAS_XARDASHELP_14_02.WAV;Saturas;Saturas;Bezimienny;Tylko on jeden może nas teraz uratować.
 INFO_SATURAS_XARDASHELP_14_03.WAV;Saturas;Saturas;Bezimienny;A gdyby nawet on nie wiedział, jak nas stąd wydostać, albo nie zechciał nam pomóc...
-INFO_SATURAS_XARDASHELP_15_04.WAV;Saturas;Bezimienny;hero;BĘDZIE... I ZECHCE!
+INFO_SATURAS_XARDASHELP_15_04.WAV;Saturas;Bezimienny;Saturas;BĘDZIE... I ZECHCE!
 INFO_SATURAS_XARDASHELP_14_05.WAV;Saturas;Saturas;Bezimienny;Jest jednak inny problem...
-INFO_SATURAS_XARDASPROBLEM_15_01.WAV;Saturas;Bezimienny;hero;Mianowicie?
+INFO_SATURAS_XARDASPROBLEM_15_01.WAV;Saturas;Bezimienny;Saturas;Mianowicie?
 INFO_SATURAS_XARDASPROBLEM_14_02.WAV;Saturas;Saturas;Bezimienny;Cóż, przez te wszystkie lata kilkakrotnie próbowaliśmy nawiązać z Xardasem jakiś kontakt.
 INFO_SATURAS_XARDASPROBLEM_14_03.WAV;Saturas;Saturas;Bezimienny;Ale wygląda na to, że nie życzy sobie, żeby mu przeszkadzano.
-INFO_SATURAS_XARDASPROBLEM_15_04.WAV;Saturas;Bezimienny;hero;Co chcesz przez to powiedzieć?
+INFO_SATURAS_XARDASPROBLEM_15_04.WAV;Saturas;Bezimienny;Saturas;Co chcesz przez to powiedzieć?
 INFO_SATURAS_XARDASPROBLEM_14_05.WAV;Saturas;Saturas;Bezimienny;Żaden z wysłanych przez nas posłańców nie wrócił z jego wieży.
 INFO_SATURAS_XARDASPROBLEM_14_06.WAV;Saturas;Saturas;Bezimienny;Musisz znaleźć jakiś sposób, aby przedrzeć się przez strażników Xardasa.
-INFO_SATURAS_XARDASPROBLEM_15_07.WAV;Saturas;Bezimienny;hero;Widzę, że szykuje się nie lada wyprawa!
-INFO_SATURAS_XARDASGO_15_01.WAV;Saturas;Bezimienny;hero;Jak mogę przedostać się do Xardasa?
+INFO_SATURAS_XARDASPROBLEM_15_07.WAV;Saturas;Bezimienny;Saturas;Widzę, że szykuje się nie lada wyprawa!
+INFO_SATURAS_XARDASGO_15_01.WAV;Saturas;Bezimienny;Saturas;Jak mogę przedostać się do Xardasa?
 INFO_SATURAS_XARDASGO_14_02.WAV;Saturas;Saturas;Bezimienny;Niestety, nie mam żadnego pomysłu...
 INFO_SATURAS_XARDASGO_14_03.WAV;Saturas;Saturas;Bezimienny;Radziłbym ci jednak rozejrzeć się trochę w naszej bibliotece.
 INFO_SATURAS_XARDASGO_14_04.WAV;Saturas;Saturas;Bezimienny;Może w którejś ze starych ksiąg odnajdziesz jakieś wskazówki co do mocnych i słabych stron istot przywołanych magicznie.
-INFO_SATURAS_XARDASGO_15_05.WAV;Saturas;Bezimienny;hero;W takim razie pójdę rozejrzeć się trochę po bibliotece. Nie obawiaj się...
-INFO_SATURAS_XARDASGO_15_06.WAV;Saturas;Bezimienny;hero;Niedługo wrócę!
+INFO_SATURAS_XARDASGO_15_05.WAV;Saturas;Bezimienny;Saturas;W takim razie pójdę rozejrzeć się trochę po bibliotece. Nie obawiaj się...
+INFO_SATURAS_XARDASGO_15_06.WAV;Saturas;Bezimienny;Saturas;Niedługo wrócę!
 KDW_600_SATURAS_TIMESUP_INFO_14_00.WAV;Saturas;Saturas;Bezimienny;Rozmawiałeś z Xardasem?
 KDW_600_SATURAS_TIMESUP_INFO_15_01.WAV;Saturas;Bezimienny;Saturas;No wiesz...
 KDW_600_SATURAS_TIMESUP_INFO_14_02.WAV;Saturas;Saturas;Bezimienny;Wiesz? CO WIESZ?
@@ -2571,11 +2571,11 @@ INFO_RIORDIAN_REWARD_14_03.WAV;Riordian;Riordian;Bezimienny;Nasz przywódca opow
 INFO_RIORDIAN_REWARD_14_04.WAV;Riordian;Riordian;Bezimienny;Cały nasz obóz... Ach, co ja mówię - cała KOLONIA powinna ci być dozgonnie wdzięczna.
 INFO_RIORDIAN_REWARD_14_05.WAV;Riordian;Riordian;Bezimienny;Przyjmij tę skromną nagrodę w uznaniu twoich zasług.
 INFO_RIORDIAN_MESSAGE_14_01.WAV;Riordian;Riordian;Bezimienny;Cieszę się, że już jesteś. Czekałem na ciebie!
-INFO_RIORDIAN_MESSAGEWHY_15_01.WAV;Riordian;Bezimienny;hero;Czekałeś? Jak to?
+INFO_RIORDIAN_MESSAGEWHY_15_01.WAV;Riordian;Bezimienny;Riordian;Czekałeś? Jak to?
 INFO_RIORDIAN_MESSAGEWHY_14_02.WAV;Riordian;Riordian;Bezimienny;Gorn prosił mnie, żebym cię do niego przysłał, gdy tylko się zjawisz.
-INFO_RIORDIAN_MESSAGEWHY_15_03.WAV;Riordian;Bezimienny;hero;O co chodzi?
+INFO_RIORDIAN_MESSAGEWHY_15_03.WAV;Riordian;Bezimienny;Riordian;O co chodzi?
 INFO_RIORDIAN_MESSAGEWHY_14_04.WAV;Riordian;Riordian;Bezimienny;Ma plan, jak odzyskać zajętą kopalnię.
-INFO_RIORDIAN_MESSAGEWHY_15_05.WAV;Riordian;Bezimienny;hero;Czy wciąż pilnuje wejścia do kopalni?
+INFO_RIORDIAN_MESSAGEWHY_15_05.WAV;Riordian;Bezimienny;Riordian;Czy wciąż pilnuje wejścia do kopalni?
 INFO_RIORDIAN_MESSAGEWHY_14_06.WAV;Riordian;Riordian;Bezimienny;Tak! Proszę, zajrzyj do niego możliwie jak najszybciej!
 KDW_605_RIORDIAN_WELCOME_INFO_14_01.WAV;Riordian;Riordian;Bezimienny;Cieszę się, że do nas dołączyłeś.
 KDW_605_RIORDIAN_HEAL_INFO_14_01.WAV;Riordian;Riordian;Bezimienny;Jeśli jesteś ranny, mogę ci pomóc.
@@ -2970,69 +2970,69 @@ NOV_1371_BAALNETBEK_CRAZY_INFO_15_07.WAV;Baal Netbek;Bezimienny;Baal Netbek;Moż
 NOV_1371_BAALNETBEK_CRAZY_INFO_15_08.WAV;Baal Netbek;Bezimienny;Baal Netbek;Ten człowiek raczej mi nie pomoże...
 NOV_1371_BAALNETBEK_AGAIN_INFO_15_01.WAV;Baal Netbek;Bezimienny;Baal Netbek;Cześć, co słychać?
 NOV_1371_BAALNETBEK_AGAIN_INFO_03_02.WAV;Baal Netbek;Baal Netbek;Bezimienny;Tylko uważaj, żebyś nie skrzywdził moich kochanych drzew!
-INFO_FREEMINEORC_EXIT_15_01.WAV;Tarrok;Bezimienny;hero;Muszę już iść!
+INFO_FREEMINEORC_EXIT_15_01.WAV;Tarrok;Bezimienny;Tarrok;Muszę już iść!
 INFO_FREEMINEORC_EXIT_17_02.WAV;Tarrok;Tarrok;Bezimienny;Obcy wrócić znowu!
-INFO_FREEMINEORC_EXIT_15_03.WAV;Tarrok;Bezimienny;hero;Dziękuję. Muszę już ruszać w dalszą drogę.
+INFO_FREEMINEORC_EXIT_15_03.WAV;Tarrok;Bezimienny;Tarrok;Dziękuję. Muszę już ruszać w dalszą drogę.
 INFO_FREEMINEORC_EXIT_17_04.WAV;Tarrok;Tarrok;Bezimienny;Obcy mieć dobra podróż!
 INFO_FREEMINEORC_INTRO_17_01.WAV;Tarrok;Tarrok;Bezimienny;Tarrok chcieć pomocy! Tarrok ranny!
-INFO_FREEMINEORC_WASPASSIERT_15_01.WAV;Tarrok;Bezimienny;hero;Co się tu stało?
+INFO_FREEMINEORC_WASPASSIERT_15_01.WAV;Tarrok;Bezimienny;Tarrok;Co się tu stało?
 INFO_FREEMINEORC_WASPASSIERT_17_02.WAV;Tarrok;Tarrok;Bezimienny;Tarrok tu złapany przez niebieski żołnierze. Nagle czerwony żołnierze wszędzie.
 INFO_FREEMINEORC_WASPASSIERT_17_03.WAV;Tarrok;Tarrok;Bezimienny;Czerwony żołnierze zabijać... wszystko.
 INFO_FREEMINEORC_WASPASSIERT_17_04.WAV;Tarrok;Tarrok;Bezimienny;Tarrok uciec tu. Czerwony żołnierze nie tu. Oni boją GACH LUG.
 INFO_FREEMINEORC_WASPASSIERT_17_05.WAV;Tarrok;Tarrok;Bezimienny;Ty pomóc, Tarrok boli.
-INFO_FREEMINEORC_WASTUN_15_01.WAV;Tarrok;Bezimienny;hero;Co mogę dla ciebie zrobić?
+INFO_FREEMINEORC_WASTUN_15_01.WAV;Tarrok;Bezimienny;Tarrok;Co mogę dla ciebie zrobić?
 INFO_FREEMINEORC_WASTUN_17_02.WAV;Tarrok;Tarrok;Bezimienny;Tarrok chcieć mocny lek, albo Tarrok umrzeć.
-INFO_FREEMINEORC_WASTUN_15_03.WAV;Tarrok;Bezimienny;hero;O jakim lekarstwie mówisz?
+INFO_FREEMINEORC_WASTUN_15_03.WAV;Tarrok;Bezimienny;Tarrok;O jakim lekarstwie mówisz?
 INFO_FREEMINEORC_WASTUN_17_04.WAV;Tarrok;Tarrok;Bezimienny;GACH LUG otruć Tarrok. Tarrok chcieć lek!
 INFO_FREEMINEORC_WASTUN_17_05.WAV;Tarrok;Tarrok;Bezimienny;Głupi, głupi Tarrok. Zgubić lek! Nie znaleźć!
-INFO_FREEMINEORC_OFFER_15_01.WAV;Tarrok;Bezimienny;hero;Odzyskam twoje lekarstwo!
+INFO_FREEMINEORC_OFFER_15_01.WAV;Tarrok;Bezimienny;Tarrok;Odzyskam twoje lekarstwo!
 INFO_FREEMINEORC_OFFER_17_02.WAV;Tarrok;Tarrok;Bezimienny;Tarrok słaby. Obcy wrócić szybko, albo Tarrok umrzeć!
-INFO_FREEMINEORC_CRAWLER_15_01.WAV;Tarrok;Bezimienny;hero;Co to jest GACH LUG?
+INFO_FREEMINEORC_CRAWLER_15_01.WAV;Tarrok;Bezimienny;Tarrok;Co to jest GACH LUG?
 INFO_FREEMINEORC_CRAWLER_17_02.WAV;Tarrok;Tarrok;Bezimienny;Duży zwierz, dużo nóg ma.
 INFO_FREEMINEORC_CRAWLER_17_03.WAV;Tarrok;Tarrok;Bezimienny;GACH LUG groźny! Zjadać Ork - zjadać człowiek!
-INFO_FREEMINEORC_CRAWLER_15_04.WAV;Tarrok;Bezimienny;hero;Ach, masz na myśli pełzacze!
-INFO_FREEMINEORC_TONGUE_15_01.WAV;Tarrok;Bezimienny;hero;Potrafisz porozumiewać się w naszym języku?
+INFO_FREEMINEORC_CRAWLER_15_04.WAV;Tarrok;Bezimienny;Tarrok;Ach, masz na myśli pełzacze!
+INFO_FREEMINEORC_TONGUE_15_01.WAV;Tarrok;Bezimienny;Tarrok;Potrafisz porozumiewać się w naszym języku?
 INFO_FREEMINEORC_TONGUE_17_02.WAV;Tarrok;Tarrok;Bezimienny;Tarrok u ludzi długi czas. Tarrok dobrze słuchać.
-INFO_FREEMINEORC_SEARCHPOTION_15_01.WAV;Tarrok;Bezimienny;hero;Nie mogę znaleźć twojego lekarstwa!
+INFO_FREEMINEORC_SEARCHPOTION_15_01.WAV;Tarrok;Bezimienny;Tarrok;Nie mogę znaleźć twojego lekarstwa!
 INFO_FREEMINEORC_SEARCHPOTION_17_02.WAV;Tarrok;Tarrok;Bezimienny;Obcy szukać więcej! Lek gdzieś tu!
 INFO_FREEMINEORC_SEARCHPOTION_17_03.WAV;Tarrok;Tarrok;Bezimienny;Tarrok uciekać od GACH LUG! Tarrok chować się i uciekać!
 INFO_FREEMINEORC_SEARCHPOTION_17_04.WAV;Tarrok;Tarrok;Bezimienny;Obcy przeszukać nisze też!
-INFO_FREEMINEORC_SUCHEULUMULU_15_01.WAV;Tarrok;Bezimienny;hero;Jesteś przyjacielem Ur-Shaka, tego szamana?
+INFO_FREEMINEORC_SUCHEULUMULU_15_01.WAV;Tarrok;Bezimienny;Tarrok;Jesteś przyjacielem Ur-Shaka, tego szamana?
 INFO_FREEMINEORC_SUCHEULUMULU_17_02.WAV;Tarrok;Tarrok;Bezimienny;Ur-Shak niewolnik, jak Tarrok. Ur-Shak uciec! Dawno, dawno temu!
-INFO_FREEMINEORC_SUCHEULUMULU_15_03.WAV;Tarrok;Bezimienny;hero;Twój przyjaciel powiedział mi, że mógłbyś dla mnie zrobić Ulu-Mulu.
+INFO_FREEMINEORC_SUCHEULUMULU_15_03.WAV;Tarrok;Bezimienny;Tarrok;Twój przyjaciel powiedział mi, że mógłbyś dla mnie zrobić Ulu-Mulu.
 INFO_FREEMINEORC_SUCHEULUMULU_17_04.WAV;Tarrok;Tarrok;Bezimienny;Ty pomóc mi, ja pomóc ty!
 INFO_FREEMINEORC_SUCHEULUMULU_17_05.WAV;Tarrok;Tarrok;Bezimienny;Tarrok bardzo słaby. Nie ma lek, Tarrok umierać.
 INFO_FREEMINEORC_SUCHEULUMULU_17_06.WAV;Tarrok;Tarrok;Bezimienny;Obcy przynieść lek, wtedy Tarrok pomóc!
-INFO_FREEMINEORC_GIVEPOTION_15_01.WAV;Tarrok;Bezimienny;hero;Proszę, znalazłem twoje lekarstwo!
+INFO_FREEMINEORC_GIVEPOTION_15_01.WAV;Tarrok;Bezimienny;Tarrok;Proszę, znalazłem twoje lekarstwo!
 INFO_FREEMINEORC_GIVEPOTION_17_02.WAV;Tarrok;Tarrok;Bezimienny;Obcy nie jak inny ludzie! Obcy dobry!
 INFO_FREEMINEORC_GIVEPOTION_17_03.WAV;Tarrok;Tarrok;Bezimienny;Tarrok dziękować!
-INFO_FREEMINEORC_GIVEPOTION_15_04.WAV;Tarrok;Bezimienny;hero;Możesz już zrobić dla mnie Ulu-Mulu?
+INFO_FREEMINEORC_GIVEPOTION_15_04.WAV;Tarrok;Bezimienny;Tarrok;Możesz już zrobić dla mnie Ulu-Mulu?
 INFO_FREEMINEORC_GIVEPOTION_17_05.WAV;Tarrok;Tarrok;Bezimienny;Obcy pomóc Tarrok, teraz Tarrok pomóc Obcy!
 INFO_FREEMINEORC_GIVEPOTION_17_06.WAV;Tarrok;Tarrok;Bezimienny;Obcy potrzebować KROTAHK, KHAZ-TAK, DWACHKARR i ORTH-ANTAK.
 INFO_FREEMINEORC_GIVEPOTION_17_07.WAV;Tarrok;Tarrok;Bezimienny;Obcy przynieść, Tarrok zrobić Ulu-Mulu!
-INFO_FREEMINEORC_FIREWARAN_15_01.WAV;Tarrok;Bezimienny;hero;Co to jest KROTAHK?
+INFO_FREEMINEORC_FIREWARAN_15_01.WAV;Tarrok;Bezimienny;Tarrok;Co to jest KROTAHK?
 INFO_FREEMINEORC_FIREWARAN_17_02.WAV;Tarrok;Tarrok;Bezimienny;Być język ognia. Język smoka!
-INFO_FREEMINEORC_FIREWARAN2_15_01.WAV;Tarrok;Bezimienny;hero;Gdzie mogę znaleźć takiego smoka?
+INFO_FREEMINEORC_FIREWARAN2_15_01.WAV;Tarrok;Bezimienny;Tarrok;Gdzie mogę znaleźć takiego smoka?
 INFO_FREEMINEORC_FIREWARAN2_17_02.WAV;Tarrok;Tarrok;Bezimienny;Smok mieszka w domu Tarroka. Obcy musi szukać!
 INFO_FREEMINEORC_FIREWARAN2_17_03.WAV;Tarrok;Tarrok;Bezimienny;Smok mieszka też na piasku, przy morzu.
-INFO_FREEMINEORC_SHADOWBEAST_INFO_15_01.WAV;Tarrok;Bezimienny;hero;Co to jest KHAZ-TAK?
+INFO_FREEMINEORC_SHADOWBEAST_INFO_15_01.WAV;Tarrok;Bezimienny;Tarrok;Co to jest KHAZ-TAK?
 INFO_FREEMINEORC_SHADOWBEAST_INFO_17_02.WAV;Tarrok;Tarrok;Bezimienny;Być róg cieniostwór. Róg ostry jak nóż, twardy jak kamień.
-INFO_FREEMINEORC_SHADOWBEAST2_INFO_15_01.WAV;Tarrok;Bezimienny;hero;Gdzie mogę znaleźć tego cieniostwora?
+INFO_FREEMINEORC_SHADOWBEAST2_INFO_15_01.WAV;Tarrok;Bezimienny;Tarrok;Gdzie mogę znaleźć tego cieniostwora?
 INFO_FREEMINEORC_SHADOWBEAST2_INFO_17_02.WAV;Tarrok;Tarrok;Bezimienny;On w lesie albo w jaskini. Nie lubi słońce.
 INFO_FREEMINEORC_SHADOWBEAST2_INFO_17_03.WAV;Tarrok;Tarrok;Bezimienny;Bardzo zły. Obcy uważać!
-INFO_FREEMINEORC_SWAMPSHARK_15_01.WAV;Tarrok;Bezimienny;hero;DWACHKARR? A cóż to takiego?
+INFO_FREEMINEORC_SWAMPSHARK_15_01.WAV;Tarrok;Bezimienny;Tarrok;DWACHKARR? A cóż to takiego?
 INFO_FREEMINEORC_SWAMPSHARK_17_02.WAV;Tarrok;Tarrok;Bezimienny;Ząb błotnego węża. Jak wąż ugryźć, nikt nie móc uciec.
-INFO_FREEMINEORC_SWAMPSHARK2_15_01.WAV;Tarrok;Bezimienny;hero;Gdzie mogę znaleźć te błotne węże?
+INFO_FREEMINEORC_SWAMPSHARK2_15_01.WAV;Tarrok;Bezimienny;Tarrok;Gdzie mogę znaleźć te błotne węże?
 INFO_FREEMINEORC_SWAMPSHARK2_17_02.WAV;Tarrok;Tarrok;Bezimienny;Dużo wąż błotny w obóz ludzi. Obóz na bagnie to jest!
-INFO_FREEMINEORC_TROLL_15_01.WAV;Tarrok;Bezimienny;hero;Co to jest ORTH-ANTAK?
+INFO_FREEMINEORC_TROLL_15_01.WAV;Tarrok;Bezimienny;Tarrok;Co to jest ORTH-ANTAK?
 INFO_FREEMINEORC_TROLL_17_02.WAV;Tarrok;Tarrok;Bezimienny;Być ząb wielki Troll! Robić duża dziura w ofiara!
-INFO_FREEMINEORC_TROLL2_15_01.WAV;Tarrok;Bezimienny;hero;Gdzie mogę znaleźć Trolle?
+INFO_FREEMINEORC_TROLL2_15_01.WAV;Tarrok;Bezimienny;Tarrok;Gdzie mogę znaleźć Trolle?
 INFO_FREEMINEORC_TROLL2_17_02.WAV;Tarrok;Tarrok;Bezimienny;Troll siedzieć w góry. Troll lubi dużo miejsca!
 INFO_FREEMINEORC_TROLL2_17_03.WAV;Tarrok;Tarrok;Bezimienny;Obcy szukać w górach na północ. Ale uważać na Trolla łapy!
 INFO_FREEMINEORC_TROLL2_17_04.WAV;Tarrok;Tarrok;Bezimienny;Troll walnąć - Obcy spaść w dół!
-INFO_FREEMINEORC_LOOKINGULUMULU_15_01.WAV;Tarrok;Bezimienny;hero;Nie mam jeszcze wszystkich czterech przedmiotów.
+INFO_FREEMINEORC_LOOKINGULUMULU_15_01.WAV;Tarrok;Bezimienny;Tarrok;Nie mam jeszcze wszystkich czterech przedmiotów.
 INFO_FREEMINEORC_LOOKINGULUMULU_17_02.WAV;Tarrok;Tarrok;Bezimienny;Obcy szukać dalej! Tarrok tu czekać!
-INFO_FREEMINEORC_EVERYULUMULU_15_01.WAV;Tarrok;Bezimienny;hero;Mam już wszystkie przedmioty potrzebne do sporządzenia Ulu-Mulu!
+INFO_FREEMINEORC_EVERYULUMULU_15_01.WAV;Tarrok;Bezimienny;Tarrok;Mam już wszystkie przedmioty potrzebne do sporządzenia Ulu-Mulu!
 INFO_FREEMINEORC_EVERYULUMULU_17_02.WAV;Tarrok;Tarrok;Bezimienny;Obcy być silny wojownik! Dać rzeczy! Tarrok zrobić ULU-MULU!
 INFO_FREEMINEORC_EVERYULUMULU_17_03.WAV;Tarrok;Tarrok;Bezimienny;Gotowe! Obcy nosić ULU-MULU, być dumny! Tarrok teraz spać!
 INFO_HIGHPRIEST1_17_01.WAV;Varrag-Hashor;Varrag-Hashor;Bezimienny;ŚMIERTELNY!
@@ -3059,99 +3059,99 @@ INFO_HIGHPRIEST5FAILED_15_03.WAV;Grash-Varrag-Arushat;Bezimienny;Grash-Varrag-Ar
 INFO_ORCSHAMAN_THX_17_01.WAV;Ur-Shak;Ur-Shak;Bezimienny;Podziękować, Obcy!
 INFO_ORCSHAMAN_THX_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Zły Orkowie chcieli mnie zabić.
 INFO_ORCSHAMAN_THX_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Kiedyś brat - dzisiaj wróg.
-INFO_ORCSHAMAN_WHO_15_01.WAV;Ur-Shak;Bezimienny;hero;Kim jesteś?
+INFO_ORCSHAMAN_WHO_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Kim jesteś?
 INFO_ORCSHAMAN_WHO_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Jestem Ur-Shak.
 INFO_ORCSHAMAN_WHO_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Jestem syn-ducha. Ludzie mówią - Szaman.
-INFO_ORCSHAMAN_TONGUE_15_01.WAV;Ur-Shak;Bezimienny;hero;Skąd nauczyłeś się naszego języka?
+INFO_ORCSHAMAN_TONGUE_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Skąd nauczyłeś się naszego języka?
 INFO_ORCSHAMAN_TONGUE_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak niewolnik ludzi z kopalni.
 INFO_ORCSHAMAN_TONGUE_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Uciec. To wiele zim temu.
-INFO_ORCSHAMAN_MINE_15_01.WAV;Ur-Shak;Bezimienny;hero;Byłeś niewolnikiem w kopalni? A w której?
+INFO_ORCSHAMAN_MINE_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Byłeś niewolnikiem w kopalni? A w której?
 INFO_ORCSHAMAN_MINE_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Kopalnia pod wioską w Kotle.
-INFO_ORCSHAMAN_WHY_15_01.WAV;Ur-Shak;Bezimienny;hero;Dlaczego twoi bracia walczą z tobą?
+INFO_ORCSHAMAN_WHY_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Dlaczego twoi bracia walczą z tobą?
 INFO_ORCSHAMAN_WHY_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak w niełasce.
 INFO_ORCSHAMAN_WHY_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Nie wierzyć w KRUSHAK.
 INFO_ORCSHAMAN_WHY_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;KRUSHAK jest zły demon.
-INFO_ORCSHAMAN_KRUSHAK_15_01.WAV;Ur-Shak;Bezimienny;hero;KRUSHAK? Co to takiego?
+INFO_ORCSHAMAN_KRUSHAK_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;KRUSHAK? Co to takiego?
 INFO_ORCSHAMAN_KRUSHAK_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ludzie mówią - SPAĆ.
-INFO_ORCSHAMAN_KRUSHAK_15_03.WAV;Ur-Shak;Bezimienny;hero;Masz na myśli Śniącego?
+INFO_ORCSHAMAN_KRUSHAK_15_03.WAV;Ur-Shak;Bezimienny;Ur-Shak;Masz na myśli Śniącego?
 INFO_ORCSHAMAN_KRUSHAK_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;Tak, ludzie mówią ŚNIĄCY!
-INFO_ORCSHAMAN_SLEEPER_15_01.WAV;Ur-Shak;Bezimienny;hero;Co wiesz o Śniącym?
+INFO_ORCSHAMAN_SLEEPER_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Co wiesz o Śniącym?
 INFO_ORCSHAMAN_SLEEPER_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Było pięciu braci, dużo zim temu.
 INFO_ORCSHAMAN_SLEEPER_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Oni syn-ducha, jak Ur-Shak!
-INFO_ORCSHAMAN_SLEEPER_15_04.WAV;Ur-Shak;Bezimienny;hero;Masz na myśli pięciu szamanów!
+INFO_ORCSHAMAN_SLEEPER_15_04.WAV;Ur-Shak;Bezimienny;Ur-Shak;Masz na myśli pięciu szamanów!
 INFO_ORCSHAMAN_SLEEPER_17_05.WAV;Ur-Shak;Ur-Shak;Bezimienny;Wezwali KRUSHAK!
 INFO_ORCSHAMAN_SLEEPER_17_06.WAV;Ur-Shak;Ur-Shak;Bezimienny;Chcieli pokonać zły klan!
 INFO_ORCSHAMAN_SLEEPER_17_07.WAV;Ur-Shak;Ur-Shak;Bezimienny;Pięciu braci zbudowało świątynia dla KRUSHAK. Pod ziemią.
-INFO_ORCSHAMAN_SLEEPER_15_08.WAV;Ur-Shak;Bezimienny;hero;Podziemna świątynia Śniącego! Zapewne to miał na myśli Xardas mówiąc, że wejście znajduje się w mieście Orków.
-INFO_ORCSHAMAN_CURSE_15_01.WAV;Ur-Shak;Bezimienny;hero;Co się stało w podziemnej świątyni?
+INFO_ORCSHAMAN_SLEEPER_15_08.WAV;Ur-Shak;Bezimienny;Ur-Shak;Podziemna świątynia Śniącego! Zapewne to miał na myśli Xardas mówiąc, że wejście znajduje się w mieście Orków.
+INFO_ORCSHAMAN_CURSE_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Co się stało w podziemnej świątyni?
 INFO_ORCSHAMAN_CURSE_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Bracia dali serca dla KRUSHAK!
 INFO_ORCSHAMAN_CURSE_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ale KRUSHAK zły, rzucił klątwę na wszystkich co budowali mu dom.
 INFO_ORCSHAMAN_CURSE_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;Bracia bez serc - i żyją i nie. Tak i tak!
 INFO_ORCSHAMAN_CURSE_17_05.WAV;Ur-Shak;Ur-Shak;Bezimienny;KRUSHAK ma serca braci. Serce da mu moc!
-INFO_ORCSHAMAN_CURSE_15_06.WAV;Ur-Shak;Bezimienny;hero;Co stało się z budowniczymi, którzy wznieśli świątynię Śniącego?
+INFO_ORCSHAMAN_CURSE_15_06.WAV;Ur-Shak;Bezimienny;Ur-Shak;Co stało się z budowniczymi, którzy wznieśli świątynię Śniącego?
 INFO_ORCSHAMAN_CURSE_17_07.WAV;Ur-Shak;Ur-Shak;Bezimienny;Wszyscy przeklęci. Wszyscy. Żywi i martwi, tak i tak. Wszyscy.
-INFO_ORCSHAMAN_OUTSIDE_15_01.WAV;Ur-Shak;Bezimienny;hero;A Orkowie na powierzchni nie próbowali temu zapobiec?
+INFO_ORCSHAMAN_OUTSIDE_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;A Orkowie na powierzchni nie próbowali temu zapobiec?
 INFO_ORCSHAMAN_OUTSIDE_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Oni zamknąć świątynię. Dziś bracia modlą się do KRUSHAK.
 INFO_ORCSHAMAN_OUTSIDE_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;KRUSHAK dostaje ofiary, żeby nie był zły.
 INFO_ORCSHAMAN_OUTSIDE_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak myśli, że ofiary nie dobre. Powiedział, że KRUSHAK zły!
 INFO_ORCSHAMAN_OUTSIDE_17_05.WAV;Ur-Shak;Ur-Shak;Bezimienny;Bracia nie chcą słuchać. Mówią Ur-Shak iść. Bić Ur-Shak.
-INFO_ORCSHAMAN_INTEMPLE_15_01.WAV;Ur-Shak;Bezimienny;hero;Muszę się dostać do tej podziemnej świątyni. Możesz mnie tam zaprowadzić?
+INFO_ORCSHAMAN_INTEMPLE_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Muszę się dostać do tej podziemnej świątyni. Możesz mnie tam zaprowadzić?
 INFO_ORCSHAMAN_INTEMPLE_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak dziękuje Obcy. Obcy uratował Ur-Shak.
 INFO_ORCSHAMAN_INTEMPLE_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ale wejście do świątyni jest w domu. Ur-Shak nie może tam iść.
-INFO_ORCSHAMAN_INTEMPLE_15_04.WAV;Ur-Shak;Bezimienny;hero;Rozumiem. Obawiasz się, że twoi pobratymcy nie wpuszczą cię do miasta.
-INFO_ORCSHAMAN_MAP_15_01.WAV;Ur-Shak;Bezimienny;hero;Możesz zaznaczyć na mojej mapie położenie waszego miasta?
+INFO_ORCSHAMAN_INTEMPLE_15_04.WAV;Ur-Shak;Bezimienny;Ur-Shak;Rozumiem. Obawiasz się, że twoi pobratymcy nie wpuszczą cię do miasta.
+INFO_ORCSHAMAN_MAP_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Możesz zaznaczyć na mojej mapie położenie waszego miasta?
 INFO_ORCSHAMAN_MAP_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Dom Ur-Shaka tam, gdzie mapa pusta.
 INFO_ORCSHAMAN_MAP_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Obcy da mapę, Ur-Shak skończy mapę!
 INFO_ORCSHAMAN_MAP_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;(Rysuje mapę)
-INFO_ORCSHAMAN_MAP_15_05.WAV;Ur-Shak;Bezimienny;hero;Niesamowite! Nie lada z ciebie kartograf! Dzięki!
-INFO_ORCSHAMAN_FIGHT_15_01.WAV;Ur-Shak;Bezimienny;hero;Trudno, spróbuję się jakoś przebić do wejścia.
+INFO_ORCSHAMAN_MAP_15_05.WAV;Ur-Shak;Bezimienny;Ur-Shak;Niesamowite! Nie lada z ciebie kartograf! Dzięki!
+INFO_ORCSHAMAN_FIGHT_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Trudno, spróbuję się jakoś przebić do wejścia.
 INFO_ORCSHAMAN_FIGHT_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Bracia w domu bardzo silni! Bracia baaardzo wielu!
 INFO_ORCSHAMAN_FIGHT_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Obcy nie iść! Dużo wojowników! Obcy zabity!
 INFO_ORCSHAMAN_FIGHT_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;Inni syn-ducha w domu. Spalić Obcy! Zabić Obcy!
-INFO_ORCSHAMAN_OTHERWAY_15_01.WAV;Ur-Shak;Bezimienny;hero;Dobrze już, dobrze! Ale muszę się jakoś dostać do tej świątyni!
+INFO_ORCSHAMAN_OTHERWAY_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Dobrze już, dobrze! Ale muszę się jakoś dostać do tej świątyni!
 INFO_ORCSHAMAN_OTHERWAY_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak wie jak! Obcy weźmie ULU-MULU!
-INFO_ORCSHAMAN_OTHERWAY_15_03.WAV;Ur-Shak;Bezimienny;hero;ULU-MULU? A co to takiego?
+INFO_ORCSHAMAN_OTHERWAY_15_03.WAV;Ur-Shak;Bezimienny;Ur-Shak;ULU-MULU? A co to takiego?
 INFO_ORCSHAMAN_OTHERWAY_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;Znak przyjaźni! ULU-MULU! Bracia uszanują!
 INFO_ORCSHAMAN_OTHERWAY_17_05.WAV;Ur-Shak;Ur-Shak;Bezimienny;Obcy weźmie ULU-MULU, to Obcy nie zginie!
-INFO_ORCSHAMAN_ULUMULU_15_01.WAV;Ur-Shak;Bezimienny;hero;Gdzie mogę znaleźć to... Ulu-Mulu?
+INFO_ORCSHAMAN_ULUMULU_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Gdzie mogę znaleźć to... Ulu-Mulu?
 INFO_ORCSHAMAN_ULUMULU_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Obcy znajdzie przyjaciel Ur-Shak!
 INFO_ORCSHAMAN_ULUMULU_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Przyjaciel Ur-Shak da ULU-MULU! Obcy weźmie ULU-MULU i nie zginie!
-INFO_ORCSHAMAN_ULUMULU_15_04.WAV;Ur-Shak;Bezimienny;hero;W porządku, rozumiem o co ci chodzi, tylko gdzie ja znajdę tego twojego przyjaciela?
+INFO_ORCSHAMAN_ULUMULU_15_04.WAV;Ur-Shak;Bezimienny;Ur-Shak;W porządku, rozumiem o co ci chodzi, tylko gdzie ja znajdę tego twojego przyjaciela?
 INFO_ORCSHAMAN_ULUMULU_17_05.WAV;Ur-Shak;Ur-Shak;Bezimienny;Przyjaciel Ur-Shak w kopalni! On został. Chory. Nie uciekł.
-INFO_ORCSHAMAN_ULUMULU_15_08.WAV;Ur-Shak;Bezimienny;hero;Byłeś niewolnikiem w opuszczonej kopalni?
+INFO_ORCSHAMAN_ULUMULU_15_08.WAV;Ur-Shak;Bezimienny;Ur-Shak;Byłeś niewolnikiem w opuszczonej kopalni?
 INFO_ORCSHAMAN_ULUMULU_17_09.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak nie zna słowo.
-INFO_ORCSHAMAN_ULUMULU_15_10.WAV;Ur-Shak;Bezimienny;hero;Byłeś przetrzymywany w Starej Kopalni?
+INFO_ORCSHAMAN_ULUMULU_15_10.WAV;Ur-Shak;Bezimienny;Ur-Shak;Byłeś przetrzymywany w Starej Kopalni?
 INFO_ORCSHAMAN_ULUMULU_17_11.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak nie rozumie!
-INFO_ORCSHAMAN_ULUMULU_15_12.WAV;Ur-Shak;Bezimienny;hero;Byłeś więźniem w Wolnej Kopalni?
+INFO_ORCSHAMAN_ULUMULU_15_12.WAV;Ur-Shak;Bezimienny;Ur-Shak;Byłeś więźniem w Wolnej Kopalni?
 INFO_ORCSHAMAN_ULUMULU_17_13.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak niewolnik w kopalni w Kocioł.
 INFO_ORCSHAMAN_ULUMULU_17_14.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak słyszał, jak ludzie mówili!
-INFO_ORCSHAMAN_BYEBYE_15_01.WAV;Ur-Shak;Bezimienny;hero;Dziękuję za pomoc!
+INFO_ORCSHAMAN_BYEBYE_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Dziękuję za pomoc!
 INFO_ORCSHAMAN_BYEBYE_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak dziękuje Obcy! Obcy uratował Ur-Shak. Obcy teraz przyjaciel Ur-Shak!
 INFO_ORCSHAMAN_BYEBYE_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Przyjaciel weźmie talizman Ur-Shak. Talizman ochroni przed oddechem smoka!
 INFO_ORCSHAMAN_BYEBYE_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak nie może iść do domu. Ur-Shak zostanie tu! Przyjaciel przyjdzie jak pomoc potrzebna!
-INFO_ORCSHAMAN_BYEBYE_15_05.WAV;Ur-Shak;Bezimienny;hero;Kto wie, może kiedyś skorzystam z twojej oferty!
-INFO_ORCSHAMAN_FRIENDLYHELLO_15_01.WAV;Ur-Shak;Bezimienny;hero;Jak się masz, przyjacielu!
+INFO_ORCSHAMAN_BYEBYE_15_05.WAV;Ur-Shak;Bezimienny;Ur-Shak;Kto wie, może kiedyś skorzystam z twojej oferty!
+INFO_ORCSHAMAN_FRIENDLYHELLO_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Jak się masz, przyjacielu!
 INFO_ORCSHAMAN_FRIENDLYHELLO_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak zdrowy!
 INFO_ORCSHAMAN_FRIENDLYHELLO_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak potrzebuje ULU-MULU dla siebie!
 INFO_ORCSHAMAN_FRIENDLYHELLO_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;Może z ULU-MULU Ur-Shak pójdzie do domu!
 INFO_ORCSHAMAN_FRIENDLYHELLO_17_05.WAV;Ur-Shak;Ur-Shak;Bezimienny;Przyjaciel przyjdzie, jak pomoc potrzebna!
-INFO_ORCSHAMAN_FRIENDLYHELLO_15_06.WAV;Ur-Shak;Bezimienny;hero;Trzymaj się!
+INFO_ORCSHAMAN_FRIENDLYHELLO_15_06.WAV;Ur-Shak;Bezimienny;Ur-Shak;Trzymaj się!
 INFO_ORCSHAMAN_ORCCITY_17_01.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak pozdrawia Przyjaciel!
 INFO_ORCSHAMAN_ORCCITY_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Przyjaciel ma ULU-MULU! Dobrze!
 INFO_ORCSHAMAN_ORCCITY_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Przyjaciel trzyma ULU-MULU, jak przechodzi przez most!
 INFO_ORCSHAMAN_ORCCITY_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;Przyjaciel nie ma ULU-MULU! Nie dobrze!
 INFO_ORCSHAMAN_ORCCITY_17_05.WAV;Ur-Shak;Ur-Shak;Bezimienny;Przyjaciel nie pójdzie przez most! Tam śmierć!
-INFO_ORCSHAMAN_YOUHERE_15_01.WAV;Ur-Shak;Bezimienny;hero;Co robisz tak blisko miasta?
+INFO_ORCSHAMAN_YOUHERE_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Co robisz tak blisko miasta?
 INFO_ORCSHAMAN_YOUHERE_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak obserwuje braci w domu.
 INFO_ORCSHAMAN_YOUHERE_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak boi, że KRUSHAK niedługo obudzi!
 INFO_ORCSHAMAN_YOUHERE_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ur-Shak zaczeka. Jak KRUSHAK obudzi, Ur-Shak zaatakuje.
-INFO_ORCSHAMAN_YOUHERE_15_05.WAV;Ur-Shak;Bezimienny;hero;Śniący ma się wkrótce przebudzić? Obyś się mylił.
-INFO_ORCSHAMAN_YOUHERE_15_06.WAV;Ur-Shak;Bezimienny;hero;Zważywszy wszystko, czego dowiedziałem się o tym demonie, wolałbym, żeby się zbyt szybko nie budził!
-INFO_ORCSHAMAN_SEAL_15_01.WAV;Ur-Shak;Bezimienny;hero;Podczas naszego ostatniego spotkania powiedziałeś, że twoi bracia zamknęli wejście do świątyni!
+INFO_ORCSHAMAN_YOUHERE_15_05.WAV;Ur-Shak;Bezimienny;Ur-Shak;Śniący ma się wkrótce przebudzić? Obyś się mylił.
+INFO_ORCSHAMAN_YOUHERE_15_06.WAV;Ur-Shak;Bezimienny;Ur-Shak;Zważywszy wszystko, czego dowiedziałem się o tym demonie, wolałbym, żeby się zbyt szybko nie budził!
+INFO_ORCSHAMAN_SEAL_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Podczas naszego ostatniego spotkania powiedziałeś, że twoi bracia zamknęli wejście do świątyni!
 INFO_ORCSHAMAN_SEAL_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Bracia Ur-Shak zamknęli świątynię bardzo mocno!
 INFO_ORCSHAMAN_SEAL_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Przyjaciel tam nie wejdzie!
 INFO_ORCSHAMAN_SEAL_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;Przyjaciel musi użyć magii braci, co są syn-ducha jak Ur-Shak!
-INFO_ORCSHAMAN_SCROLL_15_01.WAV;Ur-Shak;Bezimienny;hero;Gdzie mogę znaleźć taką magię?
+INFO_ORCSHAMAN_SCROLL_15_01.WAV;Ur-Shak;Bezimienny;Ur-Shak;Gdzie mogę znaleźć taką magię?
 INFO_ORCSHAMAN_SCROLL_17_02.WAV;Ur-Shak;Ur-Shak;Bezimienny;Musi iść do jaskini braci, którzy są syn-ducha jak Ur-Shak!
 INFO_ORCSHAMAN_SCROLL_17_03.WAV;Ur-Shak;Ur-Shak;Bezimienny;Ale trzeba uważać z magią!
 INFO_ORCSHAMAN_SCROLL_17_04.WAV;Ur-Shak;Ur-Shak;Bezimienny;Bracia Ur-Shak nie lubią! ULU-MULU nie pomoże, jak Przyjaciel użyje magii!
@@ -3409,7 +3409,7 @@ DIA_ROSCOE_WANNAJOIN_15_00.WAV;Roscoe;Bezimienny;Roscoe;Chciałbym do was dołą
 DIA_ROSCOE_WANNAJOIN_10_01.WAV;Roscoe;Roscoe;Bezimienny;Nie ty jeden, ale samo "chcenie" nie wystarczy. Musisz udowodnić, że będzie z ciebie jakiś pożytek.
 DIA_ROSCOE_COMEAGAIN_10_00.WAV;Roscoe;Roscoe;Bezimienny;Znowu ty.
 INFO_ROSCOE_FIRSTWARN_INFO_10_00.WAV;Roscoe;Roscoe;Bezimienny;Dokąd się wybierasz?
-INFO_ROSCOE_FIRSTWARN_INFO_15_01.WAV;Roscoe;Bezimienny;hero;Chcę się zobaczyć z Laresem.
+INFO_ROSCOE_FIRSTWARN_INFO_15_01.WAV;Roscoe;Bezimienny;Roscoe;Chcę się zobaczyć z Laresem.
 INFO_ROSCOE_FIRSTWARN_INFO_10_02.WAV;Roscoe;Roscoe;Bezimienny;Szef jest u siebie, ale trzeba mieć niezły powód, żeby mu przeszkodzić.
 INFO_ROSCOE_LASTWARN_10_00.WAV;Roscoe;Roscoe;Bezimienny;Ogłuchłeś?
 DIA_SILAS_HEHLER_15_00.WAV;Silas;Bezimienny;Silas;Jak leci?
@@ -3524,40 +3524,40 @@ ORG_855_WOLF_TRAINAGAIN_INFO_09_04.WAV;Wilk;Wilk;Bezimienny;Odkryj tajniki funkc
 ORG_855_WOLF_TRAINAGAIN_INFO_09_05.WAV;Wilk;Wilk;Bezimienny;Opanowałeś już większość tajników strzelania z łuku. Teraz pozostało ci tylko rozwijać twoje umiejętności podczas polowania i walki.
 ORG_855_WOLF_TEACH_15_00.WAV;Wilk;Bezimienny;Wilk;Możesz mnie czegoś nauczyć?
 ORG_855_WOLF_TEACH_09_01.WAV;Wilk;Wilk;Bezimienny;Powodzenie podczas polowania zależy przede wszystkim od twojej zręczności.
-INFO_WOLF_GOOD_15_01.WAV;Wilk;Bezimienny;hero;Gorn powiedział, że chcesz ze mną pilnie porozmawiać?
+INFO_WOLF_GOOD_15_01.WAV;Wilk;Bezimienny;Wilk;Gorn powiedział, że chcesz ze mną pilnie porozmawiać?
 INFO_WOLF_GOOD_09_02.WAV;Wilk;Wilk;Bezimienny;Dobrze, że zdążyłeś zajrzeć do mnie przed wymarszem!
-INFO_WOLF_GOOD_15_03.WAV;Wilk;Bezimienny;hero;Przed jakim wymarszem?
+INFO_WOLF_GOOD_15_03.WAV;Wilk;Bezimienny;Wilk;Przed jakim wymarszem?
 INFO_WOLF_GOOD_09_04.WAV;Wilk;Wilk;Bezimienny;Przed waszym wymarszem do Niezupełnie-Wolnej-Kopalni.
-INFO_WOLF_SPEAK_15_01.WAV;Wilk;Bezimienny;hero;O co chodzi?
+INFO_WOLF_SPEAK_15_01.WAV;Wilk;Bezimienny;Wilk;O co chodzi?
 INFO_WOLF_SPEAK_09_02.WAV;Wilk;Wilk;Bezimienny;Mam pomysł na zupełnie nowy rodzaj pancerza.
-INFO_WOLF_SPEAK_15_03.WAV;Wilk;Bezimienny;hero;Czyżby? A cóż to za pomysł?
+INFO_WOLF_SPEAK_15_03.WAV;Wilk;Bezimienny;Wilk;Czyżby? A cóż to za pomysł?
 INFO_WOLF_SPEAK_09_04.WAV;Wilk;Wilk;Bezimienny;Pancerze pełzaczy są niezwykle twarde. Znacznie trwalsze niż choćby stal.
 INFO_WOLF_SPEAK_09_05.WAV;Wilk;Wilk;Bezimienny;Oczywiście nie mam tu na myśli tych wychudzonych osobników, które nawiedzały zawaloną kopalnię Gomeza...
 INFO_WOLF_SPEAK_09_06.WAV;Wilk;Wilk;Bezimienny;... O nie, one nie wystarczą. W NASZEJ kopalni żyją PRAWDZIWE PEŁZACZE. Większe, silniejsze i jeszcze bardziej wredne.
 INFO_WOLF_SPEAK_09_07.WAV;Wilk;Wilk;Bezimienny;Pancerz tych bestii jest niemal nie do przebicia!
 INFO_WOLF_SPEAK_09_08.WAV;Wilk;Wilk;Bezimienny;Gdybyś mógł mi przynieść kilka płytek z ich pancerzy, mógłbym z nich poskładać nie lada zbroję!
-INFO_WOLF_SKIN_15_01.WAV;Wilk;Bezimienny;hero;W jaki sposób mam oddzielić te płytki od zwłok pełzaczy?
+INFO_WOLF_SKIN_15_01.WAV;Wilk;Bezimienny;Wilk;W jaki sposób mam oddzielić te płytki od zwłok pełzaczy?
 INFO_WOLF_SKIN_09_02.WAV;Wilk;Wilk;Bezimienny;To proste. Płytki na grzbiecie przymocowane są tylko przy krawędziach.
 INFO_WOLF_SKIN_09_03.WAV;Wilk;Wilk;Bezimienny;Wystarczy wziąć ostry nóż i "ciąć wzdłuż przerywanej linii".
-INFO_WOLF_SKIN_15_04.WAV;Wilk;Bezimienny;hero;W porządku. Postaram się przynieść ci kilka płytek z pancerzy pełzaczy.
-INFO_WOLF_PROFIT_15_01.WAV;Wilk;Bezimienny;hero;I mówisz mi to wszystko nie żądając niczego w zamian?
+INFO_WOLF_SKIN_15_04.WAV;Wilk;Bezimienny;Wilk;W porządku. Postaram się przynieść ci kilka płytek z pancerzy pełzaczy.
+INFO_WOLF_PROFIT_15_01.WAV;Wilk;Bezimienny;Wilk;I mówisz mi to wszystko nie żądając niczego w zamian?
 INFO_WOLF_PROFIT_09_02.WAV;Wilk;Wilk;Bezimienny;No niezupełnie... Jeśli uda mi się sklecić z tych płytek porządną zbroję, będę... bardzo szybko... bardzo dużo... Ach, nieważne!
-INFO_WOLF_MCPLATESFEW_15_01.WAV;Wilk;Bezimienny;hero;Przyniosłem ci kilka tych płytek, o które prosiłeś!
+INFO_WOLF_MCPLATESFEW_15_01.WAV;Wilk;Bezimienny;Wilk;Przyniosłem ci kilka tych płytek, o które prosiłeś!
 INFO_WOLF_MCPLATESFEW_09_02.WAV;Wilk;Wilk;Bezimienny;To za mało! Nie starczy na całą zbroję!
 INFO_WOLF_MCPLATESFEW_09_03.WAV;Wilk;Wilk;Bezimienny;Przynieś mi więcej płytek!
-INFO_WOLF_MCPLATESENOUGH_15_01.WAV;Wilk;Bezimienny;hero;Zebrałem mnóstwo płytek z pancerzy pełzaczy!
+INFO_WOLF_MCPLATESENOUGH_15_01.WAV;Wilk;Bezimienny;Wilk;Zebrałem mnóstwo płytek z pancerzy pełzaczy!
 INFO_WOLF_MCPLATESENOUGH_09_02.WAV;Wilk;Wilk;Bezimienny;Fantastycznie! Natychmiast zabieram się do roboty!
-INFO_WOLF_MCPLATESENOUGH_15_03.WAV;Wilk;Bezimienny;hero;Jak długo to zajmie?
+INFO_WOLF_MCPLATESENOUGH_15_03.WAV;Wilk;Bezimienny;Wilk;Jak długo to zajmie?
 INFO_WOLF_MCPLATESENOUGH_09_04.WAV;Wilk;Wilk;Bezimienny;Nie mam pojęcia. To coś zupełnie nowego. Jeszcze nigdy czegoś takiego nie robiłem!
 INFO_WOLF_MCPLATESENOUGH_09_05.WAV;Wilk;Wilk;Bezimienny;Będziesz musiał zaglądać do mnie od czasu do czasu.
-INFO_WOLF_ARMORINWORK_15_01.WAV;Wilk;Bezimienny;hero;Jak postępują prace nad nowym pancerzem?
+INFO_WOLF_ARMORINWORK_15_01.WAV;Wilk;Bezimienny;Wilk;Jak postępują prace nad nowym pancerzem?
 INFO_WOLF_ARMORINWORK_09_02.WAV;Wilk;Wilk;Bezimienny;To zajmie dłużej niż myślałem! Te płytki są niezwykle twarde. Nie bardzo wiem jak mam je ze sobą połączyć!
 INFO_WOLF_ARMORINWORK_09_03.WAV;Wilk;Wilk;Bezimienny;Daj mi jeszcze trochę czasu! Dam radę, zaufaj mi!
-INFO_WOLF_ARMORFINISHED_15_01.WAV;Wilk;Bezimienny;hero;Jak postępują prace nad nowym pancerzem?
+INFO_WOLF_ARMORFINISHED_15_01.WAV;Wilk;Bezimienny;Wilk;Jak postępują prace nad nowym pancerzem?
 INFO_WOLF_ARMORFINISHED_09_02.WAV;Wilk;Wilk;Bezimienny;Udało mi się wreszcie znaleźć sposób na połączenie płytek ze sobą!
-INFO_WOLF_ARMORFINISHED_15_03.WAV;Wilk;Bezimienny;hero;Czy to znaczy, że zbroja jest już gotowa!
+INFO_WOLF_ARMORFINISHED_15_03.WAV;Wilk;Bezimienny;Wilk;Czy to znaczy, że zbroja jest już gotowa!
 INFO_WOLF_ARMORFINISHED_09_04.WAV;Wilk;Wilk;Bezimienny;Dokładnie! Oto i ona! Jest twardsza niż jakikolwiek pancerz jaki widziałem na oczy!
-INFO_WOLF_ARMORFINISHED_15_05.WAV;Wilk;Bezimienny;hero;Dzięki, jestem twoim dłużnikiem!
+INFO_WOLF_ARMORFINISHED_15_05.WAV;Wilk;Bezimienny;Wilk;Dzięki, jestem twoim dłużnikiem!
 INFO_WOLF_ARMORFINISHED_09_06.WAV;Wilk;Wilk;Bezimienny;Nie ma o czym mówić! Na pewno na tym nie stracę! Co to, to nie! Ha Ha!
 ORG_855_WOLF_SELLBOW_INFO_15_01.WAV;Wilk;Bezimienny;Wilk;Gdzie mogę kupić jakiś łuk?
 ORG_855_WOLF_SELLBOW_INFO_09_02.WAV;Wilk;Wilk;Bezimienny;Trafiłeś pod właściwy adres. Mam tu dobry towar za bardzo przystępne ceny.
@@ -3643,7 +3643,7 @@ DIA_ORG_876_GIBKRAUT_06_01.WAV;Wykidajło;Wykidajło;Bezimienny;Zawsze jesteś m
 DIA_ORG_876_GIBKRAUT_KEIN_15_00.WAV;Wykidajło;Bezimienny;Wykidajło;Cholera, czekaj. Chyba jednak nie mam nic przy sobie.
 DIA_ORG_876_GIBKRAUT_KEIN_06_00.WAV;Wykidajło;Wykidajło;Bezimienny;Trudno. Pamiętaj o mnie następnym razem.
 INFO_ORG_876_FIRSTWARN_INFO_06_00.WAV;Szkodnik;Szkodnik;Bezimienny;A dokąd to się wybieramy?
-INFO_ORG_876_FIRSTWARN_INFO_15_01.WAV;Szkodnik;Bezimienny;hero;Noo... Do środka?
+INFO_ORG_876_FIRSTWARN_INFO_15_01.WAV;Szkodnik;Bezimienny;Szkodnik;Noo... Do środka?
 INFO_ORG_876_FIRSTWARN_INFO_06_02.WAV;Szkodnik;Szkodnik;Bezimienny;Nie żartuj. Silas wpuszcza do siebie tylko Krety i Szkodniki.
 INFO_ORG_876_LASTWARN_06_00.WAV;Szkodnik;Szkodnik;Bezimienny;Ogłuchłeś, czy co?!
 INFO_ERPRESSER_INFO_13_01.WAV;Strażnik;Strażnik;Bezimienny;Hej, chłopcze! Jeśli chcesz wejść do środka, będziesz musiał zapłacić 10 bryłek, kapujesz?
@@ -3748,30 +3748,30 @@ INFO_GORN_RUINVICTORY_09_03.WAV;Gorn;Gorn;Bezimienny;... Więc pewnie nie chcia�
 INFO_GORN_RUINVICTORY_15_04.WAV;Gorn;Bezimienny;Gorn;Raczej nie!
 INFO_GORN_RUINVICTORY_09_05.WAV;Gorn;Gorn;Bezimienny;Tutaj nasze drogi się rozchodzą. Chcę tu trochę zostać i rozejrzeć się po okolicy.
 INFO_GORN_RUINVICTORY_09_06.WAV;Gorn;Gorn;Bezimienny;Ale na pewno jeszcze się spotkamy. Do zobaczenia, przyjacielu.
-INFO_GORN_DIEGOMILTEN_15_01.WAV;Gorn;Bezimienny;hero;Spotkałem Diego i Miltena przed Starym Obozem!
+INFO_GORN_DIEGOMILTEN_15_01.WAV;Gorn;Bezimienny;Gorn;Spotkałem Diego i Miltena przed Starym Obozem!
 INFO_GORN_DIEGOMILTEN_09_02.WAV;Gorn;Gorn;Bezimienny;To dobra wiadomość!
-INFO_GORN_DIEGOMILTEN_15_03.WAV;Gorn;Bezimienny;hero;Mają się spotkać z tobą i z Lesterem w zwykłym miejscu.
+INFO_GORN_DIEGOMILTEN_15_03.WAV;Gorn;Bezimienny;Gorn;Mają się spotkać z tobą i z Lesterem w zwykłym miejscu.
 INFO_GORN_DIEGOMILTEN_09_04.WAV;Gorn;Gorn;Bezimienny;Dzięki. W dzisiejszych czasach nie ma nic cenniejszego niż kilku oddanych przyjaciół.
 INFO_GORN_DIEGOMILTEN_09_05.WAV;Gorn;Gorn;Bezimienny;Jesteś już prawie jednym z nas. Udowodniłeś, że można na tobie polegać!
-INFO_GORN_FREEMINE_15_01.WAV;Gorn;Bezimienny;hero;Co zobaczyłeś w Wolnej Kopalni?
+INFO_GORN_FREEMINE_15_01.WAV;Gorn;Bezimienny;Gorn;Co zobaczyłeś w Wolnej Kopalni?
 INFO_GORN_FREEMINE_09_02.WAV;Gorn;Gorn;Bezimienny;Po powrocie ze starego klasztoru chciałem złożyć wizytę Okylowi, szefowi Wolnej Kopalni.
 INFO_GORN_FREEMINE_09_03.WAV;Gorn;Gorn;Bezimienny;Ale gdy dotarłem na miejsce, zastałem tylko stygnące ciała.
 INFO_GORN_FREEMINE_09_04.WAV;Gorn;Gorn;Bezimienny;Dostrzegłem kilku Strażników okopujących się przy wejściu do kopalni.
-INFO_GORN_FREEMINE_15_05.WAV;Gorn;Bezimienny;hero;Jak to możliwe, że duży oddział Najemników uległ garstce Strażników?
+INFO_GORN_FREEMINE_15_05.WAV;Gorn;Bezimienny;Gorn;Jak to możliwe, że duży oddział Najemników uległ garstce Strażników?
 INFO_GORN_FREEMINE_09_06.WAV;Gorn;Gorn;Bezimienny;To musiała być jakaś zasadzka. W końcu kto mógłby się spodziewać ataku od strony gór?
 INFO_GORN_FREEMINE_09_07.WAV;Gorn;Gorn;Bezimienny;Element zaskoczenia może zwielokrotnić zdolności bojowe oddziału.
-INFO_GORN_GUARDNC_15_01.WAV;Gorn;Bezimienny;hero;Co zamierzasz robić dalej?
+INFO_GORN_GUARDNC_15_01.WAV;Gorn;Bezimienny;Gorn;Co zamierzasz robić dalej?
 INFO_GORN_GUARDNC_09_02.WAV;Gorn;Gorn;Bezimienny;Musimy zmienić całą naszą strategię obrony. To trochę potrwa.
 INFO_GORN_GUARDNC_09_03.WAV;Gorn;Gorn;Bezimienny;Dopóki Lee nie zdoła przeorganizować swoich oddziałów, dołączę do prowizorycznej straży Corda.
-INFO_GORN_GUARDNC_15_04.WAV;Gorn;Bezimienny;hero;Przygotowujecie się do kontrataku?
+INFO_GORN_GUARDNC_15_04.WAV;Gorn;Bezimienny;Gorn;Przygotowujecie się do kontrataku?
 INFO_GORN_GUARDNC_09_05.WAV;Gorn;Gorn;Bezimienny;Jeszcze nie, ale wkrótce na pewno to zrobimy.
 INFO_GORN_GUARDNC_09_06.WAV;Gorn;Gorn;Bezimienny;Gdybyś mnie kiedyś potrzebował, zacznij tutaj i idź w stronę kopalni. Będę tam stał na straży.
-INFO_GORN_GUARDNCRUNNING_15_01.WAV;Gorn;Bezimienny;hero;Jak leci?
+INFO_GORN_GUARDNCRUNNING_15_01.WAV;Gorn;Bezimienny;Gorn;Jak leci?
 INFO_GORN_GUARDNCRUNNING_09_02.WAV;Gorn;Gorn;Bezimienny;Na razie cicho. W Wolnej Kopalni nic się nie rusza.
 INFO_GORN_GUARDNCRUNNING_09_03.WAV;Gorn;Gorn;Bezimienny;Lee zajmuje się jeszcze organizacją naszej obrony!
 INFO_GORN_POST_09_01.WAV;Gorn;Gorn;Bezimienny;Przybywasz w samą porę! Przygotowujemy się do kontruderzenia.
 INFO_GORN_POST_09_02.WAV;Gorn;Gorn;Bezimienny;Na początek spróbujemy odbić Wolną Kopalnię.
-INFO_GORN_TAKEBACK_15_01.WAV;Gorn;Bezimienny;hero;Zamierzacie ją zdobyć we czterech? A gdzie są wszyscy Najemnicy?
+INFO_GORN_TAKEBACK_15_01.WAV;Gorn;Bezimienny;Gorn;Zamierzacie ją zdobyć we czterech? A gdzie są wszyscy Najemnicy?
 INFO_GORN_TAKEBACK_09_02.WAV;Gorn;Gorn;Bezimienny;Uderzenie od frontu nie ma szans powodzenia. Ludzie Gomeza za dobrze się okopali.
 INFO_GORN_TAKEBACK_09_03.WAV;Gorn;Gorn;Bezimienny;Spróbujemy zaatakować po cichu, zabijając jednego strażnika po drugim. Może się uda...
 INFO_GORN_TAKEBACK_09_04.WAV;Gorn;Gorn;Bezimienny;Lee kazał mi przekazać ci wiadomość.
@@ -3781,30 +3781,30 @@ INFO_GORN_TAKEBACK_09_07.WAV;Gorn;Gorn;Bezimienny;Jako jeden z naszych najlepszy
 INFO_GORN_TAKEBACK_09_08.WAV;Gorn;Gorn;Bezimienny;Choć nie jesteś jednym z nas, wielokrotnie oddałeś nam nieocenione przysługi.
 INFO_GORN_TAKEBACK_09_09.WAV;Gorn;Gorn;Bezimienny;Dlatego chcemy cię prosić o udział w tej misji.
 INFO_GORN_TAKEBACK_09_10.WAV;Gorn;Gorn;Bezimienny;Pójdę z tobą. Razem może się nam udać.
-INFO_GORN_SECOND_15_01.WAV;Gorn;Bezimienny;hero;Na początek? A co zamierzacie robić później?
+INFO_GORN_SECOND_15_01.WAV;Gorn;Bezimienny;Gorn;Na początek? A co zamierzacie robić później?
 INFO_GORN_SECOND_09_02.WAV;Gorn;Gorn;Bezimienny;Jak tylko odbijemy kopalnię, spróbujemy odnaleźć ścieżkę, którą przyszli ludzie Gomeza!
 INFO_GORN_SECOND_09_03.WAV;Gorn;Gorn;Bezimienny;Kiedy ustawimy przy niej straż, będziemy bezpieczni.
-INFO_GORN_SECOND_15_04.WAV;Gorn;Bezimienny;hero;Rozumiem.
-INFO_GORN_WHYME_15_01.WAV;Gorn;Bezimienny;hero;Dlaczego właśnie ja?!
+INFO_GORN_SECOND_15_04.WAV;Gorn;Bezimienny;Gorn;Rozumiem.
+INFO_GORN_WHYME_15_01.WAV;Gorn;Bezimienny;Gorn;Dlaczego właśnie ja?!
 INFO_GORN_WHYME_09_02.WAV;Gorn;Gorn;Bezimienny;Wielokrotnie udowodniłeś, że jesteś silnym i przebiegłym wojownikiem!
 INFO_GORN_WHYME_09_03.WAV;Gorn;Gorn;Bezimienny;Poza tym znasz Stary Obóz i jego strażników lepiej niż ktokolwiek z nas.
 INFO_GORN_WHYME_09_04.WAV;Gorn;Gorn;Bezimienny;Trudno o kogoś lepszego niż ty!
-INFO_GORN_KICKBUTT_15_01.WAV;Gorn;Bezimienny;hero;No dobrze, chodźmy. Nauczymy tych nieproszonych gości dobrych manier.
+INFO_GORN_KICKBUTT_15_01.WAV;Gorn;Bezimienny;Gorn;No dobrze, chodźmy. Nauczymy tych nieproszonych gości dobrych manier.
 INFO_GORN_KICKBUTT_09_02.WAV;Gorn;Gorn;Bezimienny;Wiedziałem, że można na ciebie liczyć.
 INFO_GORN_KICKBUTT_09_03.WAV;Gorn;Gorn;Bezimienny;Weź ten klucz. Otwiera stróżówkę przy wejściu do kopalni.
-INFO_GORN_MYWAY_15_01.WAV;Gorn;Bezimienny;hero;Czemu nie. I tak muszę dostać się do kopalni!
+INFO_GORN_MYWAY_15_01.WAV;Gorn;Bezimienny;Gorn;Czemu nie. I tak muszę dostać się do kopalni!
 INFO_GORN_MYWAY_09_02.WAV;Gorn;Gorn;Bezimienny;Nieważne DLACZEGO to robisz. Cieszę się, że jesteś z nami!
 INFO_GORN_MYWAY_09_03.WAV;Gorn;Gorn;Bezimienny;Weź ten klucz. Otwiera stróżówkę przy wejściu do kopalni.
 INFO_GORN_WOLF_09_01.WAV;Gorn;Gorn;Bezimienny;Ach, prawie zapomniałem!
 INFO_GORN_WOLF_09_02.WAV;Gorn;Gorn;Bezimienny;Wilk chce z tobą koniecznie porozmawiać, zanim ruszymy do kopalni.
-INFO_GORN_WOLF_15_04.WAV;Gorn;Bezimienny;hero;To może zaczekać, mamy teraz ważniejsze sprawy na głowie.
+INFO_GORN_WOLF_15_04.WAV;Gorn;Bezimienny;Gorn;To może zaczekać, mamy teraz ważniejsze sprawy na głowie.
 INFO_GORN_WOLF_09_05.WAV;Gorn;Gorn;Bezimienny;Jak chcesz!
-INFO_GORN_WOLF_15_06.WAV;Gorn;Bezimienny;hero;Więc lepiej do niego zajrzę.
+INFO_GORN_WOLF_15_06.WAV;Gorn;Bezimienny;Gorn;Więc lepiej do niego zajrzę.
 INFO_GORN_WOLF_09_07.WAV;Gorn;Gorn;Bezimienny;W porządku. Zaczekam na ciebie tutaj.
 INFO_GORN_LEAVEFORPOST_09_01.WAV;Gorn;Gorn;Bezimienny;Widzę, że jednak nie chcesz porozmawiać z Wilkiem!
 INFO_GORN_LEAVEFORPOST_09_02.WAV;Gorn;Gorn;Bezimienny;Idziesz w złą stronę! Mamy iść prosto do kopalni!
 INFO_GORN_LEAVEFORPOST_09_03.WAV;Gorn;Gorn;Bezimienny;Zaczekam na ciebie przy prowizorycznym punkcie strażniczym!
-INFO_GORN_REJOINFORFM_15_01.WAV;Gorn;Bezimienny;hero;Ruszamy do kopalni!
+INFO_GORN_REJOINFORFM_15_01.WAV;Gorn;Bezimienny;Gorn;Ruszamy do kopalni!
 INFO_GORN_REJOINFORFM_09_02.WAV;Gorn;Gorn;Bezimienny;Pora przepędzić stamtąd ludzi Gomeza!
 INFO_GORN_REJOINFORFM_09_03.WAV;Gorn;Gorn;Bezimienny;Idź przodem. Pójdę za tobą.
 INFO_GORN_RAZOR_09_01.WAV;Gorn;Gorn;Bezimienny;UWAGA! BRZYTWY!
@@ -3814,25 +3814,25 @@ INFO_GORN_FMCENTRANCE_09_01.WAV;Gorn;Gorn;Bezimienny;Zaczekaj! Widzisz te wszyst
 INFO_GORN_FMCENTRANCE_09_02.WAV;Gorn;Gorn;Bezimienny;Idź do wejścia do kopalni. Ja zaczekam tutaj i przypilnuję, żeby ktoś lub coś nie zaszło nas od tyłu.
 INFO_GORN_FMCENTRANCE_09_03.WAV;Gorn;Gorn;Bezimienny;Kiedy już zejdziesz na dół, pójdę za tobą.
 INFO_GORN_FMGATE_09_01.WAV;Gorn;Gorn;Bezimienny;Usłyszałem odgłosy walki i przybiegłem najszybciej jak mogłem!
-INFO_GORN_FMGATE_15_02.WAV;Gorn;Bezimienny;hero;Stary znajomy... Rachunek wyrównany.
+INFO_GORN_FMGATE_15_02.WAV;Gorn;Bezimienny;Gorn;Stary znajomy... Rachunek wyrównany.
 INFO_GORN_FMGATE_09_03.WAV;Gorn;Gorn;Bezimienny;Dobra, otwieraj bramę. Je będę tu stał na straży!
 INFO_GORN_AFTERFM_09_01.WAV;Gorn;Gorn;Bezimienny;Stary, to się dopiero nazywa trudna walka!
 INFO_GORN_AFTERFM_09_02.WAV;Gorn;Gorn;Bezimienny;Nie spodziewałem się, że Strażnicy Gomeza będą stawiali tak zaciekły opór.
-INFO_GORN_AFTERFM_15_03.WAV;Gorn;Bezimienny;hero;Grunt, że kopalnia znowu jest w naszych rękach.
+INFO_GORN_AFTERFM_15_03.WAV;Gorn;Bezimienny;Gorn;Grunt, że kopalnia znowu jest w naszych rękach.
 INFO_GORN_AFTERFM_09_04.WAV;Gorn;Gorn;Bezimienny;Zostanę tutaj i dopilnuję, żeby tak już zostało!
-INFO_GORN_FMWATCH_15_01.WAV;Gorn;Bezimienny;hero;Co słychać?
+INFO_GORN_FMWATCH_15_01.WAV;Gorn;Bezimienny;Gorn;Co słychać?
 INFO_GORN_FMWATCH_09_02.WAV;Gorn;Gorn;Bezimienny;Na razie cicho. W Wolnej Kopalni nic się nie rusza.
 INFO_GORN_FMWATCH_09_03.WAV;Gorn;Gorn;Bezimienny;Lee powinien niedługo podesłać tu posiłki.
 INFO_GORN_FMWATCH_09_04.WAV;Gorn;Gorn;Bezimienny;Póki co postaram się tutaj rozgościć.
 INFO_GORN_FOUNDULUMULU_09_01.WAV;Gorn;Gorn;Bezimienny;Masz przy sobie ciekawą ozdóbkę. Orkowa, prawda?
 INFO_GORN_FOUNDULUMULU_09_02.WAV;Gorn;Gorn;Bezimienny;To od tego niewolnika z kopalni?
-INFO_GORN_FOUNDULUMULU_15_03.WAV;Gorn;Bezimienny;hero;To orkowy symbol przyjaźni. Przy jego pomocy zamierzam dostać się do miasta Orków.
+INFO_GORN_FOUNDULUMULU_15_03.WAV;Gorn;Bezimienny;Gorn;To orkowy symbol przyjaźni. Przy jego pomocy zamierzam dostać się do miasta Orków.
 INFO_GORN_FOUNDULUMULU_09_04.WAV;Gorn;Gorn;Bezimienny;Oby tylko Orkowie uszanowali to... COŚ!
 INFO_GORNFM_EXIT_09_01.WAV;Gorn;Gorn;Bezimienny;Do boju!
 INFO_GORNFM_EXIT_09_02.WAV;Gorn;Gorn;Bezimienny;Do zobaczenia.
-INFO_GORNFM_WAIT_15_01.WAV;Gorn;Bezimienny;hero;Utrzymuj pozycję! Spróbuję się trochę rozejrzeć!
+INFO_GORNFM_WAIT_15_01.WAV;Gorn;Bezimienny;Gorn;Utrzymuj pozycję! Spróbuję się trochę rozejrzeć!
 INFO_GORNFM_WAIT_09_02.WAV;Gorn;Gorn;Bezimienny;Dobra. Zaczekam przy wejściu do kopalni i postaram się, żeby nikt nie zaszedł nas od tyłu!
-INFO_GORNFM_FOLLOW_15_01.WAV;Gorn;Bezimienny;hero;Chodź ze mną, potrzebuję twojej pomocy.
+INFO_GORNFM_FOLLOW_15_01.WAV;Gorn;Bezimienny;Gorn;Chodź ze mną, potrzebuję twojej pomocy.
 INFO_GORNFM_FOLLOW_09_02.WAV;Gorn;Gorn;Bezimienny;Nareszcie coś się dzieje! Idź przodem, pójdę za tobą.
 DIA_MILTEN_EXIT_02_00.WAV;Milten;Milten;Bezimienny;Ruszamy w drogę.
 DIA_MILTEN_EXIT_02_01.WAV;Milten;Milten;Bezimienny;Do zobaczenia.
@@ -3880,158 +3880,158 @@ DIA_MILTEN_WANNAMAGE_02_02.WAV;Milten;Milten;Bezimienny;Jeśli naprawdę chcesz 
 DIA_MILTEN_WANNAMAGE_02_03.WAV;Milten;Milten;Bezimienny;No i oczywiście musisz najpierw zostać przyjęty do Starego Obozu. Corristo niechętnie patrzy na ludzi z innych osiedli.
 INFO_MILTEN_SHWAIT_02_01.WAV;Milten;Milten;Bezimienny;Witaj! Mój przyjaciel Lester, z obozu na bagnie powiadomił mnie o twoich niezwykłych czynach!
 INFO_MILTEN_SHWAIT_02_02.WAV;Milten;Milten;Bezimienny;Jestem pod wrażeniem. Stałeś się bardzo potężny.
-INFO_MILTEN_SHWAIT_15_03.WAV;Milten;Bezimienny;hero;Robię co mogę.
+INFO_MILTEN_SHWAIT_15_03.WAV;Milten;Bezimienny;Milten;Robię co mogę.
 INFO_MILTEN_SHWAIT_02_04.WAV;Milten;Milten;Bezimienny;Ach, zawsze skromny, co?
-INFO_MILTEN_SHGORN_15_01.WAV;Milten;Bezimienny;hero;Spotkałem Gorna.
+INFO_MILTEN_SHGORN_15_01.WAV;Milten;Bezimienny;Milten;Spotkałem Gorna.
 INFO_MILTEN_SHGORN_02_02.WAV;Milten;Milten;Bezimienny;Naprawdę? Gdzie?
-INFO_MILTEN_SHGORN_15_03.WAV;Milten;Bezimienny;hero;W ruinach klasztoru, nad morzem. Bawiliśmy się w poszukiwaczy skarbów.
+INFO_MILTEN_SHGORN_15_03.WAV;Milten;Bezimienny;Milten;W ruinach klasztoru, nad morzem. Bawiliśmy się w poszukiwaczy skarbów.
 INFO_MILTEN_SHGORN_02_04.WAV;Milten;Milten;Bezimienny;Zapewne nie omieszka mi o tym opowiedzieć podczas naszego następnego spotkania.
-INFO_MILTEN_SHLESTER_15_01.WAV;Milten;Bezimienny;hero;Lester i ja rozejrzeliśmy się trochę po fortecy w górach.
+INFO_MILTEN_SHLESTER_15_01.WAV;Milten;Bezimienny;Milten;Lester i ja rozejrzeliśmy się trochę po fortecy w górach.
 INFO_MILTEN_SHLESTER_02_02.WAV;Milten;Milten;Bezimienny;Tak, słyszałem. Wygląda na to, że można ci zaufać.
-INFO_MILTEN_SHLESTER_15_03.WAV;Milten;Bezimienny;hero;Gdzie wasza czwórka zwykła się spotykać?
+INFO_MILTEN_SHLESTER_15_03.WAV;Milten;Bezimienny;Milten;Gdzie wasza czwórka zwykła się spotykać?
 INFO_MILTEN_SHLESTER_02_04.WAV;Milten;Milten;Bezimienny;Ach, tu i tam. Spotykamy się w najróżniejszych miejscach.
-INFO_MILTEN_SHYOU_15_01.WAV;Milten;Bezimienny;hero;Co tu robisz?
+INFO_MILTEN_SHYOU_15_01.WAV;Milten;Bezimienny;Milten;Co tu robisz?
 INFO_MILTEN_SHYOU_02_02.WAV;Milten;Milten;Bezimienny;Niedaleko stąd leży starożytny kamienny krąg. W jego centrum znajduje się wejście do podziemnej komory.
-INFO_MILTEN_SHYOU_15_03.WAV;Milten;Bezimienny;hero;Jakiś rodzaj grobowca?
+INFO_MILTEN_SHYOU_15_03.WAV;Milten;Bezimienny;Milten;Jakiś rodzaj grobowca?
 INFO_MILTEN_SHYOU_02_04.WAV;Milten;Milten;Bezimienny;Tak, coś w tym rodzaju.
 INFO_MILTEN_SHYOU_02_05.WAV;Milten;Milten;Bezimienny;W tym grobowcu znajduje się przedmiot, który chciałbym zdobyć.
-INFO_MILTEN_SHME_15_01.WAV;Milten;Bezimienny;hero;Szukam kamienia ogniskującego. Powinien gdzieś tam być.
+INFO_MILTEN_SHME_15_01.WAV;Milten;Bezimienny;Milten;Szukam kamienia ogniskującego. Powinien gdzieś tam być.
 INFO_MILTEN_SHME_02_02.WAV;Milten;Milten;Bezimienny;Wygląda na to, że obydwaj szukamy czegoś w tym samym miejscu.
-INFO_MILTEN_SHPROBLEM_15_01.WAV;Milten;Bezimienny;hero;Dlaczego nie zejdziesz do grobowca i nie zabierzesz tego, czego szukasz?
+INFO_MILTEN_SHPROBLEM_15_01.WAV;Milten;Bezimienny;Milten;Dlaczego nie zejdziesz do grobowca i nie zabierzesz tego, czego szukasz?
 INFO_MILTEN_SHPROBLEM_02_02.WAV;Milten;Milten;Bezimienny;Och, to długa historia. Musiałbym zanudzać cię opowieścią o bardzo dawnych czasach.
-INFO_MILTEN_SHPROBLEM_15_03.WAV;Milten;Bezimienny;hero;Śmiało, nigdzie mi się nie spieszy.
+INFO_MILTEN_SHPROBLEM_15_03.WAV;Milten;Bezimienny;Milten;Śmiało, nigdzie mi się nie spieszy.
 INFO_MILTEN_SHPROBLEM_02_04.WAV;Milten;Milten;Bezimienny;No dobrze! Po utworzeniu magicznej Bariery, która stała się naszym wspólnym więzieniem...
 INFO_MILTEN_SHPROBLEM_02_05.WAV;Milten;Milten;Bezimienny;... Jeden z magów zamknął pod ziemią potężny artefakt.
-INFO_MILTEN_SHFOCUS_15_01.WAV;Milten;Bezimienny;hero;Czyżbyś mówił o jednym z pięciu kamieni ogniskujących?
+INFO_MILTEN_SHFOCUS_15_01.WAV;Milten;Bezimienny;Milten;Czyżbyś mówił o jednym z pięciu kamieni ogniskujących?
 INFO_MILTEN_SHFOCUS_02_02.WAV;Milten;Milten;Bezimienny;Dokładnie! A więc znasz już historię pięciu kamieni?
-INFO_MILTEN_SHFOCUS_15_03.WAV;Milten;Bezimienny;hero;Tylko mi nie mów, że ty też szukasz tego kamienia!
+INFO_MILTEN_SHFOCUS_15_03.WAV;Milten;Bezimienny;Milten;Tylko mi nie mów, że ty też szukasz tego kamienia!
 INFO_MILTEN_SHFOCUS_02_04.WAV;Milten;Milten;Bezimienny;Nie. Nie interesuje mnie kamień ogniskujący. Szukam pewnego talizmanu Orków.
-INFO_MILTEN_SHSEAL_15_01.WAV;Milten;Bezimienny;hero;Artefakt jest w jakiś sposób chroniony?
+INFO_MILTEN_SHSEAL_15_01.WAV;Milten;Bezimienny;Milten;Artefakt jest w jakiś sposób chroniony?
 INFO_MILTEN_SHSEAL_02_02.WAV;Milten;Milten;Bezimienny;Tak. Strzeże go potężne zaklęcie. Pierwszy rabuś, który spróbuje go zabrać...
 INFO_MILTEN_SHSEAL_02_03.WAV;Milten;Milten;Bezimienny;... będzie przeklęty i zostanie skazany na wieczną egzystencję jako Ożywieniec. Od tej pory po wsze czasy sam stanie się strażnikiem kamienia, który próbował ukraść.
-INFO_MILTEN_SHSEAL_15_04.WAV;Milten;Bezimienny;hero;Czy istnieje jakiś sposób na uniknięcie klątwy?
+INFO_MILTEN_SHSEAL_15_04.WAV;Milten;Bezimienny;Milten;Czy istnieje jakiś sposób na uniknięcie klątwy?
 INFO_MILTEN_SHSEAL_02_06.WAV;Milten;Milten;Bezimienny;Kilka lat temu jeden z Magnatów polujący dla rozrywki na Orków okazał się na tyle bezmyślny, że zszedł do grobowca.
 INFO_MILTEN_SHSEAL_02_07.WAV;Milten;Milten;Bezimienny;Teraz ON jest strażnikiem spoczywających pod ziemią skarbów.
-INFO_MILTEN_SHTALISMAN_15_01.WAV;Milten;Bezimienny;hero;A co z twoim talizmanem?
+INFO_MILTEN_SHTALISMAN_15_01.WAV;Milten;Bezimienny;Milten;A co z twoim talizmanem?
 INFO_MILTEN_SHTALISMAN_02_02.WAV;Milten;Milten;Bezimienny;Jestem przekonany, że jego poprzedni właściciel wykorzystywał go do ochrony przed rozwścieczonymi Orkami.
 INFO_MILTEN_SHTALISMAN_02_03.WAV;Milten;Milten;Bezimienny;Jeśli mam rację, ten talizman może się okazać niezwykle przydatny.
-INFO_MILTEN_SHOFFER_15_01.WAV;Milten;Bezimienny;hero;Zatem powinniśmy wspólnie przeszukać ten grobowiec! Ty znajdziesz swój talizman, a ja - mój kamień ogniskujący!
+INFO_MILTEN_SHOFFER_15_01.WAV;Milten;Bezimienny;Milten;Zatem powinniśmy wspólnie przeszukać ten grobowiec! Ty znajdziesz swój talizman, a ja - mój kamień ogniskujący!
 INFO_MILTEN_SHOFFER_02_02.WAV;Milten;Milten;Bezimienny;W porządku, ale jest pewien mały problem...
-INFO_MILTEN_SHOFFER_15_03.WAV;Milten;Bezimienny;hero;Problem?
+INFO_MILTEN_SHOFFER_15_03.WAV;Milten;Bezimienny;Milten;Problem?
 INFO_MILTEN_SHOFFER_02_04.WAV;Milten;Milten;Bezimienny;Tak. Strażnik podziemnej krypty...
-INFO_MILTEN_SHOFFER_15_05.WAV;Milten;Bezimienny;hero;A nie można go po prostu posiekać na drobne kawałeczki?
+INFO_MILTEN_SHOFFER_15_05.WAV;Milten;Bezimienny;Milten;A nie można go po prostu posiekać na drobne kawałeczki?
 INFO_MILTEN_SHOFFER_02_06.WAV;Milten;Milten;Bezimienny;To nie będzie takie proste. Ten ożywieniec zdaje się być niezwykle odporny na działanie zwykłego oręża.
-INFO_MILTEN_SHOFFER_15_07.WAV;Milten;Bezimienny;hero;Niech zgadnę: pewnie masz już jakiś plan, jak go pokonać, tak?
+INFO_MILTEN_SHOFFER_15_07.WAV;Milten;Bezimienny;Milten;Niech zgadnę: pewnie masz już jakiś plan, jak go pokonać, tak?
 INFO_MILTEN_SHOFFER_02_08.WAV;Milten;Milten;Bezimienny;Umm... No cóż... MAM pewien plan, ale nie jestem w stanie sam go wykonać.
-INFO_MILTEN_SHOFFER2_15_01.WAV;Milten;Bezimienny;hero;Zamieniam się w słuch!
+INFO_MILTEN_SHOFFER2_15_01.WAV;Milten;Bezimienny;Milten;Zamieniam się w słuch!
 INFO_MILTEN_SHOFFER2_02_02.WAV;Milten;Milten;Bezimienny;Mam przy sobie magiczny zwój z niezwykle potężnym zaklęciem.
 INFO_MILTEN_SHOFFER2_02_03.WAV;Milten;Milten;Bezimienny;To zaklęcie natychmiast niszczy wszystkich ożywieńców znajdujących się w okolicy.
-INFO_MILTEN_SHOFFER2_15_04.WAV;Milten;Bezimienny;hero;Zatem dostanie się do grobowca powinno być dziecinnie proste, prawda?
+INFO_MILTEN_SHOFFER2_15_04.WAV;Milten;Bezimienny;Milten;Zatem dostanie się do grobowca powinno być dziecinnie proste, prawda?
 INFO_MILTEN_SHOFFER2_02_05.WAV;Milten;Milten;Bezimienny;Hmmm... Nie zupełnie! Obawiam się, że nasz przeklęty strażnik nie jest już sam.
 INFO_MILTEN_SHOFFER2_02_06.WAV;Milten;Milten;Bezimienny;Wygląda na to, że rabusie, którzy przyszli po nim mieli równie mało szczęścia co on sam.
 INFO_MILTEN_SHOFFER2_02_07.WAV;Milten;Milten;Bezimienny;Pewnego razu zszedłem na dół i mało brakowało, a postradałbym życie. Jeden człowiek nie sprosta wszystkim przeciwnikom.
-INFO_MILTEN_SHACCEPT_15_01.WAV;Milten;Bezimienny;hero;Daj mi ten magiczny zwój i razem zajmiemy się tymi ożywieńcami!
+INFO_MILTEN_SHACCEPT_15_01.WAV;Milten;Bezimienny;Milten;Daj mi ten magiczny zwój i razem zajmiemy się tymi ożywieńcami!
 INFO_MILTEN_SHACCEPT_02_02.WAV;Milten;Milten;Bezimienny;Ha! Miałem nadzieję, że to powiesz.
 INFO_MILTEN_SHACCEPT_02_03.WAV;Milten;Milten;Bezimienny;Niestety, mam tylko jeden zwój. Wykorzystaj go przeciw Strażnikowi.
 INFO_MILTEN_SHACCEPT_02_04.WAV;Milten;Milten;Bezimienny;Pozostałe ożywieńce można zabić zwykłym orężem.
-INFO_MILTEN_SHACCEPT_15_05.WAV;Milten;Bezimienny;hero;Rozumiem. No dobrze, którędy do tego kamiennego kręgu?
+INFO_MILTEN_SHACCEPT_15_05.WAV;Milten;Bezimienny;Milten;Rozumiem. No dobrze, którędy do tego kamiennego kręgu?
 INFO_MILTEN_SHACCEPT_02_06.WAV;Milten;Milten;Bezimienny;Chodź za mną!
 INFO_MILTEN_SHARRIVED_02_01.WAV;Milten;Milten;Bezimienny;No i jesteśmy. Ten tunel prowadzi wprost do grobowca.
-INFO_MILTEN_SHARRIVED_15_02.WAV;Milten;Bezimienny;hero;Zatem ruszajmy. Pora złożyć wizytę strażnikom.
-INFO_MILTEN_SHHEAL_15_01.WAV;Milten;Bezimienny;hero;Jestem ranny. Możesz mi pomóc?
+INFO_MILTEN_SHARRIVED_15_02.WAV;Milten;Bezimienny;Milten;Zatem ruszajmy. Pora złożyć wizytę strażnikom.
+INFO_MILTEN_SHHEAL_15_01.WAV;Milten;Bezimienny;Milten;Jestem ranny. Możesz mi pomóc?
 INFO_MILTEN_SHHEAL_02_02.WAV;Milten;Milten;Bezimienny;Weź ten napój uzdrawiający.
 INFO_MILTEN_SHHEAL_02_03.WAV;Milten;Milten;Bezimienny;Nie mam już żadnych magicznych wywarów.
-INFO_MILTEN_SHRUNNING_15_01.WAV;Milten;Bezimienny;hero;Strażnik wciąż żyje!
+INFO_MILTEN_SHRUNNING_15_01.WAV;Milten;Bezimienny;Milten;Strażnik wciąż żyje!
 INFO_MILTEN_SHRUNNING_02_02.WAV;Milten;Milten;Bezimienny;Więc zniszcz go przy użyciu magicznego zwoju!
-INFO_MILTEN_SHSCROLL_15_01.WAV;Milten;Bezimienny;hero;Wykorzystałem zwój, ale niestety nie na Strażniku!
+INFO_MILTEN_SHSCROLL_15_01.WAV;Milten;Bezimienny;Milten;Wykorzystałem zwój, ale niestety nie na Strażniku!
 INFO_MILTEN_SHSCROLL_02_02.WAV;Milten;Milten;Bezimienny;Jesteśmy zgubieni! Chyba, że znajdziesz jakiś inny sposób, żeby go pokonać!
 INFO_MILTEN_SHSCROLL_02_03.WAV;Milten;Milten;Bezimienny;Może w którymś z obozów uda ci się kupić następny zwój albo magiczną runę.
 INFO_MILTEN_SHSCROLL_02_04.WAV;Milten;Milten;Bezimienny;Zaczekam na ciebie w miejscu, w którym się spotkaliśmy.
-INFO_MILTEN_SHNEWSCROLL_15_01.WAV;Milten;Bezimienny;hero;Mam nowy zwój z zaklęciem "Śmierć Ożywieńcom!"
+INFO_MILTEN_SHNEWSCROLL_15_01.WAV;Milten;Bezimienny;Milten;Mam nowy zwój z zaklęciem "Śmierć Ożywieńcom!"
 INFO_MILTEN_SHNEWSCROLL_02_02.WAV;Milten;Milten;Bezimienny;To wspaniale! Możemy złożyć Strażnikowi kolejną wizytę!
 INFO_MILTEN_SHNEWSCROLL_02_03.WAV;Milten;Milten;Bezimienny;Idź przodem. Pójdę za tobą.
 INFO_MILTEN_SHLEAVE_02_01.WAV;Milten;Milten;Bezimienny;Czyżbyś stracił zainteresowanie tym grobowcem?
 INFO_MILTEN_SHLEAVE_02_02.WAV;Milten;Milten;Bezimienny;Jakbyś zmienił zdanie, znajdziesz mnie w miejscu naszego pierwszego spotkania.
-INFO_MILTEN_SHCONTINUE_15_01.WAV;Milten;Bezimienny;hero;To jak? Schodzimy znowu do krypty?
+INFO_MILTEN_SHCONTINUE_15_01.WAV;Milten;Bezimienny;Milten;To jak? Schodzimy znowu do krypty?
 INFO_MILTEN_SHCONTINUE_02_02.WAV;Milten;Milten;Bezimienny;Jestem gotów. Idź przodem. Pójdę za tobą.
 INFO_MILTEN_SHSUCCESS_02_01.WAV;Milten;Milten;Bezimienny;Dobrze. Widzę, że znalazłeś talizman.
-INFO_MILTEN_SHSUCCESS_15_02.WAV;Milten;Bezimienny;hero;Proszę, weź go. Taka była umowa.
+INFO_MILTEN_SHSUCCESS_15_02.WAV;Milten;Bezimienny;Milten;Proszę, weź go. Taka była umowa.
 INFO_MILTEN_SHSUCCESS_02_03.WAV;Milten;Milten;Bezimienny;Dziękuję, przyjacielu. Nigdy nie zapominam o ludziach, którzy mi pomogli.
 INFO_MILTEN_SHSUCCESS_02_04.WAV;Milten;Milten;Bezimienny;Wrócę teraz do Starego Obozu. Może tam się jeszcze kiedyś spotkamy.
 INFO_MILTEN_OCWARN_02_01.WAV;Milten;Milten;Bezimienny;Oni... nie żyją... Wszyscy zginęli... Nie mogłem im pomóc... Byłem za daleko... Ja...
-INFO_MILTEN_OCWARN_15_02.WAV;Milten;Bezimienny;hero;Spokojnie, Miltenie. Spotkałem już Diego po drugiej stronie Obozu.
+INFO_MILTEN_OCWARN_15_02.WAV;Milten;Bezimienny;Milten;Spokojnie, Miltenie. Spotkałem już Diego po drugiej stronie Obozu.
 INFO_MILTEN_OCWARN_02_03.WAV;Milten;Milten;Bezimienny;Zatem wiesz już, co się stało. Co ci powiedział Diego?
-INFO_MILTEN_OCWARN_15_04.WAV;Milten;Bezimienny;hero;Powiedział, że jeśli spotkam Gorna i Lestera, mam im powiedzieć, że spotkanie odbędzie się tam gdzie zwykle.
+INFO_MILTEN_OCWARN_15_04.WAV;Milten;Bezimienny;Milten;Powiedział, że jeśli spotkam Gorna i Lestera, mam im powiedzieć, że spotkanie odbędzie się tam gdzie zwykle.
 INFO_MILTEN_OCWARN_02_05.WAV;Milten;Milten;Bezimienny;Powodzenia i uważaj na siebie!
-INFO_MILTEN_OCWARN_15_06.WAV;Milten;Bezimienny;hero;Uspokój się, Miltenie. Co się stało?
+INFO_MILTEN_OCWARN_15_06.WAV;Milten;Bezimienny;Milten;Uspokój się, Miltenie. Co się stało?
 INFO_MILTEN_OCWARN_02_07.WAV;Milten;Milten;Bezimienny;Wymordowali Magów Ognia! Wszystkich... oprócz mnie. Ale nawet ja otarłem się o śmierć.
-INFO_MILTEN_OCWARN_15_08.WAV;Milten;Bezimienny;hero;Lepiej opowiedz mi wszystko po kolei, od samego początku.
+INFO_MILTEN_OCWARN_15_08.WAV;Milten;Bezimienny;Milten;Lepiej opowiedz mi wszystko po kolei, od samego początku.
 INFO_MILTEN_OCWARN_02_09.WAV;Milten;Milten;Bezimienny;Już dobrze, uspokój się, przyjacielu.
 INFO_MILTEN_OCWARN_02_10.WAV;Milten;Milten;Bezimienny;Wszystko zaczęło się od zawalenia Starej Kopalni?
-INFO_MILTEN_OCWARN_15_11.WAV;Milten;Bezimienny;hero;Zawalenia Starej Kopalni?!?
+INFO_MILTEN_OCWARN_15_11.WAV;Milten;Bezimienny;Milten;Zawalenia Starej Kopalni?!?
 INFO_MILTEN_OCWARN_02_12.WAV;Milten;Milten;Bezimienny;Tak. To działo się tak szybko. Nikt nie zdołał się wydostać.
 INFO_MILTEN_OCWARN_02_13.WAV;Milten;Milten;Bezimienny;Strażnicy zablokowali wejście do kopalni.
-INFO_MILTEN_OCMINE_15_01.WAV;Milten;Bezimienny;hero;Jak do tego doszło?
+INFO_MILTEN_OCMINE_15_01.WAV;Milten;Bezimienny;Milten;Jak do tego doszło?
 INFO_MILTEN_OCMINE_02_02.WAV;Milten;Milten;Bezimienny;Nie mam pojęcia. Kilku Kopaczy stojących przy wejściu mówiło coś o potężnym wstrząsie i wielkiej chmurze pyłu z tunelu.
-INFO_MILTEN_OCMINE_15_03.WAV;Milten;Bezimienny;hero;Byłeś tam, kiedy to się stało?
+INFO_MILTEN_OCMINE_15_03.WAV;Milten;Bezimienny;Milten;Byłeś tam, kiedy to się stało?
 INFO_MILTEN_OCMINE_02_04.WAV;Milten;Milten;Bezimienny;Tak. Stąd wiem o zawaleniu się kopalni.
-INFO_MILTEN_OCKDW_15_01.WAV;Milten;Bezimienny;hero;Mówiłeś coś o Magach Ognia?
+INFO_MILTEN_OCKDW_15_01.WAV;Milten;Bezimienny;Milten;Mówiłeś coś o Magach Ognia?
 INFO_MILTEN_OCKDW_02_02.WAV;Milten;Milten;Bezimienny;Wiem tylko, że wszyscy zostali zabici przez Magnatów tuż po zawaleniu się Starej Kopalni.
 INFO_MILTEN_OCKDW_02_03.WAV;Milten;Milten;Bezimienny;Kiedy wróciłem z naszej wyprawy pod kamienny krąg, strażnicy przy bramie rzucili się na mnie bez ostrzeżenia.
 INFO_MILTEN_OCKDW_02_04.WAV;Milten;Milten;Bezimienny;Krzyczeli "zdrajca" i "spiskowiec". Ledwie uszedłem z życiem.
-INFO_MILTEN_OCWHY_15_01.WAV;Milten;Bezimienny;hero;Dlaczego Magnaci mieliby wymordować Magów? To bez sensu!
+INFO_MILTEN_OCWHY_15_01.WAV;Milten;Bezimienny;Milten;Dlaczego Magnaci mieliby wymordować Magów? To bez sensu!
 INFO_MILTEN_OCWHY_02_02.WAV;Milten;Milten;Bezimienny;Wiem, ale nie miałem czasu, żeby zapytać strażników. Zaatakowali mnie natychmiast.
 INFO_MILTEN_OCWHY_02_03.WAV;Milten;Milten;Bezimienny;Może Diego będzie wiedział więcej. Był w Obozie, kiedy rozegrała się ta tragedia.
-INFO_MILTEN_OCYOU_15_01.WAV;Milten;Bezimienny;hero;Powinieneś się ukryć. Najlepiej daleko stąd.
+INFO_MILTEN_OCYOU_15_01.WAV;Milten;Bezimienny;Milten;Powinieneś się ukryć. Najlepiej daleko stąd.
 INFO_MILTEN_OCYOU_02_02.WAV;Milten;Milten;Bezimienny;Nie. Diego kazał mi pilnować drugiego wejścia do Obozu. Mamy ostrzegać naszych przyjaciół przed niebezpieczeństwem.
 INFO_MILTEN_OCYOU_02_03.WAV;Milten;Milten;Bezimienny;Proszę, porozmawiaj z Diego!
-INFO_MILTEN_OCDIEGO_15_01.WAV;Milten;Bezimienny;hero;Gdzie znajdę Diego?
+INFO_MILTEN_OCDIEGO_15_01.WAV;Milten;Bezimienny;Milten;Gdzie znajdę Diego?
 INFO_MILTEN_OCDIEGO_02_02.WAV;Milten;Milten;Bezimienny;Ukrywa się po drugiej stronie Obozu, w pobliżu tylnej bramy.
 INFO_MILTEN_OCDIEGO_02_03.WAV;Milten;Milten;Bezimienny;Musisz z nim koniecznie porozmawiać!
 INFO_MILTEN_LOADSWORD_02_01.WAV;Milten;Milten;Bezimienny;Witaj, przyjacielu! Dawno się nie widzieliśmy.
-INFO_MILTEN_LOADSWORD_15_02.WAV;Milten;Bezimienny;hero;Cześć, Milten! Wiele się wydarzyło od naszego ostatniego spotkania.
-INFO_MILTEN_LOADSWORD_15_03.WAV;Milten;Bezimienny;hero;Chętnie bym ci wszystko opowiedział, ale chwilowo nie mam czasu. Bardzo się spieszę.
-INFO_MILTEN_LOADSWORD1_15_01.WAV;Milten;Bezimienny;hero;Potrzebuję twojej pomocy!
+INFO_MILTEN_LOADSWORD_15_02.WAV;Milten;Bezimienny;Milten;Cześć, Milten! Wiele się wydarzyło od naszego ostatniego spotkania.
+INFO_MILTEN_LOADSWORD_15_03.WAV;Milten;Bezimienny;Milten;Chętnie bym ci wszystko opowiedział, ale chwilowo nie mam czasu. Bardzo się spieszę.
+INFO_MILTEN_LOADSWORD1_15_01.WAV;Milten;Bezimienny;Milten;Potrzebuję twojej pomocy!
 INFO_MILTEN_LOADSWORD1_02_02.WAV;Milten;Milten;Bezimienny;Co się stało? Jak mogę ci pomóc?
-INFO_MILTEN_LOADSWORD1_15_03.WAV;Milten;Bezimienny;hero;Chodźmy w jakieś ustronne miejsce, gdzie będziemy mogli spokojnie porozmawiać.
+INFO_MILTEN_LOADSWORD1_15_03.WAV;Milten;Bezimienny;Milten;Chodźmy w jakieś ustronne miejsce, gdzie będziemy mogli spokojnie porozmawiać.
 INFO_MILTEN_LOADSWORD1_02_04.WAV;Milten;Milten;Bezimienny;Dobrze. Chodź za mną.
 INFO_MILTEN_LSAWAY_02_01.WAV;Milten;Milten;Bezimienny;A teraz mów - co się stało?
-INFO_MILTEN_LSAWAY_15_02.WAV;Milten;Bezimienny;hero;Muszę wykorzystać magiczną energię kopca rudy, a wolałbym nie pytać Magów Wody o pozwolenie.
+INFO_MILTEN_LSAWAY_15_02.WAV;Milten;Bezimienny;Milten;Muszę wykorzystać magiczną energię kopca rudy, a wolałbym nie pytać Magów Wody o pozwolenie.
 INFO_MILTEN_LSAWAY_02_03.WAV;Milten;Milten;Bezimienny;Żartujesz sobie ze mnie!
-INFO_MILTEN_LSAWAY_15_04.WAV;Milten;Bezimienny;hero;To nie pora na żarty. Mówię poważnie.
-INFO_MILTEN_LSAWAY_15_05.WAV;Milten;Bezimienny;hero;Spotkałem Xardasa, Nekromantę!
-INFO_MILTEN_LSAWAY_15_06.WAV;Milten;Bezimienny;hero;Wypełniam jego polecenia!
+INFO_MILTEN_LSAWAY_15_04.WAV;Milten;Bezimienny;Milten;To nie pora na żarty. Mówię poważnie.
+INFO_MILTEN_LSAWAY_15_05.WAV;Milten;Bezimienny;Milten;Spotkałem Xardasa, Nekromantę!
+INFO_MILTEN_LSAWAY_15_06.WAV;Milten;Bezimienny;Milten;Wypełniam jego polecenia!
 INFO_MILTEN_LSAWAY_02_07.WAV;Milten;Milten;Bezimienny;XARDAS?! Zaczynasz mnie przerażać!
 INFO_MILTEN_LSAWAY_02_08.WAV;Milten;Milten;Bezimienny;Nikt z nim nie rozmawiał odkąd opuścił Stary Obóz.
-INFO_MILTEN_LSAWAY_15_09.WAV;Milten;Bezimienny;hero;Ja rozmawiałem!
+INFO_MILTEN_LSAWAY_15_09.WAV;Milten;Bezimienny;Milten;Ja rozmawiałem!
 INFO_MILTEN_LSAWAY_02_10.WAV;Milten;Milten;Bezimienny;Do czego potrzebna ci jest energia kopca rudy?
-INFO_MILTEN_LSAWAY_15_11.WAV;Milten;Bezimienny;hero;Muszę ją skumulować w tym oto mieczu.
+INFO_MILTEN_LSAWAY_15_11.WAV;Milten;Bezimienny;Milten;Muszę ją skumulować w tym oto mieczu.
 INFO_MILTEN_LSAWAY_02_12.WAV;Milten;Milten;Bezimienny;Cóż za niesamowita broń!
-INFO_MILTEN_LSAWAY_15_13.WAV;Milten;Bezimienny;hero;Nazywa się URIZIEL!
-INFO_MILTEN_LOADSWORD4_15_01.WAV;Milten;Bezimienny;hero;Xardas dał mi magiczne zaklęcie, które pozwoli mi przenieść energię!
-INFO_MILTEN_LOADSWORD4_15_02.WAV;Milten;Bezimienny;hero;Będziesz musiał je odczytać, podczas gdy ja dotknę rudy mieczem!
+INFO_MILTEN_LSAWAY_15_13.WAV;Milten;Bezimienny;Milten;Nazywa się URIZIEL!
+INFO_MILTEN_LOADSWORD4_15_01.WAV;Milten;Bezimienny;Milten;Xardas dał mi magiczne zaklęcie, które pozwoli mi przenieść energię!
+INFO_MILTEN_LOADSWORD4_15_02.WAV;Milten;Bezimienny;Milten;Będziesz musiał je odczytać, podczas gdy ja dotknę rudy mieczem!
 INFO_MILTEN_LOADSWORD4_02_03.WAV;Milten;Milten;Bezimienny;Hmmm... Mówisz, że trzeba je tylko odczytać?
 INFO_MILTEN_LOADSWORD4_02_04.WAV;Milten;Milten;Bezimienny;Ale Saturas i jego magowie nie puszczą nam tego płazem!
-INFO_MILTEN_LSRISK_15_01.WAV;Milten;Bezimienny;hero;Musimy zaryzykować!
-INFO_MILTEN_LSRISK_15_02.WAV;Milten;Bezimienny;hero;To bardzo, BARDZO ważne!
-INFO_MILTEN_LSRISK_15_03.WAV;Milten;Bezimienny;hero;Ważne dla WSZYSTKICH mieszkańców kolonii...
+INFO_MILTEN_LSRISK_15_01.WAV;Milten;Bezimienny;Milten;Musimy zaryzykować!
+INFO_MILTEN_LSRISK_15_02.WAV;Milten;Bezimienny;Milten;To bardzo, BARDZO ważne!
+INFO_MILTEN_LSRISK_15_03.WAV;Milten;Bezimienny;Milten;Ważne dla WSZYSTKICH mieszkańców kolonii...
 INFO_MILTEN_LSRISK_02_04.WAV;Milten;Milten;Bezimienny;Nic nie rozumiem.
-INFO_MILTEN_LSRISK_15_05.WAV;Milten;Bezimienny;hero;Dzięki temu wydostaniemy się na wolność! Musisz mi zaufać!
+INFO_MILTEN_LSRISK_15_05.WAV;Milten;Bezimienny;Milten;Dzięki temu wydostaniemy się na wolność! Musisz mi zaufać!
 INFO_MILTEN_LSRISK_02_06.WAV;Milten;Milten;Bezimienny;Dobrze! Po tym wszystkim, co dla nas zrobiłeś, ufam ci bezgranicznie.
 INFO_MILTEN_LSRISK_02_07.WAV;Milten;Milten;Bezimienny;No i wygląda na to, że nawet Xardas darzy cię zaufaniem.
 INFO_MILTEN_LSRISK_02_08.WAV;Milten;Milten;Bezimienny;Spotkamy się przy kopcu rudy. Tylko nikomu ani słowa!
-INFO_MILTEN_LSRISK_15_09.WAV;Milten;Bezimienny;hero;Dobrze, zatem spotkamy się przy kopcu! Do zobaczenia!
+INFO_MILTEN_LSRISK_15_09.WAV;Milten;Bezimienny;Milten;Dobrze, zatem spotkamy się przy kopcu! Do zobaczenia!
 INFO_MILTEN_LSOREHEAP_02_01.WAV;Milten;Milten;Bezimienny;Masz miecz i zaklęcie?
-INFO_MILTEN_LSNOW_15_01.WAV;Milten;Bezimienny;hero;Proszę, oto ono!
-INFO_MILTEN_LSNOW_15_02.WAV;Milten;Bezimienny;hero;Jesteś gotów?
+INFO_MILTEN_LSNOW_15_01.WAV;Milten;Bezimienny;Milten;Proszę, oto ono!
+INFO_MILTEN_LSNOW_15_02.WAV;Milten;Bezimienny;Milten;Jesteś gotów?
 INFO_MILTEN_LSNOW_02_03.WAV;Milten;Milten;Bezimienny;Nie, ale nie mamy wielkiego wyboru. Teraz albo nigdy!
-INFO_MILTEN_LSNOW_15_04.WAV;Milten;Bezimienny;hero;Zatem do dzieła!
+INFO_MILTEN_LSNOW_15_04.WAV;Milten;Bezimienny;Milten;Zatem do dzieła!
 INFO_MILTEN_LSDONE_02_01.WAV;Milten;Milten;Bezimienny;Gotowe!
-INFO_MILTEN_LSDONE_15_02.WAV;Milten;Bezimienny;hero;Niesamowite! Ten szary kryształ rozbłysnął pięknym błękitem!
+INFO_MILTEN_LSDONE_15_02.WAV;Milten;Bezimienny;Milten;Niesamowite! Ten szary kryształ rozbłysnął pięknym błękitem!
 INFO_MILTEN_LSDONE_02_03.WAV;Milten;Milten;Bezimienny;To dobry znak! Wygląda na to, że cała energia z kopca została przeniesiona na miecz!
 INFO_MILTEN_LSDONE_02_04.WAV;Milten;Milten;Bezimienny;Ale nasze działania zwróciły uwagę strażników!
 INFO_MILTEN_LSDONE_02_05.WAV;Milten;Milten;Bezimienny;Teleportuj się stąd, natychmiast!
-INFO_MILTEN_LSDONE_15_06.WAV;Milten;Bezimienny;hero;A co z tobą?
+INFO_MILTEN_LSDONE_15_06.WAV;Milten;Bezimienny;Milten;A co z tobą?
 INFO_MILTEN_LSDONE_02_07.WAV;Milten;Milten;Bezimienny;O mnie się nie martw! Coś wymyślę! Uciekaj stąd! Już!
 INFO_LESTER_EXIT_05_01.WAV;Lester;Lester;Bezimienny;Chodźmy.
 INFO_LESTER_EXIT_05_02.WAV;Lester;Lester;Bezimienny;Niech Śniący ma cię w swojej opiece!
@@ -4154,112 +4154,112 @@ PC_PSIONIC_COMEAGAIN_INFO_15_01.WAV;Lester;Bezimienny;Lester;Przeszukajmy tę fo
 PC_PSIONIC_COMEAGAIN_INFO_05_02.WAV;Lester;Lester;Bezimienny;Dobrze, idź przodem!
 DIA_FINGERS_BECOMESHADOW_05_01.WAV;Rączka;Rączka;Bezimienny;I co z tego?
 SVM_5_GETTHINGSRIGHT.WAV;Inne;Inne;Bezimienny;Nie łatwo będzie to teraz odkręcić!
-INFO_LESTER_DIEGOMILTEN_15_01.WAV;Lester;Bezimienny;hero;Chce się z tobą spotkać, tam gdzie zawsze.
+INFO_LESTER_DIEGOMILTEN_15_01.WAV;Lester;Bezimienny;Lester;Chce się z tobą spotkać, tam gdzie zawsze.
 SVM_5_YEAHWELLDONE.WAV;Inne;Inne;Bezimienny;Najwyższy czas!
 INFO_LESTER_DIEGOMILTEN_05_02.WAV;Lester;Lester;Bezimienny;Zostanę tutaj, żeby przejrzeć stare księgi.
 DIA_FINGERS_LEHRER_PICKPOCKET2_05_03.WAV;Rączka;Rączka;Bezimienny;Uważaj na siebie.
 INFO_DIEGO_GAMESTART_11_00.WAV;Diego;Diego;Bezimienny;Nazywam się Diego.
-INFO_DIEGO_GAMESTART_15_01.WAV;Diego;Bezimienny;hero;Jestem...
+INFO_DIEGO_GAMESTART_15_01.WAV;Diego;Bezimienny;Diego;Jestem...
 INFO_DIEGO_GAMESTART_11_02.WAV;Diego;Diego;Bezimienny;Nie interesuje mnie kim jesteś. Jesteś tu nowy - a do mnie należy dbanie o nowych. Na razie to tyle...
 INFO_DIEGO_GAMESTART_11_03.WAV;Diego;Diego;Bezimienny;Jeśli chcesz jeszcze trochę pożyć, słuchaj się mnie, ale oczywiście nie będę ci przeszkadzał w ewentualnej próbie samobójstwa. To jak będzie?
-INFO_DIEGO_EXIT_GAMESTART_15_00.WAV;Diego;Bezimienny;hero;Dzięki za pomoc.
+INFO_DIEGO_EXIT_GAMESTART_15_00.WAV;Diego;Bezimienny;Diego;Dzięki za pomoc.
 INFO_DIEGO_EXIT_GAMESTART_11_01.WAV;Diego;Diego;Bezimienny;Jak sobie chcesz. Miło było cię poznać.
 INFO_DIEGO_EXIT_GAMESTART_11_02.WAV;Diego;Diego;Bezimienny;Spotkamy się w Starym Obozie.
 INFO_DIEGO_EXIT_11_01.WAV;Diego;Diego;Bezimienny;Chodźmy.
-INFO_DIEGO_EXIT_15_00.WAV;Diego;Bezimienny;hero;Trzymaj się.
-INFO_DIEGO_BRIEF_15_00.WAV;Diego;Bezimienny;hero;Mam list do Arcymistrza Magów Ognia.
+INFO_DIEGO_EXIT_15_00.WAV;Diego;Bezimienny;Diego;Trzymaj się.
+INFO_DIEGO_BRIEF_15_00.WAV;Diego;Bezimienny;Diego;Mam list do Arcymistrza Magów Ognia.
 INFO_DIEGO_BRIEF_11_01.WAV;Diego;Diego;Bezimienny;Czyżby...?
-INFO_DIEGO_BRIEF_15_02.WAV;Diego;Bezimienny;hero;Jakiś mag dał mi go zanim mnie tu wrzucono.
+INFO_DIEGO_BRIEF_15_02.WAV;Diego;Bezimienny;Diego;Jakiś mag dał mi go zanim mnie tu wrzucono.
 INFO_DIEGO_BRIEF_11_03.WAV;Diego;Diego;Bezimienny;Twoje szczęście, że nie mogę się więcej pokazywać u magów. Ktoś inny mógłby ci poderżnąć gardło za taki list.
 INFO_DIEGO_BRIEF_11_04.WAV;Diego;Diego;Bezimienny;A to dlatego, że magowie hojnie opłacają swoich kurierów, a większość z tutejszych ludzi nic nie posiada.
 INFO_DIEGO_BRIEF_11_05.WAV;Diego;Diego;Bezimienny;Na twoim miejscu trzymałbym język za zębami aż do chwili, gdy spotkasz któregoś z magów. Chociaż wątpię, żeby ci się udało.
-INFO_DIEGO_BRIEF_15_06.WAV;Diego;Bezimienny;hero;Dlaczego?
+INFO_DIEGO_BRIEF_15_06.WAV;Diego;Bezimienny;Diego;Dlaczego?
 INFO_DIEGO_BRIEF_11_07.WAV;Diego;Diego;Bezimienny;Magowie mieszkają w zamku, w Starym Obozie. Tylko ludzie Gomeza mają tam wstęp.
-INFO_DIEGO_WARUMGEHOLFEN_15_00.WAV;Diego;Bezimienny;hero;Dlaczego mi pomogłeś?
+INFO_DIEGO_WARUMGEHOLFEN_15_00.WAV;Diego;Bezimienny;Diego;Dlaczego mi pomogłeś?
 INFO_DIEGO_WARUMGEHOLFEN_11_01.WAV;Diego;Diego;Bezimienny;Bo potrzebowałeś pomocy. Gdyby nie ja, Bullit i jego chłopcy mogliby cię wykończyć.
 INFO_DIEGO_WARUMGEHOLFEN_11_02.WAV;Diego;Diego;Bezimienny;A ja jestem zbyt miły, żeby się temu spokojnie przyglądać. W końcu przebyłem całą tę drogę po to, by złożyć ci propozycję.
-INFO_DIEGO_WARUMGEHOLFEN_15_03.WAV;Diego;Bezimienny;hero;Propozycję...
+INFO_DIEGO_WARUMGEHOLFEN_15_03.WAV;Diego;Bezimienny;Diego;Propozycję...
 INFO_DIEGO_WARUMGEHOLFEN_11_04.WAV;Diego;Diego;Bezimienny;Tak. Po tym zajściu z Bullitem i jego ludźmi powinieneś się domyślić, że przyda ci się ochrona.
 INFO_DIEGO_WARUMGEHOLFEN_11_05.WAV;Diego;Diego;Bezimienny;Każdy, kto tu trafia ma wybór. W kolonii są trzy obozy i w końcu będziesz musiał do któregoś dołączyć.
 INFO_DIEGO_WARUMGEHOLFEN_11_06.WAV;Diego;Diego;Bezimienny;Jestem tu, by udowodnić wszystkim nowym, że najlepszym miejscem dla nich będzie Stary Obóz.
-INFO_DIEGO_BULLIT_15_02.WAV;Diego;Bezimienny;hero;A gdzie jest teraz Bullit?
+INFO_DIEGO_BULLIT_15_02.WAV;Diego;Bezimienny;Diego;A gdzie jest teraz Bullit?
 INFO_DIEGO_BULLIT_11_03.WAV;Diego;Diego;Bezimienny;On i pozostali przenoszą towary z zewnątrz do Obozu. Tam go znajdziesz.
 INFO_DIEGO_BULLIT_11_04.WAV;Diego;Diego;Bezimienny;Ale jeśli chcesz z nim walczyć, radzę ci uważać. To doświadczony wojownik.
-INFO_DIEGO_KOLONIE_15_00.WAV;Diego;Bezimienny;hero;Dobra, co powinienem wiedzieć o tym miejscu?
+INFO_DIEGO_KOLONIE_15_00.WAV;Diego;Bezimienny;Diego;Dobra, co powinienem wiedzieć o tym miejscu?
 INFO_DIEGO_KOLONIE_11_01.WAV;Diego;Diego;Bezimienny;Nazywamy je kolonią. Wiesz już, że wydobywamy rudę dla króla.
 INFO_DIEGO_KOLONIE_11_02.WAV;Diego;Diego;Bezimienny;Cóż, w każdym razie tak robią ludzie ze Starego Obozu.
 INFO_DIEGO_KOLONIE_11_03.WAV;Diego;Diego;Bezimienny;Wewnątrz Bariery powstały trzy obozy. Największy i najstarszy jest tak zwany Stary Obóz.
-INFO_DIEGO_BARRIERE_15_00.WAV;Diego;Bezimienny;hero;Opowiedz mi jeszcze o Barierze.
+INFO_DIEGO_BARRIERE_15_00.WAV;Diego;Bezimienny;Diego;Opowiedz mi jeszcze o Barierze.
 INFO_DIEGO_BARRIERE_11_01.WAV;Diego;Diego;Bezimienny;Nie ma za bardzo o czym mówić. Jest nie do sforsowania.
-INFO_DIEGO_BARRIERE_15_02.WAV;Diego;Bezimienny;hero;A co się stanie, jeśli po prostu spróbuję stąd wyjść?
+INFO_DIEGO_BARRIERE_15_02.WAV;Diego;Bezimienny;Diego;A co się stanie, jeśli po prostu spróbuję stąd wyjść?
 INFO_DIEGO_BARRIERE_11_03.WAV;Diego;Diego;Bezimienny;Ostatni, który tego spróbował dotarł na drugą stronę jako trup. Przez to przeklęte magiczne pole można wejść, ale już nigdy się stąd nie wydostaniesz.
-INFO_DIEGO_BARRIERE_15_04.WAV;Diego;Bezimienny;hero;Jeśli jest stąd jakieś wyjście - znajdę je.
+INFO_DIEGO_BARRIERE_15_04.WAV;Diego;Bezimienny;Diego;Jeśli jest stąd jakieś wyjście - znajdę je.
 INFO_DIEGO_BARRIERE_11_05.WAV;Diego;Diego;Bezimienny;Tak ci spieszno, żeby się stąd wyrwać? Dopiero co tu trafiłeś!
-INFO_DIEGO_OTHERCAMPS_15_00.WAV;Diego;Bezimienny;hero;A co z pozostałymi obozami?
+INFO_DIEGO_OTHERCAMPS_15_00.WAV;Diego;Bezimienny;Diego;A co z pozostałymi obozami?
 INFO_DIEGO_OTHERCAMPS_11_01.WAV;Diego;Diego;Bezimienny;Te dwa obozy zamieszkują szaleńcy, którzy próbują się stąd wydostać za wszelką cenę.
 INFO_DIEGO_OTHERCAMPS_11_02.WAV;Diego;Diego;Bezimienny;W zachodniej części kolonii znajduje się Nowy Obóz. Rezydują tam magowie, którzy myślą, że uda się im wysadzić Barierę, jak tylko zbiorą dostatecznie dużo rudy.
 INFO_DIEGO_OTHERCAMPS_11_03.WAV;Diego;Diego;Bezimienny;No i są jeszcze świry z Sekty, na wschodzie. Ich obóz znajduje się na środku bagna. Oni z kolei czekają aż ich bóstwo pomoże im się stąd wydostać.
 INFO_DIEGO_OTHERCAMPS_11_04.WAV;Diego;Diego;Bezimienny;Wygląda na to, że jeszcze trochę poczekają.
 INFO_DIEGO_OTHERCAMPS_11_05.WAV;Diego;Diego;Bezimienny;Na twoim miejscu nie traciłbym czasu na zadawanie się z szaleńcami.
-INFO_DIEGO_OLDCAMP_15_00.WAV;Diego;Bezimienny;hero;Opowiedz mi o Starym Obozie.
+INFO_DIEGO_OLDCAMP_15_00.WAV;Diego;Bezimienny;Diego;Opowiedz mi o Starym Obozie.
 INFO_DIEGO_OLDCAMP_11_01.WAV;Diego;Diego;Bezimienny;To największy i najpotężniejszy z trzech obozów. Gomez i jego ludzie kontrolują kopalnię, a tym samym - cały handel ze światem zewnętrznym.
 INFO_DIEGO_OLDCAMP_11_02.WAV;Diego;Diego;Bezimienny;Raz w miesiącu król przysyła nam wszystko, czego potrzebujemy. Mamy staruszka w garści, kapujesz?
 INFO_DIEGO_OLDCAMP_11_03.WAV;Diego;Diego;Bezimienny;Przysyła nam broń, chleb, mięso... wszystko.
 INFO_DIEGO_OLDCAMP_11_04.WAV;Diego;Diego;Bezimienny;Ty też możesz mieć w tym udział. Musisz tylko dołączyć do ludzi Gomeza.
-INFO_DIEGO_WHOSGOMEZ_15_00.WAV;Diego;Bezimienny;hero;Kim jest Gomez?
+INFO_DIEGO_WHOSGOMEZ_15_00.WAV;Diego;Bezimienny;Diego;Kim jest Gomez?
 INFO_DIEGO_WHOSGOMEZ_11_01.WAV;Diego;Diego;Bezimienny;Gomez jest najpotężniejszym z Magnatów kierujących handlem rudą. To on rządzi w Starym Obozie i ma najwięcej do powiedzenia w całej kolonii.
-INFO_DIEGO_JOINOLDCAMP_15_00.WAV;Diego;Bezimienny;hero;Załóżmy, że chciałbym dołączyć do jego ludzi. Co powinienem zrobić?
+INFO_DIEGO_JOINOLDCAMP_15_00.WAV;Diego;Bezimienny;Diego;Załóżmy, że chciałbym dołączyć do jego ludzi. Co powinienem zrobić?
 INFO_DIEGO_JOINOLDCAMP_11_01.WAV;Diego;Diego;Bezimienny;Przy bramie do zamku znajdziesz człowieka imieniem Thorus. Powiedz mu, że Diego cię przysłał.
-INFO_DIEGO_WAYTOOLDCAMP_15_00.WAV;Diego;Bezimienny;hero;Jak dostanę się do Starego Obozu?
+INFO_DIEGO_WAYTOOLDCAMP_15_00.WAV;Diego;Bezimienny;Diego;Jak dostanę się do Starego Obozu?
 INFO_DIEGO_WAYTOOLDCAMP_11_01.WAV;Diego;Diego;Bezimienny;Podążaj tą ścieżką. Stary Obóz to najbliższe, mniej więcej bezpieczne miejsce jakie napotkasz po drodze.
 INFO_DIEGO_WAYTOOLDCAMP_11_02.WAV;Diego;Diego;Bezimienny;Pomiędzy obozami kręci się wiele groźnych zwierząt. Radziłbym ci postarać się o jakąś broń.
-INFO_DIEGO_WOWAFFE_15_00.WAV;Diego;Bezimienny;hero;Gdzie mogę znaleźć oręż?
+INFO_DIEGO_WOWAFFE_15_00.WAV;Diego;Bezimienny;Diego;Gdzie mogę znaleźć oręż?
 INFO_DIEGO_WOWAFFE_11_01.WAV;Diego;Diego;Bezimienny;Rozejrzyj się trochę w pobliżu Opuszczonej Kopalni. Na pewno znajdziesz tam coś przydatnego.
 INFO_DIEGO_WOWAFFE_11_02.WAV;Diego;Diego;Bezimienny;Kopalnię nie trudno znaleźć. Leży parę metrów w dół kanionu.
-INFO_DIEGO_THORUSSAYS_15_00.WAV;Diego;Bezimienny;hero;Rozmawiałem z Thorusem.
+INFO_DIEGO_THORUSSAYS_15_00.WAV;Diego;Bezimienny;Diego;Rozmawiałem z Thorusem.
 INFO_DIEGO_THORUSSAYS_11_01.WAV;Diego;Diego;Bezimienny;I co ci powiedział?
-INFO_DIEGO_THORUSSAYS_15_02.WAV;Diego;Bezimienny;hero;Mówi, że będę mógł dołączyć do Starego Obozu, jeśli TY uznasz, że się nadaję.
+INFO_DIEGO_THORUSSAYS_15_02.WAV;Diego;Bezimienny;Diego;Mówi, że będę mógł dołączyć do Starego Obozu, jeśli TY uznasz, że się nadaję.
 INFO_DIEGO_THORUSSAYS_11_03.WAV;Diego;Diego;Bezimienny;Widzę, że czeka mnie dodatkowa robota.
-INFO_DIEGO_THORUSSAYS_15_04.WAV;Diego;Bezimienny;hero;Zaczynamy od razu?
+INFO_DIEGO_THORUSSAYS_15_04.WAV;Diego;Bezimienny;Diego;Zaczynamy od razu?
 INFO_DIEGO_THORUSSAYS_11_05.WAV;Diego;Diego;Bezimienny;Najpierw powinieneś dowiedzieć się kilku rzeczy.
-INFO_DIEGO_RULES_15_00.WAV;Diego;Bezimienny;hero;Co powinienem wiedzieć, zanim zostanę przyjęty do Starego Obozu?
+INFO_DIEGO_RULES_15_00.WAV;Diego;Bezimienny;Diego;Co powinienem wiedzieć, zanim zostanę przyjęty do Starego Obozu?
 INFO_DIEGO_RULES_11_01.WAV;Diego;Diego;Bezimienny;Jeśli chcesz do nas należeć, musisz najpierw zaplusować u kilku ludzi.
 INFO_DIEGO_RULES_11_02.WAV;Diego;Diego;Bezimienny;W Zewnętrznym Pierścieniu możesz spotkać paru wpływowych ludzi, głównie Cieni. Jeśli uda ci się ich do siebie przekonać, twoje szanse wzrosną.
 INFO_DIEGO_RULES_11_03.WAV;Diego;Diego;Bezimienny;Później czeka cię test zaufania.
 INFO_DIEGO_RULES_11_04.WAV;Diego;Diego;Bezimienny;Oprócz tego musisz się jeszcze wiele nauczyć. Im więcej nowych umiejętności zdobędziesz, tym cenniejszy będziesz dla nas.
-INFO_DIEGO_CELEBS_15_00.WAV;Diego;Bezimienny;hero;Gdzie znajdę te ważne osoby?
+INFO_DIEGO_CELEBS_15_00.WAV;Diego;Bezimienny;Diego;Gdzie znajdę te ważne osoby?
 INFO_DIEGO_CELEBS_11_01.WAV;Diego;Diego;Bezimienny;Cóż, na jednego z nich właśnie patrzysz. Poza tym, jest jeszcze Thorus, jego już znasz.
 INFO_DIEGO_CELEBS_11_02.WAV;Diego;Diego;Bezimienny;Co do pozostałych... sam musisz ich rozpoznać. Jeśli nie jesteś w stanie tego zrobić, to i tak nie masz tu czego szukać.
 INFO_DIEGO_CELEBS_11_03.WAV;Diego;Diego;Bezimienny;Najlepiej przejdź się po Zewnętrznym Pierścieniu i porozmawiaj z ludźmi.
-INFO_DIEGO_TEACHERS_15_00.WAV;Diego;Bezimienny;hero;Kto może mnie czegoś nauczyć?
+INFO_DIEGO_TEACHERS_15_00.WAV;Diego;Bezimienny;Diego;Kto może mnie czegoś nauczyć?
 INFO_DIEGO_TEACHERS_11_01.WAV;Diego;Diego;Bezimienny;Zacznij od Rączki. To najzręczniejszy człowiek w Obozie.
 INFO_DIEGO_TEACHERS_11_02.WAV;Diego;Diego;Bezimienny;Miej oczy szeroko otwarte, a na pewno znajdziesz wielu ludzi, którzy zechcą cię czegoś nauczyć.
-INFO_DIEGO_TEACHERS_15_03.WAV;Diego;Bezimienny;hero;Gdzie znajdę Rączkę?
+INFO_DIEGO_TEACHERS_15_03.WAV;Diego;Bezimienny;Diego;Gdzie znajdę Rączkę?
 INFO_DIEGO_TEACHERS_11_04.WAV;Diego;Diego;Bezimienny;Jego chata stoi nieco na uboczu, zaraz przy murach zamku. Idąc stąd udaj się w stronę areny.
 INFO_DIEGO_TEACHERS_11_05.WAV;Diego;Diego;Bezimienny;Przy zamkowej bramie pójdź w lewo. To właśnie droga do areny.
-INFO_DIEGO_TEACH_15_00.WAV;Diego;Bezimienny;hero;Możesz mnie czegoś nauczyć?
+INFO_DIEGO_TEACH_15_00.WAV;Diego;Bezimienny;Diego;Możesz mnie czegoś nauczyć?
 INFO_DIEGO_TEACH_11_01.WAV;Diego;Diego;Bezimienny;Tak. Mogę ci pokazać, jak zwiększyć swoją siłę lub zręczność.
 INFO_DIEGO_TEACH_BACK_11_00.WAV;Diego;Diego;Bezimienny;Jesteś teraz o wiele silniejszy.
 INFO_DIEGO_TEACH_BACK_11_01.WAV;Diego;Diego;Bezimienny;Umiesz teraz sprawniej posługiwać się łukiem i kuszą.
 INFO_DIEGO_TEACH_BACK_11_02.WAV;Diego;Diego;Bezimienny;Wróć niedługo. Musisz się jeszcze wiele nauczyć.
-INFO_DIEGO_BRINGLIST_OFFER_15_00.WAV;Diego;Bezimienny;hero;Na czym polega test zaufania?
+INFO_DIEGO_BRINGLIST_OFFER_15_00.WAV;Diego;Bezimienny;Diego;Na czym polega test zaufania?
 INFO_DIEGO_BRINGLIST_OFFER_11_01.WAV;Diego;Diego;Bezimienny;Będziesz się musiał wybrać do Starej Kopalni. Tam znajdziesz faceta imieniem Ian. Od niego dostaniesz listę.
 INFO_DIEGO_BRINGLIST_OFFER_11_02.WAV;Diego;Diego;Bezimienny;To bardzo ważny dokument. Zawiera spis wszystkich rzeczy, których potrzebują od nas ludzie z kopalni.
 INFO_DIEGO_BRINGLIST_OFFER_11_03.WAV;Diego;Diego;Bezimienny;Postaramy się, żeby dostarczono je z następnym konwojem.
-INFO_DIEGO_BRINGLIST_OFFER_15_04.WAV;Diego;Bezimienny;hero;Żaden problem!
+INFO_DIEGO_BRINGLIST_OFFER_15_04.WAV;Diego;Bezimienny;Diego;Żaden problem!
 INFO_DIEGO_BRINGLIST_OFFER_11_05.WAV;Diego;Diego;Bezimienny;Właśnie że jest problem. Ta lista nie może wpaść w ręce ludzi z Nowego Obozu!
 INFO_DIEGO_BRINGLIST_OFFER_11_06.WAV;Diego;Diego;Bezimienny;Jak już powiedziałem: to bardzo ważna lista. Jeśli nie zawalisz - daleko tu zajdziesz.
-INFO_DIEGO_IANPASSWORD_INFO_15_01.WAV;Diego;Bezimienny;hero;Skoro ta lista jest taka ważna, skąd pewność, że Ian wyda ją komuś takiemu jak JA?
+INFO_DIEGO_IANPASSWORD_INFO_15_01.WAV;Diego;Bezimienny;Diego;Skoro ta lista jest taka ważna, skąd pewność, że Ian wyda ją komuś takiemu jak JA?
 INFO_DIEGO_IANPASSWORD_INFO_11_02.WAV;Diego;Diego;Bezimienny;Bo powiesz mu, że przysłał cię Diego.
-INFO_DIEGO_IANPASSWORD_INFO_15_03.WAV;Diego;Bezimienny;hero;Tak zrobię.
-INFO_DIEGO_MAPTOOLDMINE_INFO_15_00.WAV;Diego;Bezimienny;hero;Gdzie znajdę Starą Kopalnię?
+INFO_DIEGO_IANPASSWORD_INFO_15_03.WAV;Diego;Bezimienny;Diego;Tak zrobię.
+INFO_DIEGO_MAPTOOLDMINE_INFO_15_00.WAV;Diego;Bezimienny;Diego;Gdzie znajdę Starą Kopalnię?
 INFO_DIEGO_MAPTOOLDMINE_INFO_11_01.WAV;Diego;Diego;Bezimienny;Porozmawiaj z Grahamem, to nasz kartograf. Powiedz mu, że ja cię przysyłam, i że potrzebujesz mapy. Z niej dowiesz się, gdzie leży kopalnia.
 INFO_DIEGO_MAPTOOLDMINE_INFO_11_02.WAV;Diego;Diego;Bezimienny;Graham mieszka na lewo od północnej bramy.
-INFO_DIEGO_BRINGLIST_SUCCESS_15_00.WAV;Diego;Bezimienny;hero;Mam listę od Iana.
+INFO_DIEGO_BRINGLIST_SUCCESS_15_00.WAV;Diego;Bezimienny;Diego;Mam listę od Iana.
 INFO_DIEGO_BRINGLIST_SUCCESS_11_01.WAV;Diego;Diego;Bezimienny;Dobra robota! Zaczynasz mi się naprawdę podobać!
-INFO_DIEGO_JOINANALYZE_15_00.WAV;Diego;Bezimienny;hero;Jak tam z moją opinią w Obozie?
+INFO_DIEGO_JOINANALYZE_15_00.WAV;Diego;Bezimienny;Diego;Jak tam z moją opinią w Obozie?
 INFO_DIEGO_JOINANALYZE_11_01.WAV;Diego;Diego;Bezimienny;Rozmawiałem z kilkoma ludźmi...
-INFO_DIEGO_JOINANALYZE_15_02.WAV;Diego;Bezimienny;hero;I?
+INFO_DIEGO_JOINANALYZE_15_02.WAV;Diego;Bezimienny;Diego;I?
 INFO_DIEGO_JOINANALYZE_SCATTY_11_01.WAV;Diego;Diego;Bezimienny;Scatty powiedział mi, że pokonałeś Kirgo.
 INFO_DIEGO_JOINANALYZE_SCATTY_11_02.WAV;Diego;Diego;Bezimienny;Scatty powiedział mi, że pozwoliłeś Kirgo spuścić sobie baty. Chyba nie jest tobą zachwycony.
 INFO_DIEGO_JOINANALYZE_SCATTY_11_03.WAV;Diego;Diego;Bezimienny;Scatty powiedział mi, że nie może się doczekać na twoją walkę z Kirgo.
@@ -4286,26 +4286,26 @@ INFO_DIEGO_POINTS_11_01.WAV;Diego;Diego;Bezimienny;Przeszedłeś również test 
 INFO_DIEGO_POINTS_11_02.WAV;Diego;Diego;Bezimienny;Ale musisz jeszcze przejść test zaufania.
 INFO_DIEGO_POINTS_11_10.WAV;Diego;Diego;Bezimienny;W sumie - całkiem nieźle jak na żółtodzioba.
 INFO_DIEGO_POINTS_11_20.WAV;Diego;Diego;Bezimienny;Bierz się do roboty. Przed tobą jeszcze daleka droga, jeśli chcesz do czegoś dojść w tym obozie.
-INFO_DIEGO_WHATTOSAYTOGOMEZ_INFO_15_00.WAV;Diego;Bezimienny;hero;Co mam zrobić, kiedy stanę przed Gomezem?
+INFO_DIEGO_WHATTOSAYTOGOMEZ_INFO_15_00.WAV;Diego;Bezimienny;Diego;Co mam zrobić, kiedy stanę przed Gomezem?
 INFO_DIEGO_WHATTOSAYTOGOMEZ_INFO_11_01.WAV;Diego;Diego;Bezimienny;Gomez podejmuje decyzje na podstawie instynktu. Jeśli spodoba mu się twoja gęba - pozwoli ci zostać.
 INFO_DIEGO_WHATTOSAYTOGOMEZ_INFO_11_02.WAV;Diego;Diego;Bezimienny;Od tej pory musisz sobie radzić sam - postaraj się! Powodzenia!
-PC_THIEF_ARMOR_INFO_15_01.WAV;Diego;Bezimienny;hero;Mogę dostać taką zbroję jak twoja?
+PC_THIEF_ARMOR_INFO_15_01.WAV;Diego;Bezimienny;Diego;Mogę dostać taką zbroję jak twoja?
 PC_THIEF_ARMOR_INFO_11_02.WAV;Diego;Diego;Bezimienny;A masz dość rudy?
 PC_THIEF_ARMOR_INFO_11_03.WAV;Diego;Diego;Bezimienny;Zdobądź rudę, to dostaniesz zbroję.
 PC_THIEF_MEETAGAIN_INFO_11_00.WAV;Diego;Diego;Bezimienny;Hej! Myślałem, że już nie żyjesz!
-PC_THIEF_MEETAGAIN_INFO_15_01.WAV;Diego;Bezimienny;hero;Parę razy też mi się tak wydawało.
+PC_THIEF_MEETAGAIN_INFO_15_01.WAV;Diego;Bezimienny;Diego;Parę razy też mi się tak wydawało.
 PC_THIEF_MEETAGAIN_INFO_11_02.WAV;Diego;Diego;Bezimienny;Wiele się wydarzyło od naszego ostatniego spotkania. Słyszałem, że miałeś swój wkład w wielkie przywołanie!
-PC_THIEF_MEETAGAIN_INFO_15_03.WAV;Diego;Bezimienny;hero;Widzę, że jesteś świetnie poinformowany.
+PC_THIEF_MEETAGAIN_INFO_15_03.WAV;Diego;Bezimienny;Diego;Widzę, że jesteś świetnie poinformowany.
 PC_THIEF_MEETAGAIN_INFO_11_04.WAV;Diego;Diego;Bezimienny;Lepiej niż myślisz... Teraz szukasz kamienia ogniskującego?
-PC_THIEF_MEETAGAIN_INFO_15_05.WAV;Diego;Bezimienny;hero;Tak. Powinien być gdzieś w pobliżu.
+PC_THIEF_MEETAGAIN_INFO_15_05.WAV;Diego;Bezimienny;Diego;Tak. Powinien być gdzieś w pobliżu.
 PC_THIEF_MEETAGAIN_INFO_11_06.WAV;Diego;Diego;Bezimienny;Wiem, gdzie go można znaleźć. Jest tylko jeden problem.
-PC_THIEF_MEETAGAIN_INFO_15_07.WAV;Diego;Bezimienny;hero;Rozumiem. Czego chcesz?
+PC_THIEF_MEETAGAIN_INFO_15_07.WAV;Diego;Bezimienny;Diego;Rozumiem. Czego chcesz?
 PC_THIEF_MEETAGAIN_INFO_11_08.WAV;Diego;Diego;Bezimienny;Widzę, że szybko się uczysz, ale nie o to mi chodziło.
-PC_THIEF_MEETAGAIN_INFO_15_09.WAV;Diego;Bezimienny;hero;Nie? Więc cóż to za problem?
+PC_THIEF_MEETAGAIN_INFO_15_09.WAV;Diego;Bezimienny;Diego;Nie? Więc cóż to za problem?
 PC_THIEF_MEETAGAIN_INFO_11_10.WAV;Diego;Diego;Bezimienny;O, to całe trzy tony problemów!
 PC_THIEF_MEETAGAIN_INFO_11_11.WAV;Diego;Diego;Bezimienny;Chodźmy. Za chwilę sam zobaczysz.
 PC_THIEF_SHOWFOCUS_INFO_11_01.WAV;Diego;Diego;Bezimienny;Po lewej stronie tego kanionu znajdziesz wejście do jaskini, która prowadzi do kamienia.
-PC_THIEF_SHOWFOCUS_INFO_15_02.WAV;Diego;Bezimienny;hero;Wszystko jasne. Jednak najpierw musimy się jakoś pozbyć tamtego bydlaka.
+PC_THIEF_SHOWFOCUS_INFO_15_02.WAV;Diego;Bezimienny;Diego;Wszystko jasne. Jednak najpierw musimy się jakoś pozbyć tamtego bydlaka.
 PC_THIEF_SHOWFOCUS_INFO_11_03.WAV;Diego;Diego;Bezimienny;Spróbuj znaleźć jakiś jego słaby punkt albo inny sposób na pokonanie tego Trolla.
 PC_THIEF_SHOWFOCUS_INFO_11_04.WAV;Diego;Diego;Bezimienny;Ściągnę na siebie jego uwagę.
 PC_THIEF_AFTERTROLL_INFO_11_01.WAV;Diego;Diego;Bezimienny;To było niesamowite. Niezły jesteś. Teraz możesz iść po kamień ogniskujący.
@@ -4316,53 +4316,53 @@ PC_THIEF_FIXWHEEL_INFO_11_01.WAV;Diego;Diego;Bezimienny;No, teraz powinno dział
 PC_THIEF_WAITATFOCUS_INFO_11_01.WAV;Diego;Diego;Bezimienny;Idź po kamień. Zaczekam na ciebie tutaj!
 PC_THIEF_GOTIT_INFO_11_01.WAV;Diego;Diego;Bezimienny;Widzę, że znalazłeś kamień! Świetnie.
 PC_THIEF_GOTIT_INFO_11_02.WAV;Diego;Diego;Bezimienny;Chyba powinienem znowu zajrzeć do Starego Obozu. Powodzenia!
-PC_THIEF_GOTIT_INFO_15_03.WAV;Diego;Bezimienny;hero;Nie daj się zabić!
+PC_THIEF_GOTIT_INFO_15_03.WAV;Diego;Bezimienny;Diego;Nie daj się zabić!
 PC_THIEF_GOTIT_INFO_11_04.WAV;Diego;Diego;Bezimienny;Jeszcze się zobaczymy.
 INFO_DIEGO_OCWARN_11_01.WAV;Diego;Diego;Bezimienny;Hej... Ciii... Bądź cicho!
-INFO_DIEGO_OCWARN_15_02.WAV;Diego;Bezimienny;hero;Cześć, Diego. Rozmawiałem już z Miltenem po przeciwnej stronie obozu.
+INFO_DIEGO_OCWARN_15_02.WAV;Diego;Bezimienny;Diego;Cześć, Diego. Rozmawiałem już z Miltenem po przeciwnej stronie obozu.
 INFO_DIEGO_OCWARN_11_03.WAV;Diego;Diego;Bezimienny;Dobrze, zatem wiesz już, co się stało.
 INFO_DIEGO_OCWARN_11_04.WAV;Diego;Diego;Bezimienny;A słyszałeś o planowanym ataku na Wolną Kopalnię?
-INFO_DIEGO_OCWARN_15_05.WAV;Diego;Bezimienny;hero;Cześć, Diego. Co ma znaczyć ta cała zabawa w chowanego?
+INFO_DIEGO_OCWARN_15_05.WAV;Diego;Bezimienny;Diego;Cześć, Diego. Co ma znaczyć ta cała zabawa w chowanego?
 INFO_DIEGO_OCWARN_11_06.WAV;Diego;Diego;Bezimienny;Nic nie słyszałeś?
-INFO_DIEGO_OCWARN_15_07.WAV;Diego;Bezimienny;hero;O czym?
+INFO_DIEGO_OCWARN_15_07.WAV;Diego;Bezimienny;Diego;O czym?
 INFO_DIEGO_OCWARN_11_08.WAV;Diego;Diego;Bezimienny;O zawaleniu się Starej Kopalni, zamordowaniu Magów Ognia i planach ataku na Wolną Kopalnię.
-INFO_DIEGO_OCWARN_15_09.WAV;Diego;Bezimienny;hero;CO?! O czym ty mówisz?!
-INFO_DIEGO_OCMINE_15_01.WAV;Diego;Bezimienny;hero;Jak mogło dojść do zawalenia się kopalni?
+INFO_DIEGO_OCWARN_15_09.WAV;Diego;Bezimienny;Diego;CO?! O czym ty mówisz?!
+INFO_DIEGO_OCMINE_15_01.WAV;Diego;Bezimienny;Diego;Jak mogło dojść do zawalenia się kopalni?
 INFO_DIEGO_OCMINE_11_02.WAV;Diego;Diego;Bezimienny;Jeden z Kopaczy, któremu udało się uratować, powiedział, że kopiąc na najniższym poziomie trafili na podziemną rzekę.
 INFO_DIEGO_OCMINE_11_03.WAV;Diego;Diego;Bezimienny;Kiedy woda wdarła się do szybów, popękały podpory i runęła cała górna część.
 INFO_DIEGO_OCMINE_11_04.WAV;Diego;Diego;Bezimienny;Tylko garstce ludzi udało się wydostać na powierzchnię.
-INFO_DIEGO_OCKDF_15_01.WAV;Diego;Bezimienny;hero;Co się stało z Magami Ognia?
+INFO_DIEGO_OCKDF_15_01.WAV;Diego;Bezimienny;Diego;Co się stało z Magami Ognia?
 INFO_DIEGO_OCKDF_11_02.WAV;Diego;Diego;Bezimienny;To długa historia.
-INFO_DIEGO_OCFM_15_01.WAV;Diego;Bezimienny;hero;Napad na Wolną Kopalnię?
+INFO_DIEGO_OCFM_15_01.WAV;Diego;Bezimienny;Diego;Napad na Wolną Kopalnię?
 INFO_DIEGO_OCFM_11_02.WAV;Diego;Diego;Bezimienny;To długa historia.
-INFO_DIEGO_OCSTORY_15_01.WAV;Diego;Bezimienny;hero;Opowiadaj, to nie pierwsza długa historia, której musiałem wysłuchać.
+INFO_DIEGO_OCSTORY_15_01.WAV;Diego;Bezimienny;Diego;Opowiadaj, to nie pierwsza długa historia, której musiałem wysłuchać.
 INFO_DIEGO_OCSTORY_11_02.WAV;Diego;Diego;Bezimienny;No dobra. Na szczęście byłem właśnie w siedzibie Magnatów, kiedy dotarły do nich wieści o zawaleniu się kopalni.
 INFO_DIEGO_OCSTORY_11_03.WAV;Diego;Diego;Bezimienny;Kiedy Gomez dowiedział się o wypadku, oszalał z wściekłości. Wcale mu się nie dziwię - jego autorytet mógł runąć w każdej chwili, razem z kopalnią.
-INFO_DIEGO_OCSTORY_15_04.WAV;Diego;Bezimienny;hero;Jasne. Kto kontroluje rudę, kontroluje całą kolonię!
+INFO_DIEGO_OCSTORY_15_04.WAV;Diego;Bezimienny;Diego;Jasne. Kto kontroluje rudę, kontroluje całą kolonię!
 INFO_DIEGO_OCSTORY_11_05.WAV;Diego;Diego;Bezimienny;No właśnie. Przecież bez stałego napływu rudy, handel ze światem zewnętrznym padnie raz - dwa.
 INFO_DIEGO_OCSTORY_11_06.WAV;Diego;Diego;Bezimienny;Jeśli Gomez nie znajdzie szybko nowego źródła dochodu, ludzie przestaną go słuchać.
-INFO_DIEGO_OCSTORY_15_07.WAV;Diego;Bezimienny;hero;I dlatego postanowił najechać Wolną Kopalnię?
+INFO_DIEGO_OCSTORY_15_07.WAV;Diego;Bezimienny;Diego;I dlatego postanowił najechać Wolną Kopalnię?
 INFO_DIEGO_OCSTORY_11_08.WAV;Diego;Diego;Bezimienny;Cóż, obiektywnie rzecz biorąc, to jedyna szansa Gomeza na zachowanie władzy.
 INFO_DIEGO_OCSTORY_11_09.WAV;Diego;Diego;Bezimienny;Dwie godziny temu dwa tuziny strażników wyruszyły w kierunku Wolnej Kopalni.
-INFO_DIEGO_OCWARNNC_15_01.WAV;Diego;Bezimienny;hero;To szaleństwo! Muszę uprzedzić Nowy Obóz.
+INFO_DIEGO_OCWARNNC_15_01.WAV;Diego;Bezimienny;Diego;To szaleństwo! Muszę uprzedzić Nowy Obóz.
 INFO_DIEGO_OCWARNNC_11_02.WAV;Diego;Diego;Bezimienny;W takim razie lepiej się pospiesz! Strażnicy są już pewnie niedaleko Wolnej Kopalni.
-INFO_DIEGO_OCWARNNC_15_03.WAV;Diego;Bezimienny;hero;Ale przecież nie przedrą się tak łatwo przez obronne fortyfikacje Nowego Obozu!
+INFO_DIEGO_OCWARNNC_15_03.WAV;Diego;Bezimienny;Diego;Ale przecież nie przedrą się tak łatwo przez obronne fortyfikacje Nowego Obozu!
 INFO_DIEGO_OCWARNNC_11_04.WAV;Diego;Diego;Bezimienny;Wcale nie muszą się przez nie przedzierać. Kilka miesięcy temu znaleźliśmy ścieżkę, która prowadzi przez góry wprost do Wolnej Kopalni. Nikt inny nie wie o jej istnieniu.
-INFO_DIEGO_OCGUARDS_15_01.WAV;Diego;Bezimienny;hero;Widziałem Strażników pilnujących zamkniętych bram.
+INFO_DIEGO_OCGUARDS_15_01.WAV;Diego;Bezimienny;Diego;Widziałem Strażników pilnujących zamkniętych bram.
 INFO_DIEGO_OCGUARDS_11_02.WAV;Diego;Diego;Bezimienny;Trzymaj się z dala od nich. Zaatakują każdego, kto spróbuje dostać się do Obozu.
 INFO_DIEGO_OCGUARDS_11_03.WAV;Diego;Diego;Bezimienny;Obawiają się odwetu za napad na Wolną Kopalnię.
-INFO_DIEGO_OCMURDER_15_01.WAV;Diego;Bezimienny;hero;Ale co stało się z Magami Ognia?
+INFO_DIEGO_OCMURDER_15_01.WAV;Diego;Bezimienny;Diego;Ale co stało się z Magami Ognia?
 INFO_DIEGO_OCMURDER_11_02.WAV;Diego;Diego;Bezimienny;Corristo i jego towarzysze byli jedynymi ludźmi w obozie, którzy zachowali zimną krew.
 INFO_DIEGO_OCMURDER_11_03.WAV;Diego;Diego;Bezimienny;Zabronili przeprowadzenia ataku i domagali się pertraktacji z pozostałymi obozami.
-INFO_DIEGO_OCMURDER_15_04.WAV;Diego;Bezimienny;hero;ZABRONILI Gomezowi przeprowadzenia ataku na Wolną Kopalnię?
+INFO_DIEGO_OCMURDER_15_04.WAV;Diego;Bezimienny;Diego;ZABRONILI Gomezowi przeprowadzenia ataku na Wolną Kopalnię?
 INFO_DIEGO_OCMURDER_11_05.WAV;Diego;Diego;Bezimienny;No właśnie. Corristo i jego ludzie byli zbyt zadufani w sobie. Gomez przestał im ufać i kazał ich zdradziecko zamordować.
-INFO_DIEGO_OCRETREAT_15_01.WAV;Diego;Bezimienny;hero;I co teraz zamierzacie zrobić? To znaczy - ty i Milten?
+INFO_DIEGO_OCRETREAT_15_01.WAV;Diego;Bezimienny;Diego;I co teraz zamierzacie zrobić? To znaczy - ty i Milten?
 INFO_DIEGO_OCRETREAT_11_02.WAV;Diego;Diego;Bezimienny;Zostaniemy tu jeszcze przez jakiś czas. Będziemy ostrzegali innych przyjaciół, żeby nie wpadli w łapy Strażników.
 INFO_DIEGO_OCRETREAT_11_03.WAV;Diego;Diego;Bezimienny;Ale mógłbyś coś dla nas zrobić.
-INFO_DIEGO_OCFAVOR_15_01.WAV;Diego;Bezimienny;hero;Nie ma sprawy. O co chodzi?
+INFO_DIEGO_OCFAVOR_15_01.WAV;Diego;Bezimienny;Diego;Nie ma sprawy. O co chodzi?
 INFO_DIEGO_OCFAVOR_11_02.WAV;Diego;Diego;Bezimienny;Znajdź Lestera i Gorna. Muszą się dowiedzieć o tym, co się tutaj wydarzyło.
 INFO_DIEGO_OCFAVOR_11_03.WAV;Diego;Diego;Bezimienny;Powiedz im, że spotkamy się we czwórkę tam gdzie zwykle.
-INFO_DIEGO_OCFAVOR_15_04.WAV;Diego;Bezimienny;hero;Jeśli znajdę ich przed tobą, przekażę im ostrzeżenie i wezwanie na spotkanie.
+INFO_DIEGO_OCFAVOR_15_04.WAV;Diego;Bezimienny;Diego;Jeśli znajdę ich przed tobą, przekażę im ostrzeżenie i wezwanie na spotkanie.
 INFO_DIEGO_OCFAVOR_11_05.WAV;Diego;Diego;Bezimienny;Dzięki, przyjacielu. Widzę, że równy z ciebie gość. Idź już. Jeszcze się kiedyś spotkamy.
 DIA_SENYAN_HELLO_15_00.WAV;Senyan;Bezimienny;Senyan;Przybywasz z Wolnej Kopalni, tak?
 DIA_SENYAN_HELLO_01_01.WAV;Senyan;Senyan;Bezimienny;Tak. Skąd wiesz?
@@ -4422,7 +4422,7 @@ SLD_700_LEE_DAMNPAST_INFO_08_08.WAV;Lee;Lee;Bezimienny;Ale pewnego dnia odzyskam
 SLD_700_LEE_DAMNPAST_INFO_08_09.WAV;Lee;Lee;Bezimienny;Zemszczę się!
 DIA_LEE_FMTAKEN_15_00.WAV;Lee;Bezimienny;Lee;Co myślisz o całej tej sprawie z kopalnią?
 DIA_LEE_FMTAKEN_08_01.WAV;Lee;Lee;Bezimienny;Tym razem posunęli się za daleko. Jeszcze tego pożałują.
-INFO_LEE_NOW_FREEMINEFREE_15_01.WAV;Lee;Bezimienny;hero;Myślę, że zagrożenie już minęło.
+INFO_LEE_NOW_FREEMINEFREE_15_01.WAV;Lee;Bezimienny;Lee;Myślę, że zagrożenie już minęło.
 SLD_700_LEE_CHANGESIDE_INFO_08_02.WAV;Lee;Lee;Bezimienny;Nasz obóz wiele ci zawdzięcza. Przydałby mi się ktoś taki jak ty.
 SLD_700_LEE_CHANGESIDE_INFO_15_01.WAV;Lee;Bezimienny;Lee;Wyrzucono mnie ze Starego Obozu. Chciałbym do was dołączyć.
 SLD_700_LEE_CHANGESIDE_INFO_08_03.WAV;Lee;Lee;Bezimienny;Przejdźmy od razu do rzeczy. Witaj w Nowym Obozie, Najemniku!
@@ -4479,15 +4479,15 @@ SLD_709_CORD_TRAINAGAIN_INFO_14_03.WAV;Cord;Cord;Bezimienny;Musisz wykorzystać 
 SLD_709_CORD_TRAINAGAIN_INFO_14_04.WAV;Cord;Cord;Bezimienny;Wtedy wyprowadź następne cięcie z prawej strony...
 SLD_709_CORD_TRAINAGAIN_INFO_14_05.WAV;Cord;Cord;Bezimienny;I znowu do przodu. Pamiętaj - trening czyni mistrza, więc najlepiej weź się od razu do roboty!
 INFO_SLD_723_FIRSTWARN_11_01.WAV;Najemnik;Najemnik;Bezimienny;STAĆ! Nikt nie przejdzie bez podania hasła.
-INFO_SLD_723_PAROLE_CRONOS_15_01.WAV;Najemnik;Bezimienny;hero;Cronos udzielił mi pozwolenia!
+INFO_SLD_723_PAROLE_CRONOS_15_01.WAV;Najemnik;Bezimienny;Najemnik;Cronos udzielił mi pozwolenia!
 INFO_SLD_723_PAROLE_CRONOS_11_02.WAV;Najemnik;Najemnik;Bezimienny;W takim wypadku podałby ci również hasło. Zejdź mi z oczu, kłamco.
-INFO_SLD_723_PAROLE_FORGOT_15_01.WAV;Najemnik;Bezimienny;hero;Cholera. Chyba zapomniałem...
+INFO_SLD_723_PAROLE_FORGOT_15_01.WAV;Najemnik;Bezimienny;Najemnik;Cholera. Chyba zapomniałem...
 INFO_SLD_723_PAROLE_FORGOT_11_02.WAV;Najemnik;Najemnik;Bezimienny;To wróć, jak tylko sobie przypomnisz i przestań zawracać mi głowę!
-INFO_SLD_723_PAROLE_FALSE1_15_01.WAV;Najemnik;Bezimienny;hero;Hasło brzmi TETRIDANOCH.
+INFO_SLD_723_PAROLE_FALSE1_15_01.WAV;Najemnik;Bezimienny;Najemnik;Hasło brzmi TETRIDANOCH.
 INFO_SLD_723_PAROLE_FALSE1_11_02.WAV;Najemnik;Najemnik;Bezimienny;BŁĄD!
-INFO_SLD_723_PAROLE_FALSE2_15_01.WAV;Najemnik;Bezimienny;hero;Hasło brzmi TERIANTROCH.
+INFO_SLD_723_PAROLE_FALSE2_15_01.WAV;Najemnik;Bezimienny;Najemnik;Hasło brzmi TERIANTROCH.
 INFO_SLD_723_PAROLE_FALSE2_11_02.WAV;Najemnik;Najemnik;Bezimienny;BŁĄD!
-INFO_SLD_723_PAROLE_TRUE_15_01.WAV;Najemnik;Bezimienny;hero;Hasło brzmi TETRIANDOCH.
+INFO_SLD_723_PAROLE_TRUE_15_01.WAV;Najemnik;Bezimienny;Najemnik;Hasło brzmi TETRIANDOCH.
 INFO_SLD_723_PAROLE_TRUE_11_02.WAV;Najemnik;Najemnik;Bezimienny;Zgadza się. Możesz przejść.
 INFO_SLD_723_LASTWARN_11_01.WAV;Najemnik;Najemnik;Bezimienny;Nie będę się powtarzał. ANI KROKU DALEJ!
 DIA_JARVIS_EXIT_08_00.WAV;Jarvis;Jarvis;Bezimienny;Uważaj na siebie!
@@ -4540,15 +4540,15 @@ INFO_KHARIM_CHARGE_INSULT_FACE_09_01.WAV;Kharim;Kharim;Bezimienny;To twoja ostat
 INFO_KHARIM_INARENA_09_00.WAV;Kharim;Kharim;Bezimienny;Ból to tylko kwestia siły woli!
 SVM_9_LETSFORGETOURLITTLEFIGHT.WAV;Inne;Inne;Bezimienny;Może zapomnimy o naszej małej sprzeczce...
 INFO_SLD_732_FIRSTWARN_08_01.WAV;Najemnik;Najemnik;Bezimienny;STAĆ! Nikt nie przejdzie bez podania hasła.
-INFO_SLD_732_PAROLE_CRONOS_15_01.WAV;Najemnik;Bezimienny;hero;Cronos udzielił mi pozwolenia!
+INFO_SLD_732_PAROLE_CRONOS_15_01.WAV;Najemnik;Bezimienny;Najemnik;Cronos udzielił mi pozwolenia!
 INFO_SLD_732_PAROLE_CRONOS_08_02.WAV;Najemnik;Najemnik;Bezimienny;W takim wypadku podałby ci również hasło. Zejdź mi z oczu, kłamco.
-INFO_SLD_732_PAROLE_FORGOT_15_01.WAV;Najemnik;Bezimienny;hero;Cholera. Chyba zapomniałem...
+INFO_SLD_732_PAROLE_FORGOT_15_01.WAV;Najemnik;Bezimienny;Najemnik;Cholera. Chyba zapomniałem...
 INFO_SLD_732_PAROLE_FORGOT_08_02.WAV;Najemnik;Najemnik;Bezimienny;To wróć, jak tylko sobie przypomnisz i przestań zawracać mi głowę!
-INFO_SLD_732_PAROLE_FALSE1_15_01.WAV;Najemnik;Bezimienny;hero;Hasło brzmi TETRIDANOCH.
+INFO_SLD_732_PAROLE_FALSE1_15_01.WAV;Najemnik;Bezimienny;Najemnik;Hasło brzmi TETRIDANOCH.
 INFO_SLD_732_PAROLE_FALSE1_08_02.WAV;Najemnik;Najemnik;Bezimienny;BŁĄD!
-INFO_SLD_732_PAROLE_FALSE2_15_01.WAV;Najemnik;Bezimienny;hero;Hasło brzmi TERIANTROCH.
+INFO_SLD_732_PAROLE_FALSE2_15_01.WAV;Najemnik;Bezimienny;Najemnik;Hasło brzmi TERIANTROCH.
 INFO_SLD_732_PAROLE_FALSE2_08_02.WAV;Najemnik;Najemnik;Bezimienny;BŁĄD!
-INFO_SLD_732_PAROLE_TRUE_15_01.WAV;Najemnik;Bezimienny;hero;Hasło brzmi TETRIANDOCH.
+INFO_SLD_732_PAROLE_TRUE_15_01.WAV;Najemnik;Bezimienny;Najemnik;Hasło brzmi TETRIANDOCH.
 INFO_SLD_732_PAROLE_TRUE_08_02.WAV;Najemnik;Najemnik;Bezimienny;Zgadza się. Możesz przejść.
 INFO_SLD_732_LASTWARN_08_01.WAV;Najemnik;Najemnik;Bezimienny;Nie będę się powtarzał. ANI KROKU DALEJ!
 DIA_TORLOF_HALLO_15_00.WAV;Torlof;Bezimienny;Torlof;Kim jesteś?
@@ -4958,15 +4958,15 @@ TPL_1402_GORNATOTH_GETSTUFF_INFO_11_02.WAV;Gor Na Toth;Gor Na Toth;Bezimienny;To
 TPL_1402_GORNATOTH_GETSTUFF_INFO_11_03.WAV;Gor Na Toth;Gor Na Toth;Bezimienny;Niech ta zbroja chroni cię równie dobrze jak Śniący chroni nasze Bractwo!
 INFO_GORNATOTH_ARMOR_15_01.WAV;Gor Na Toth;Bezimienny;Gor Na Toth;Potrzebuję lepszej zbroi.
 INFO_GORNATOTH_ARMOR_11_02.WAV;Gor Na Toth;Gor Na Toth;Bezimienny;Cóż, mógłbym ci dać lepszą zbroję, ale musiałbyś najpierw przekazać spory datek na rzecz Bractwa.
-INFO_GORNATOTH_ARMOR_M_15_01.WAV;Gor Na Toth;Bezimienny;hero;Potrzebuję wzmocnionej zbroi Strażników Świątynnych.
+INFO_GORNATOTH_ARMOR_M_15_01.WAV;Gor Na Toth;Bezimienny;Gor Na Toth;Potrzebuję wzmocnionej zbroi Strażników Świątynnych.
 INFO_GORNATOTH_ARMOR_M_11_02.WAV;Gor Na Toth;Gor Na Toth;Bezimienny;Nie jesteś wystarczająco doświadczony. Udowodnij swoją przydatność w Straży, a zasłużysz sobie na lepszy pancerz!
 INFO_GORNATOTH_ARMOR_M_11_03.WAV;Gor Na Toth;Gor Na Toth;Bezimienny;Gdy tylko wesprzesz naszą społeczność odpowiednim datkiem, zbroja będzie twoja!
 INFO_GORNATOTH_ARMOR_M_11_04.WAV;Gor Na Toth;Gor Na Toth;Bezimienny;Teraz, gdy jesteś gotów wesprzeć nas swoim hojnym datkiem, możesz odebrać swoją zbroję.
-INFO_GORNATOTH_ARMOR_H_15_01.WAV;Gor Na Toth;Bezimienny;hero;Chciałbym otrzymać ciężką zbroję Straży Świątynnej.
+INFO_GORNATOTH_ARMOR_H_15_01.WAV;Gor Na Toth;Bezimienny;Gor Na Toth;Chciałbym otrzymać ciężką zbroję Straży Świątynnej.
 INFO_GORNATOTH_ARMOR_H_11_02.WAV;Gor Na Toth;Gor Na Toth;Bezimienny;Nie jesteś jeszcze wystarczająco doświadczony. Udowodnij swoją przydatność dla naszej społeczności, a dostąpisz zaszczytu noszenia tak wspaniałego pancerza.
 INFO_GORNATOTH_ARMOR_H_11_03.WAV;Gor Na Toth;Gor Na Toth;Bezimienny;Widzę, że jesteś już gotów, by nosić tę wspaniałą zbroję. Gdybyś tylko miał dość rudy, by wspomóc naszą małą społeczność jakimś hojnym datkiem...
 INFO_GORNATOTH_ARMOR_H_11_04.WAV;Gor Na Toth;Gor Na Toth;Bezimienny;Od tej pory ten wspaniały pancerz będzie dawał świadectwo twego męstwa i poświęcenia.
-INFO_GORNATOTH_ARMOR_BACK_15_01.WAV;Gor Na Toth;Bezimienny;hero;Chyba się jednak rozmyślę.
+INFO_GORNATOTH_ARMOR_BACK_15_01.WAV;Gor Na Toth;Bezimienny;Gor Na Toth;Chyba się jednak rozmyślę.
 INFO_GORNATOTH_ARMOR_BACK_11_02.WAV;Gor Na Toth;Gor Na Toth;Bezimienny;Jak sobie życzysz. Wiesz, gdzie mnie szukać.
 TPL_1402_GORNATOTH_TEACH_15_00.WAV;Gor Na Toth;Bezimienny;Gor Na Toth;Możesz mnie czegoś nauczyć?
 TPL_1402_GORNATOTH_TEACH_11_01.WAV;Gor Na Toth;Gor Na Toth;Bezimienny;Siła i zręczność są równie istotne jak potęga umysłu.
@@ -5103,15 +5103,15 @@ DIA_GORNADRAK_WHATFOR_09_03.WAV;Gor Na Drak;Gor Na Drak;Bezimienny;Przy pomocy t
 DIA_GORNADRAK_PERMANENT_15_00.WAV;Gor Na Drak;Bezimienny;Gor Na Drak;Czy macie już wystarczająco dużo napoju, by przywołać Śniącego?
 DIA_GORNADRAK_PERMANENT_09_01.WAV;Gor Na Drak;Gor Na Drak;Bezimienny;Niestety! Nasi myśliwi polują na pełzacze dniem i nocą, ale wciąż nie mamy dość wydzieliny.
 INFO_TPL_1441_FIRSTWARN_13_01.WAV;Świątynny strażnik;Świątynny strażnik;Bezimienny;STÓJ! Na świątynne wzgórze można wejść tylko za pozwoleniem któregoś z Guru!
-INFO_TPL_1441_FIRSTWARN_CONDITION_YBERION_15_01.WAV;Świątynny strażnik;Bezimienny;hero;Sam Y'Berion udzielił mi pozwolenia.
+INFO_TPL_1441_FIRSTWARN_CONDITION_YBERION_15_01.WAV;Świątynny strażnik;Bezimienny;Świątynny strażnik;Sam Y'Berion udzielił mi pozwolenia.
 INFO_TPL_1441_FIRSTWARN_CONDITION_YBERION_13_02.WAV;Świątynny strażnik;Świątynny strażnik;Bezimienny;Kłamcy łatwo mogą stracić język, więc uważaj co mówisz.
-INFO_TPL_1441_FIRSTWARN_CONDITION_LESTER_15_01.WAV;Świątynny strażnik;Bezimienny;hero;Przysyła mnie Nowicjusz Lester. Chciałbym ofiarować moje usługi Y'Berionowi.
+INFO_TPL_1441_FIRSTWARN_CONDITION_LESTER_15_01.WAV;Świątynny strażnik;Bezimienny;Świątynny strażnik;Przysyła mnie Nowicjusz Lester. Chciałbym ofiarować moje usługi Y'Berionowi.
 INFO_TPL_1441_FIRSTWARN_CONDITION_LESTER_13_02.WAV;Świątynny strażnik;Świątynny strażnik;Bezimienny;Znam Lestera. Można mu zaufać. Możesz przejść.
 INFO_TPL_1441_LASTWARN_13_01.WAV;Świątynny strażnik;Świątynny strażnik;Bezimienny;Jeszcze jeden krok, a będzie po tobie.
 INFO_TPL_1442_FIRSTWARN_13_01.WAV;Świątynny strażnik;Świątynny strażnik;Bezimienny;STÓJ! Na świątynne wzgórze można wejść tylko za pozwoleniem któregoś z Guru!
-INFO_TPL_1442_FIRSTWARN_CONDITION_YBERION_15_01.WAV;Świątynny strażnik;Bezimienny;hero;Sam Y'Berion udzielił mi pozwolenia.
+INFO_TPL_1442_FIRSTWARN_CONDITION_YBERION_15_01.WAV;Świątynny strażnik;Bezimienny;Świątynny strażnik;Sam Y'Berion udzielił mi pozwolenia.
 INFO_TPL_1442_FIRSTWARN_CONDITION_YBERION_13_02.WAV;Świątynny strażnik;Świątynny strażnik;Bezimienny;Kłamcy łatwo mogą stracić język, więc uważaj co mówisz.
-INFO_TPL_1442_FIRSTWARN_CONDITION_LESTER_15_01.WAV;Świątynny strażnik;Bezimienny;hero;Przysyła mnie Nowicjusz Lester. Chciałbym ofiarować moje usługi Y'Berionowi.
+INFO_TPL_1442_FIRSTWARN_CONDITION_LESTER_15_01.WAV;Świątynny strażnik;Bezimienny;Świątynny strażnik;Przysyła mnie Nowicjusz Lester. Chciałbym ofiarować moje usługi Y'Berionowi.
 INFO_TPL_1442_FIRSTWARN_CONDITION_LESTER_13_02.WAV;Świątynny strażnik;Świątynny strażnik;Bezimienny;Znam Lestera. Można mu zaufać. Możesz przejść.
 INFO_TPL_1442_LASTWARN_13_01.WAV;Świątynny strażnik;Świątynny strażnik;Bezimienny;Jeszcze jeden krok, a będzie po tobie.
 INFO_TPL_1455_GORBOBA_08_01.WAV;Gor Boba;Gor Boba;Bezimienny;Odejdź stąd, nie jesteś tu mile widziany.
@@ -5382,7 +5382,7 @@ DIA_GRIM_YOURPDV_06_01.WAV;Grim;Grim;Bezimienny;Tego nie mogę ci powiedzieć. O
 DIA_GRIM_INEXTREMO_06_01.WAV;Grim;Grim;Bezimienny;Hej, słyszałeś już wieści?
 DIA_GRIM_INEXTREMO_06_02.WAV;Grim;Grim;Bezimienny;Są tu In Extremo! Właśnie weszli na scenę!
 DIA_GRIM_INEXTREMO_06_03.WAV;Grim;Grim;Bezimienny;Pospiesz się, albo przegapisz koncert!
-DIA_GRIM_INEXTREMOAWAY_15_01.WAV;Grim;Bezimienny;hero;Gdzie są In Extremo?
+DIA_GRIM_INEXTREMOAWAY_15_01.WAV;Grim;Bezimienny;Grim;Gdzie są In Extremo?
 DIA_GRIM_INEXTREMOAWAY_06_02.WAV;Grim;Grim;Bezimienny;Pojechali dalej. Szkoda. Zdążyłem się przyzwyczaić do imprez pod sceną.
 DIA_SNAF_HELLO_15_00.WAV;Snaf;Bezimienny;Snaf;Jak leci?
 DIA_SNAF_HELLO_01_01.WAV;Snaf;Snaf;Bezimienny;Nienajgorzej! Człowiek, który umie dobrze gotować, ma tutaj wielu przyjaciół!
@@ -5495,34 +5495,34 @@ VLK_587_GARP_ORK_INFO_15_01.WAV;Garp;Bezimienny;Garp;To tu robi ten Ork?
 VLK_587_GARP_ORK_INFO_01_02.WAV;Garp;Garp;Bezimienny;Złapali go nasi strażnicy. Od tej pory pracuje dla nas.
 VLK_587_GARP_ORK_INFO_15_03.WAV;Garp;Bezimienny;Garp;Przecież nie jest nawet skuty łańcuchami. Czemu po prostu nie ucieknie?
 VLK_587_GARP_ORK_INFO_01_04.WAV;Garp;Garp;Bezimienny;Raz spróbował. Strażnicy tak go urządzili, że nie mógł się ruszyć przez parę tygodni. Od tej pory nigdy więcej się nie buntował.
-INFO_SATURAS_EXIT_15_01.WAV;Saturas;Bezimienny;hero;Śmiertelny?... Kto, ja?... Dobrze, już idę!
-INFO_XARDASDEMON_INTRO_15_01.WAV;Xardas;Bezimienny;hero;Zaraz... Kto... Kto to powiedział?
-INFO_XARDASDEMON_INTRO_15_02.WAV;Xardas;Bezimienny;hero;To TY?! Jak... Jak się dostałeś do mojej głowy?
-INFO_XARDASDEMON_INTRO_15_03.WAV;Xardas;Bezimienny;hero;CZYM jesteś? Sługą swego pana?
-INFO_XARDASDEMON_INTRO_15_04.WAV;Xardas;Bezimienny;hero;Wyglądasz mi raczej na stwora z piekła rodem!
-INFO_XARDASDEMON_INTRO_15_05.WAV;Xardas;Bezimienny;hero;Mam być cicho?
-INFO_XARDASDEMON_MASTERWHO_15_01.WAV;Xardas;Bezimienny;hero;Czy imię twego pana nie brzmi przypadkiem XARDAS?
-INFO_XARDASDEMON_MASTERWHO_15_02.WAV;Xardas;Bezimienny;hero;Aha... Więc imiona nie są istotne... W porządku.
-INFO_XARDASDEMON_MASTERWHO_15_03.WAV;Xardas;Bezimienny;hero;Załóżmy, że to JEST wieża Xardasa.
-INFO_XARDASDEMON_MASTERHOW_15_01.WAV;Xardas;Bezimienny;hero;Domagam się widzenia z twoim panem!
-INFO_XARDASDEMON_MASTERHOW_15_02.WAV;Xardas;Bezimienny;hero;...Ja? Niegodny?? ...Jaki znowu sprawdzian?
-INFO_XARDASDEMON_MASTERHOW_15_03.WAV;Xardas;Bezimienny;hero;Ach! Rozumiem... Ktokolwiek zechce rozmawiać z twoim panem, musi najpierw udowodnić, że jest tego godzien!
-INFO_XARDASDEMON_MASTERHOW_15_04.WAV;Xardas;Bezimienny;hero;...Zaraz, co mówiłeś? Dowód? Zwycięstwa nad czym?... Zwycięstwa nad żywiołami?
-INFO_XARDASDEMON_MASTERHOW_15_05.WAV;Xardas;Bezimienny;hero;...Kamień? ...Lód? ...Ogień?
-INFO_XARDASDEMON_NOHEART_15_01.WAV;Xardas;Bezimienny;hero;Mówisz zagadkami!
-INFO_XARDASDEMON_NOHEART_15_02.WAV;Xardas;Bezimienny;hero;... Już to słyszałem. Powtarzasz się!
-INFO_XARDASDEMON_NOHEART_15_03.WAV;Xardas;Bezimienny;hero;... Domagasz się dowodu mojego zwycięstwa nad żywiołami ognia, lodu i ziemi!
-INFO_XARDASDEMON_GIVEHEART_15_01.WAV;Xardas;Bezimienny;hero;Co? A, tak!... Godnego dowodu!
-INFO_XARDASDEMON_GIVEHEART_15_02.WAV;Xardas;Bezimienny;hero;... Brakuje? Brakuje jeszcze dwóch?
-INFO_XARDASDEMON_GIVEHEART_15_03.WAV;Xardas;Bezimienny;hero;... Podwójny? ... Drugi dowód?
-INFO_XARDASDEMON_GIVEHEART_15_04.WAV;Xardas;Bezimienny;hero;... Potrzeba jeszcze jednego?
-INFO_XARDASDEMON_GIVEHEART_15_05.WAV;Xardas;Bezimienny;hero;...Perfekcja?... Jestem godny?
-INFO_XARDASDEMON_GIVEHEART_15_06.WAV;Xardas;Bezimienny;hero;W takim razie domagam się widzenia z twoim panem!
-INFO_XARDASDEMON_GIVEHEART_15_07.WAV;Xardas;Bezimienny;hero;...Kolejny dowód?... Jaki znowu dowód?... Runa?... Runa DLA mnie?
-INFO_XARDASDEMON_GIVEHEART_15_08.WAV;Xardas;Bezimienny;hero;Cóż, w takim razie przyjmuję tę runę teleportacji, jako dowód tego, że okazałem się godny!
-INFO_XARDASDEMON_STONEHEART_15_01.WAV;Xardas;Bezimienny;hero;Oto serce kamiennego golema.
-INFO_XARDASDEMON_ICEHEART_15_01.WAV;Xardas;Bezimienny;hero;Czy to serce lodowego golema jest wystarczającym dowodem?
-INFO_XARDASDEMON_FIREHEART_15_01.WAV;Xardas;Bezimienny;hero;Może być to serce ognistego golema?
+INFO_SATURAS_EXIT_15_01.WAV;Demon ognia;Bezimienny;Demon ognia;Śmiertelny?... Kto, ja?... Dobrze, już idę!
+INFO_XARDASDEMON_INTRO_15_01.WAV;Demon ognia;Bezimienny;Demon ognia;Zaraz... Kto... Kto to powiedział?
+INFO_XARDASDEMON_INTRO_15_02.WAV;Demon ognia;Bezimienny;Demon ognia;To TY?! Jak... Jak się dostałeś do mojej głowy?
+INFO_XARDASDEMON_INTRO_15_03.WAV;Demon ognia;Bezimienny;Demon ognia;CZYM jesteś? Sługą swego pana?
+INFO_XARDASDEMON_INTRO_15_04.WAV;Demon ognia;Bezimienny;Demon ognia;Wyglądasz mi raczej na stwora z piekła rodem!
+INFO_XARDASDEMON_INTRO_15_05.WAV;Demon ognia;Bezimienny;Demon ognia;Mam być cicho?
+INFO_XARDASDEMON_MASTERWHO_15_01.WAV;Demon ognia;Bezimienny;Demon ognia;Czy imię twego pana nie brzmi przypadkiem XARDAS?
+INFO_XARDASDEMON_MASTERWHO_15_02.WAV;Demon ognia;Bezimienny;Demon ognia;Aha... Więc imiona nie są istotne... W porządku.
+INFO_XARDASDEMON_MASTERWHO_15_03.WAV;Demon ognia;Bezimienny;Demon ognia;Załóżmy, że to JEST wieża Xardasa.
+INFO_XARDASDEMON_MASTERHOW_15_01.WAV;Demon ognia;Bezimienny;Demon ognia;Domagam się widzenia z twoim panem!
+INFO_XARDASDEMON_MASTERHOW_15_02.WAV;Demon ognia;Bezimienny;Demon ognia;...Ja? Niegodny?? ...Jaki znowu sprawdzian?
+INFO_XARDASDEMON_MASTERHOW_15_03.WAV;Demon ognia;Bezimienny;Demon ognia;Ach! Rozumiem... Ktokolwiek zechce rozmawiać z twoim panem, musi najpierw udowodnić, że jest tego godzien!
+INFO_XARDASDEMON_MASTERHOW_15_04.WAV;Demon ognia;Bezimienny;Demon ognia;...Zaraz, co mówiłeś? Dowód? Zwycięstwa nad czym?... Zwycięstwa nad żywiołami?
+INFO_XARDASDEMON_MASTERHOW_15_05.WAV;Demon ognia;Bezimienny;Demon ognia;...Kamień? ...Lód? ...Ogień?
+INFO_XARDASDEMON_NOHEART_15_01.WAV;Demon ognia;Bezimienny;Demon ognia;Mówisz zagadkami!
+INFO_XARDASDEMON_NOHEART_15_02.WAV;Demon ognia;Bezimienny;Demon ognia;... Już to słyszałem. Powtarzasz się!
+INFO_XARDASDEMON_NOHEART_15_03.WAV;Demon ognia;Bezimienny;Demon ognia;... Domagasz się dowodu mojego zwycięstwa nad żywiołami ognia, lodu i ziemi!
+INFO_XARDASDEMON_GIVEHEART_15_01.WAV;Demon ognia;Bezimienny;Demon ognia;Co? A, tak!... Godnego dowodu!
+INFO_XARDASDEMON_GIVEHEART_15_02.WAV;Demon ognia;Bezimienny;Demon ognia;... Brakuje? Brakuje jeszcze dwóch?
+INFO_XARDASDEMON_GIVEHEART_15_03.WAV;Demon ognia;Bezimienny;Demon ognia;... Podwójny? ... Drugi dowód?
+INFO_XARDASDEMON_GIVEHEART_15_04.WAV;Demon ognia;Bezimienny;Demon ognia;... Potrzeba jeszcze jednego?
+INFO_XARDASDEMON_GIVEHEART_15_05.WAV;Demon ognia;Bezimienny;Demon ognia;...Perfekcja?... Jestem godny?
+INFO_XARDASDEMON_GIVEHEART_15_06.WAV;Demon ognia;Bezimienny;Demon ognia;W takim razie domagam się widzenia z twoim panem!
+INFO_XARDASDEMON_GIVEHEART_15_07.WAV;Demon ognia;Bezimienny;Demon ognia;...Kolejny dowód?... Jaki znowu dowód?... Runa?... Runa DLA mnie?
+INFO_XARDASDEMON_GIVEHEART_15_08.WAV;Demon ognia;Bezimienny;Demon ognia;Cóż, w takim razie przyjmuję tę runę teleportacji, jako dowód tego, że okazałem się godny!
+INFO_XARDASDEMON_STONEHEART_15_01.WAV;Demon ognia;Bezimienny;Demon ognia;Oto serce kamiennego golema.
+INFO_XARDASDEMON_ICEHEART_15_01.WAV;Demon ognia;Bezimienny;Demon ognia;Czy to serce lodowego golema jest wystarczającym dowodem?
+INFO_XARDASDEMON_FIREHEART_15_01.WAV;Demon ognia;Bezimienny;Demon ognia;Może być to serce ognistego golema?
 GLOBAL_001_07_00.WAV;Inne;Inne;Bezimienny;*MISSING TEXT*
 GLOBAL_001_07_01.WAV;Inne;Inne;Bezimienny;*MISSING TEXT*
 GLOBAL_001_07_02.WAV;Inne;Inne;Bezimienny;*MISSING TEXT*
