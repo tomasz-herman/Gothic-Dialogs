@@ -5495,34 +5495,34 @@ VLK_587_GARP_ORK_INFO_15_01.WAV;15;50;22;50;To tu robi ten Ork?
 VLK_587_GARP_ORK_INFO_01_02.WAV;1;50;50;22;Złapali go nasi strażnicy. Od tej pory pracuje dla nas.
 VLK_587_GARP_ORK_INFO_15_03.WAV;15;50;22;50;Przecież nie jest nawet skuty łańcuchami. Czemu po prostu nie ucieknie?
 VLK_587_GARP_ORK_INFO_01_04.WAV;1;50;50;22;Raz spróbował. Strażnicy tak go urządzili, że nie mógł się ruszyć przez parę tygodni. Od tej pory nigdy więcej się nie buntował.
-INFO_SATURAS_EXIT_15_01.WAV;15;-1;22;-1;Śmiertelny?... Kto, ja?... Dobrze, już idę!
-INFO_XARDASDEMON_INTRO_15_01.WAV;15;-1;22;-1;Zaraz... Kto... Kto to powiedział?
-INFO_XARDASDEMON_INTRO_15_02.WAV;15;-1;22;-1;To TY?! Jak... Jak się dostałeś do mojej głowy?
-INFO_XARDASDEMON_INTRO_15_03.WAV;15;-1;22;-1;CZYM jesteś? Sługą swego pana?
-INFO_XARDASDEMON_INTRO_15_04.WAV;15;-1;22;-1;Wyglądasz mi raczej na stwora z piekła rodem!
-INFO_XARDASDEMON_INTRO_15_05.WAV;15;-1;22;-1;Mam być cicho?
-INFO_XARDASDEMON_MASTERWHO_15_01.WAV;15;-1;22;-1;Czy imię twego pana nie brzmi przypadkiem XARDAS?
-INFO_XARDASDEMON_MASTERWHO_15_02.WAV;15;-1;22;-1;Aha... Więc imiona nie są istotne... W porządku.
-INFO_XARDASDEMON_MASTERWHO_15_03.WAV;15;-1;22;-1;Załóżmy, że to JEST wieża Xardasa.
-INFO_XARDASDEMON_MASTERHOW_15_01.WAV;15;-1;22;-1;Domagam się widzenia z twoim panem!
-INFO_XARDASDEMON_MASTERHOW_15_02.WAV;15;-1;22;-1;...Ja? Niegodny?? ...Jaki znowu sprawdzian?
-INFO_XARDASDEMON_MASTERHOW_15_03.WAV;15;-1;22;-1;Ach! Rozumiem... Ktokolwiek zechce rozmawiać z twoim panem, musi najpierw udowodnić, że jest tego godzien!
-INFO_XARDASDEMON_MASTERHOW_15_04.WAV;15;-1;22;-1;...Zaraz, co mówiłeś? Dowód? Zwycięstwa nad czym?... Zwycięstwa nad żywiołami?
-INFO_XARDASDEMON_MASTERHOW_15_05.WAV;15;-1;22;-1;...Kamień? ...Lód? ...Ogień?
-INFO_XARDASDEMON_NOHEART_15_01.WAV;15;-1;22;-1;Mówisz zagadkami!
-INFO_XARDASDEMON_NOHEART_15_02.WAV;15;-1;22;-1;... Już to słyszałem. Powtarzasz się!
-INFO_XARDASDEMON_NOHEART_15_03.WAV;15;-1;22;-1;... Domagasz się dowodu mojego zwycięstwa nad żywiołami ognia, lodu i ziemi!
-INFO_XARDASDEMON_GIVEHEART_15_01.WAV;15;-1;22;-1;Co? A, tak!... Godnego dowodu!
-INFO_XARDASDEMON_GIVEHEART_15_02.WAV;15;-1;22;-1;... Brakuje? Brakuje jeszcze dwóch?
-INFO_XARDASDEMON_GIVEHEART_15_03.WAV;15;-1;22;-1;... Podwójny? ... Drugi dowód?
-INFO_XARDASDEMON_GIVEHEART_15_04.WAV;15;-1;22;-1;... Potrzeba jeszcze jednego?
-INFO_XARDASDEMON_GIVEHEART_15_05.WAV;15;-1;22;-1;...Perfekcja?... Jestem godny?
-INFO_XARDASDEMON_GIVEHEART_15_06.WAV;15;-1;22;-1;W takim razie domagam się widzenia z twoim panem!
-INFO_XARDASDEMON_GIVEHEART_15_07.WAV;15;-1;22;-1;...Kolejny dowód?... Jaki znowu dowód?... Runa?... Runa DLA mnie?
-INFO_XARDASDEMON_GIVEHEART_15_08.WAV;15;-1;22;-1;Cóż, w takim razie przyjmuję tę runę teleportacji, jako dowód tego, że okazałem się godny!
-INFO_XARDASDEMON_STONEHEART_15_01.WAV;15;-1;22;-1;Oto serce kamiennego golema.
-INFO_XARDASDEMON_ICEHEART_15_01.WAV;15;-1;22;-1;Czy to serce lodowego golema jest wystarczającym dowodem?
-INFO_XARDASDEMON_FIREHEART_15_01.WAV;15;-1;22;-1;Może być to serce ognistego golema?
+INFO_SATURAS_EXIT_15_01.WAV;15;161;22;161;Śmiertelny?... Kto, ja?... Dobrze, już idę!
+INFO_XARDASDEMON_INTRO_15_01.WAV;15;161;22;161;Zaraz... Kto... Kto to powiedział?
+INFO_XARDASDEMON_INTRO_15_02.WAV;15;161;22;161;To TY?! Jak... Jak się dostałeś do mojej głowy?
+INFO_XARDASDEMON_INTRO_15_03.WAV;15;161;22;161;CZYM jesteś? Sługą swego pana?
+INFO_XARDASDEMON_INTRO_15_04.WAV;15;161;22;161;Wyglądasz mi raczej na stwora z piekła rodem!
+INFO_XARDASDEMON_INTRO_15_05.WAV;15;161;22;161;Mam być cicho?
+INFO_XARDASDEMON_MASTERWHO_15_01.WAV;15;161;22;161;Czy imię twego pana nie brzmi przypadkiem XARDAS?
+INFO_XARDASDEMON_MASTERWHO_15_02.WAV;15;161;22;161;Aha... Więc imiona nie są istotne... W porządku.
+INFO_XARDASDEMON_MASTERWHO_15_03.WAV;15;161;22;161;Załóżmy, że to JEST wieża Xardasa.
+INFO_XARDASDEMON_MASTERHOW_15_01.WAV;15;161;22;161;Domagam się widzenia z twoim panem!
+INFO_XARDASDEMON_MASTERHOW_15_02.WAV;15;161;22;161;...Ja? Niegodny?? ...Jaki znowu sprawdzian?
+INFO_XARDASDEMON_MASTERHOW_15_03.WAV;15;161;22;161;Ach! Rozumiem... Ktokolwiek zechce rozmawiać z twoim panem, musi najpierw udowodnić, że jest tego godzien!
+INFO_XARDASDEMON_MASTERHOW_15_04.WAV;15;161;22;161;...Zaraz, co mówiłeś? Dowód? Zwycięstwa nad czym?... Zwycięstwa nad żywiołami?
+INFO_XARDASDEMON_MASTERHOW_15_05.WAV;15;161;22;161;...Kamień? ...Lód? ...Ogień?
+INFO_XARDASDEMON_NOHEART_15_01.WAV;15;161;22;161;Mówisz zagadkami!
+INFO_XARDASDEMON_NOHEART_15_02.WAV;15;161;22;161;... Już to słyszałem. Powtarzasz się!
+INFO_XARDASDEMON_NOHEART_15_03.WAV;15;161;22;161;... Domagasz się dowodu mojego zwycięstwa nad żywiołami ognia, lodu i ziemi!
+INFO_XARDASDEMON_GIVEHEART_15_01.WAV;15;161;22;161;Co? A, tak!... Godnego dowodu!
+INFO_XARDASDEMON_GIVEHEART_15_02.WAV;15;161;22;161;... Brakuje? Brakuje jeszcze dwóch?
+INFO_XARDASDEMON_GIVEHEART_15_03.WAV;15;161;22;161;... Podwójny? ... Drugi dowód?
+INFO_XARDASDEMON_GIVEHEART_15_04.WAV;15;161;22;161;... Potrzeba jeszcze jednego?
+INFO_XARDASDEMON_GIVEHEART_15_05.WAV;15;161;22;161;...Perfekcja?... Jestem godny?
+INFO_XARDASDEMON_GIVEHEART_15_06.WAV;15;161;22;161;W takim razie domagam się widzenia z twoim panem!
+INFO_XARDASDEMON_GIVEHEART_15_07.WAV;15;161;22;161;...Kolejny dowód?... Jaki znowu dowód?... Runa?... Runa DLA mnie?
+INFO_XARDASDEMON_GIVEHEART_15_08.WAV;15;161;22;161;Cóż, w takim razie przyjmuję tę runę teleportacji, jako dowód tego, że okazałem się godny!
+INFO_XARDASDEMON_STONEHEART_15_01.WAV;15;161;22;161;Oto serce kamiennego golema.
+INFO_XARDASDEMON_ICEHEART_15_01.WAV;15;161;22;161;Czy to serce lodowego golema jest wystarczającym dowodem?
+INFO_XARDASDEMON_FIREHEART_15_01.WAV;15;161;22;161;Może być to serce ognistego golema?
 GLOBAL_001_07_00.WAV;7;76;76;22;*MISSING TEXT*
 GLOBAL_001_07_01.WAV;7;76;76;22;*MISSING TEXT*
 GLOBAL_001_07_02.WAV;7;76;76;22;*MISSING TEXT*

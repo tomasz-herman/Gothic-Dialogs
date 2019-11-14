@@ -159,3 +159,4 @@ character.id<-key:character.name
 158;Zły
 159;Świstak
 160;Świątynny strażnik
+161;Demon ognia
