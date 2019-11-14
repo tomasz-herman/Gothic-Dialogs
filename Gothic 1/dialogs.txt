@@ -1123,7 +1123,7 @@ DIA_GRD_218_FIRSTIN_07_04.WAV;Strażnik;Strażnik;Bezimienny;Zapytam. Jeśli ł�
 DIA_GRD_218_FIRSTIN_15_05.WAV;Strażnik;Bezimienny;Strażnik;Czy to znaczy, że mogę wejść?
 DIA_GRD_218_FIRSTIN_07_06.WAV;Strażnik;Strażnik;Bezimienny;Tak! Rusz się wreszcie!
 INFO_GRD_218_FIRSTWARN_INFO_07_01.WAV;Strażnik;Strażnik;Bezimienny;STÓJ! Ani kroku dalej!
-INFO_GRD_218_FIRSTWARN_INFO_15_02.WAV;Strażnik;Bezimienny;Strażnik bramy;Dlaczego?
+INFO_GRD_218_FIRSTWARN_INFO_15_02.WAV;Strażnik;Bezimienny;Strażnik;Dlaczego?
 INFO_GRD_218_FIRSTWARN_INFO_07_03.WAV;Strażnik;Strażnik;Bezimienny;Takie łachudry jak ty nie mają wstępu do siedziby Magnatów!
 DIA_STONE_HELLO_15_00.WAV;Stone;Bezimienny;Stone;Jesteś kowalem, czyż nie?
 DIA_STONE_HELLO_06_01.WAV;Stone;Stone;Bezimienny;Racja.
