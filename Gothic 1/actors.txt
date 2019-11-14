@@ -1,4 +1,4 @@
-actor.id;actor.name;actor.surname
+actor.id<-key;actor.name;actor.surname
 1;Łukasz;Nowicki
 2;Paweł;Iwanicki
 3;Jacek;Sołtysiak
