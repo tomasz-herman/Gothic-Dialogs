@@ -15,7 +15,7 @@ actor.id<-key;actor.name;actor.surname
 14;Tomasz;Marzecki
 15;Jacek;Mikołajczak
 16;Kinga;Ilgner
-17;Agata;Gawrońska-Bauman 
+17;Agata;Gawrońska-Bauman
 18;Mirosław;Zbrojewicz
 19;Actor;Seekers
 20;Actor;Dragons
