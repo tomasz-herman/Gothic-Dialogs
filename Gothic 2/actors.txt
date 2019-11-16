@@ -17,4 +17,5 @@ actor.id<-key;actor.name;actor.surname
 16;Kinga;Ilgner
 17;Agata;Gawrońska-Bauman 
 18;Mirosław;Zbrojewicz
-19;-;-
+19;Actor;Seekers
+20;Actor;Dragons
