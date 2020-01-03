@@ -1811,7 +1811,7 @@ INFO_BAALNAMIB_BROTHERHOOD_YBWAS_02_05.WAV;2;11;11;22;Gdyby było łatwe, już d
 INFO_BAALNAMIB_BROTHERHOOD_OK_15_01.WAV;15;11;22;11;W porządku. Zajrzę do niego natychmiast.
 INFO_BAALNAMIB_BROTHERHOOD_OK_02_02.WAV;2;11;11;22;Niech Śniący będzie z tobą!
 DIA_BAALCADAR_NOTALK_HI_15_00.WAV;15;7;22;7;Cześć! Jestem tu nowy!
-DIA_BAALCADAR_NOTALK_HI_02_01.WAV;2;7;7;22;
+DIA_BAALCADAR_NOTALK_HI_02_01.WAV;2;7;7;22;Ahhh...
 DIA_BAALCADAR_NOTALK_SLEEPER_15_00.WAV;15;7;22;7;Niech Śniący będzie z tobą!
 DIA_BAALCADAR_NOTALK_SLEEPER_02_01.WAV;2;7;7;22;(Wzdycha)
 DIA_BAALCADAR_NOTALK_IMP_15_00.WAV;15;7;22;7;Wszystko w porządku, kolego?
@@ -2893,7 +2893,7 @@ DIA_BAALKAGAN_SUCCESS_ERZ_15_00.WAV;15;9;22;9;Wezmę 100 bryłek rudy.
 DIA_BAALKAGAN_SUCCESS_ERZ_13_01.WAV;13;9;9;22;Proszę bardzo.
 DIA_BAALKAGAN_SUCCESS_TAKESCROLLS_15_00.WAV;15;9;22;9;Wezmę te zwoje z zaklęciami.
 DIA_BAALKAGAN_SUCCESS_TAKESCROLLS_13_01.WAV;13;9;9;22;Mądra decyzja. Wybierz trzy.
-DIA_BAALKAGAN_SUCCESS_TAKESCROLLS_DREI_13_00.WAV;13;9;9;22;
+DIA_BAALKAGAN_SUCCESS_TAKESCROLLS_DREI_13_00.WAV;13;9;9;22;To już trzy. Wykorzystaj je rozsądnie.
 DIA_BAALISIDRO_HELLO_15_00.WAV;15;8;22;8;Nie wyglądasz mi na zbyt zadowolonego.
 DIA_BAALISIDRO_HELLO_03_01.WAV;3;8;8;22;Bo nie jestem!
 DIA_BAALISIDRO_HELLO_03_02.WAV;3;8;8;22;Muszę się pozbyć dużego ładunku ziela.
@@ -3570,8 +3570,8 @@ ORG_859_AIDAN_CREATURES_TAUGHTALL_13_00.WAV;13;2;2;22;Nauczyłem cię już wszys
 ORG_859_AIDAN_CREATURES_ZAHN_15_00.WAV;15;2;22;2;Jak mogę zdobyć kły upolowanej zwierzyny?
 ORG_859_AIDAN_CREATURES_ZAHN_13_01.WAV;13;2;2;22;Przede wszystkim musisz uważać, żeby kły nie popękały podczas wyciągania. W tym celu wbij nóż w pobliżu środka zęba i delikatnie go podważaj.
 ORG_859_AIDAN_CREATURES_ZAHN_13_02.WAV;13;2;2;22;Warto zabierać kły wilków, cieniostworów i zębaczy
-ORG_859_AIDAN_CREATURES_KEINE_LP_13_00.WAV;13;2;2;22;
-ORG_859_AIDAN_CREATURES_KEIN_ERZ_13_00.WAV;13;2;2;22;
+ORG_859_AIDAN_CREATURES_KEINE_LP_13_00.WAV;13;2;2;22;Musisz najpierw zdobyć trochę więcej doświadczenia, inaczej moja wiedza będzie bezużyteczna.
+ORG_859_AIDAN_CREATURES_KEIN_ERZ_13_00.WAV;13;2;2;22;Najpierw chcę zobaczyć trochę rudy. W tej koloni nie ma nic za darmo.
 ORG_859_AIDAN_CREATURES_FELL_15_00.WAV;15;2;22;2;Jak mogę zdobyć skóry upolowanej zwierzyny?
 ORG_859_AIDAN_CREATURES_FELL_13_01.WAV;13;2;2;22;Zaczynaj skórowanie od zadu, przesuwając się stopniowo ku głowie. Spróbuj kilka razy. To nie jest takie trudne, a futra potrafią być bardzo cenne!
 ORG_859_AIDAN_CREATURES_FELL_13_02.WAV;13;2;2;22;Futra wilków i cieniostworów można wykorzystać do szycia odzieży. Badając futro zabitego zwierza łatwo ocenisz, czy nadaje się do dalszego wykorzystania.
